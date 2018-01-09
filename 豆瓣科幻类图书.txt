@@ -1,0 +1,982 @@
+{"书名": "三体", "作者": "刘慈欣", "评分": "8.8", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "你一生的故事", "作者": "[美] 特德·姜", "评分": "8.6", "url": "https://book.douban.com/subject/26295448/"}
+{"书名": "永恒的终结", "作者": "[美] 艾萨克·阿西莫夫", "评分": "9.0", "url": "https://book.douban.com/subject/25829693/"}
+{"书名": "三体Ⅲ", "作者": "刘慈欣", "评分": "9.2", "url": "https://book.douban.com/subject/5363767/"}
+{"书名": "三体Ⅱ", "作者": "刘慈欣", "评分": "9.3", "url": "https://book.douban.com/subject/3066477/"}
+{"书名": "银河系漫游指南", "作者": "[英] 道格拉斯·亚当斯", "评分": "8.8", "url": "https://book.douban.com/subject/1394364/"}
+{"书名": "献给阿尔吉侬的花束", "作者": "[美] 丹尼尔·凯斯", "评分": "8.9", "url": "https://book.douban.com/subject/1442869/"}
+{"书名": "基地", "作者": "[美] 艾萨克·阿西莫夫", "评分": "9.2", "url": "https://book.douban.com/subject/1258490/"}
+{"书名": "火星救援", "作者": "[美] 安迪·威尔", "评分": "8.9", "url": "https://book.douban.com/subject/26586492/"}
+{"书名": "来自新世界 （上下）", "作者": "[日] 贵志祐介", "评分": "9.1", "url": "https://book.douban.com/subject/25752955/"}
+{"书名": "沙丘", "作者": "[美] 弗兰克·赫伯特", "评分": "8.7", "url": "https://book.douban.com/subject/1481311/"}
+{"书名": "海伯利安", "作者": "[美] 丹·西蒙斯", "评分": "9.0", "url": "https://book.douban.com/subject/2052049/"}
+{"书名": "神们自己", "作者": "[美] 艾萨克·阿西莫夫", "评分": "8.4", "url": "https://book.douban.com/subject/26264967/"}
+{"书名": "神经漫游者", "作者": "[美] 威廉·吉布森", "评分": "8.1", "url": "https://book.douban.com/subject/24107596/"}
+{"书名": "华氏451", "作者": "（美）雷·布雷德伯利", "评分": "8.1", "url": "https://book.douban.com/subject/1321790/"}
+{"书名": "球状闪电", "作者": "刘慈欣", "评分": "8.7", "url": "https://book.douban.com/subject/1192090/"}
+{"书名": "封闭式车库", "作者": "[法] 墨比斯 编绘", "评分": "8.4", "url": "https://book.douban.com/subject/26963322/"}
+{"书名": "摩天楼", "作者": "[英] J.G.巴拉德", "评分": "8.1", "url": "https://book.douban.com/subject/26819481/"}
+{"书名": "三体全集", "作者": "刘慈欣", "评分": "9.3", "url": "https://book.douban.com/subject/6518605/"}
+{"书名": "索拉里斯星", "作者": "[波] 斯坦尼斯拉夫·莱姆", "评分": "8.8", "url": "https://book.douban.com/subject/1440243/"}
+{"书名": "三体", "作者": "刘慈欣", "评分": "8.8", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "你一生的故事", "作者": "[美] 特德·姜", "评分": "8.6", "url": "https://book.douban.com/subject/26295448/"}
+{"书名": "永恒的终结", "作者": "[美] 艾萨克·阿西莫夫", "评分": "9.0", "url": "https://book.douban.com/subject/25829693/"}
+{"书名": "三体Ⅲ", "作者": "刘慈欣", "评分": "9.2", "url": "https://book.douban.com/subject/5363767/"}
+{"书名": "三体Ⅱ", "作者": "刘慈欣", "评分": "9.3", "url": "https://book.douban.com/subject/3066477/"}
+{"书名": "银河系漫游指南", "作者": "[英] 道格拉斯·亚当斯", "评分": "8.8", "url": "https://book.douban.com/subject/1394364/"}
+{"书名": "献给阿尔吉侬的花束", "作者": "[美] 丹尼尔·凯斯", "评分": "8.9", "url": "https://book.douban.com/subject/1442869/"}
+{"书名": "基地", "作者": "[美] 艾萨克·阿西莫夫", "评分": "9.2", "url": "https://book.douban.com/subject/1258490/"}
+{"书名": "火星救援", "作者": "[美] 安迪·威尔", "评分": "8.9", "url": "https://book.douban.com/subject/26586492/"}
+{"书名": "来自新世界 （上下）", "作者": "[日] 贵志祐介", "评分": "9.1", "url": "https://book.douban.com/subject/25752955/"}
+{"书名": "沙丘", "作者": "[美] 弗兰克·赫伯特", "评分": "8.7", "url": "https://book.douban.com/subject/1481311/"}
+{"书名": "海伯利安", "作者": "[美] 丹·西蒙斯", "评分": "9.0", "url": "https://book.douban.com/subject/2052049/"}
+{"书名": "神们自己", "作者": "[美] 艾萨克·阿西莫夫", "评分": "8.4", "url": "https://book.douban.com/subject/26264967/"}
+{"书名": "神经漫游者", "作者": "[美] 威廉·吉布森", "评分": "8.1", "url": "https://book.douban.com/subject/24107596/"}
+{"书名": "华氏451", "作者": "（美）雷·布雷德伯利", "评分": "8.1", "url": "https://book.douban.com/subject/1321790/"}
+{"书名": "球状闪电", "作者": "刘慈欣", "评分": "8.7", "url": "https://book.douban.com/subject/1192090/"}
+{"书名": "封闭式车库", "作者": "[法] 墨比斯 编绘", "评分": "8.4", "url": "https://book.douban.com/subject/26963322/"}
+{"书名": "摩天楼", "作者": "[英] J.G.巴拉德", "评分": "8.1", "url": "https://book.douban.com/subject/26819481/"}
+{"书名": "三体全集", "作者": "刘慈欣", "评分": "9.3", "url": "https://book.douban.com/subject/6518605/"}
+{"书名": "索拉里斯星", "作者": "[波] 斯坦尼斯拉夫·莱姆", "评分": "8.8", "url": "https://book.douban.com/subject/1440243/"}
+{"书名": "软件体的生命周期", "作者": "[美] 特德·姜", "评分": "8.7", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "仿生人会梦见电子羊吗？", "作者": "(美)菲利普·迪克", "评分": "8.7", "url": "https://book.douban.com/subject/24715686/"}
+{"书名": "少数派报告", "作者": "(美)菲利普·迪克", "评分": "9.0", "url": "https://book.douban.com/subject/24715669/"}
+{"书名": "深渊上的火", "作者": "[美] 弗诺·文奇", "评分": "8.9", "url": "https://book.douban.com/subject/1146267/"}
+{"书名": "2001太空漫游", "作者": "[英] 阿瑟·克拉克", "评分": "9.1", "url": "https://book.douban.com/subject/2340609/"}
+{"书名": "宇宙尽头的餐馆", "作者": "[英] 道格拉斯·亚当斯", "评分": "8.7", "url": "https://book.douban.com/subject/10488563/"}
+{"书名": "美国众神", "作者": "[英] 尼尔·盖曼", "评分": "8.0", "url": "https://book.douban.com/subject/1939182/"}
+{"书名": "神的九十亿个名字", "作者": "[英] 阿瑟·克拉克", "评分": "8.4", "url": "https://book.douban.com/subject/20470849/"}
+{"书名": "大师的盛宴", "作者": "奥森·斯科特·卡德 编", "评分": "8.9", "url": "https://book.douban.com/subject/11511232/"}
+{"书名": "银河英雄传说", "作者": "[日] 田中芳树", "评分": "9.3", "url": "https://book.douban.com/subject/1418999/"}
+{"书名": "无根之木", "作者": "[美] 娜奥米·诺维克", "评分": "8.1", "url": "https://book.douban.com/subject/26956486/"}
+{"书名": "云图", "作者": "(英) 大卫·米切尔", "评分": "8.3", "url": "https://book.douban.com/subject/4202422/"}
+{"书名": "“太空漫游”四部曲", "作者": "[英]阿瑟·克拉克", "评分": "9.1", "url": "https://book.douban.com/subject/20279665/"}
+{"书名": "艾比斯之梦", "作者": "[日] 山本弘", "评分": "8.7", "url": "https://book.douban.com/subject/24538715/"}
+{"书名": "看海的人", "作者": "[日] 小林泰三", "评分": "8.3", "url": "https://book.douban.com/subject/26280924/"}
+{"书名": "全息玫瑰碎片", "作者": "[加]威廉·吉布森", "评分": "8.4", "url": "https://book.douban.com/subject/25808977/"}
+{"书名": "海底两万里", "作者": "[法国] 儒尔·凡尔纳", "评分": "8.4", "url": "https://book.douban.com/subject/1085470/"}
+{"书名": "流浪地球", "作者": "刘慈欣", "评分": "8.8", "url": "https://book.douban.com/subject/3266609/"}
+{"书名": "安德的游戏", "作者": "（美）奥森·斯科特·卡德", "评分": "8.7", "url": "https://book.douban.com/subject/1140727/"}
+{"书名": "银河帝国：基地七部曲", "作者": "[美] 艾萨克·阿西莫夫", "评分": "9.5", "url": "https://book.douban.com/subject/26389895/"}
+{"书名": "机器人短篇全集（上下）", "作者": "（美）艾萨克·阿西莫夫", "评分": "9.2", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "天渊", "作者": "[美] 弗诺·文奇", "评分": "9.0", "url": "https://book.douban.com/subject/1399992/"}
+{"书名": "黑暗的左手", "作者": "（美）厄休拉•勒古恩", "评分": "8.4", "url": "https://book.douban.com/subject/3816883/"}
+{"书名": "安德的游戏·三部曲", "作者": "[美] 奥森·斯科特·卡德", "评分": "8.8", "url": "https://book.douban.com/subject/26779789/"}
+{"书名": "人类灭绝", "作者": "[日] 高野和明", "评分": "8.3", "url": "https://book.douban.com/subject/26046043/"}
+{"书名": "时间移民", "作者": "刘慈欣", "评分": "8.4", "url": "https://book.douban.com/subject/26210607/"}
+{"书名": "趁生命气息逗留", "作者": "(美)罗杰·泽拉兹尼", "评分": "8.9", "url": "https://book.douban.com/subject/4903437/"}
+{"书名": "百亿之昼、千亿之夜", "作者": "[日] 光濑龙", "评分": "7.6", "url": "https://book.douban.com/subject/26940524/"}
+{"书名": "盲视", "作者": "[加] 彼得·沃茨", "评分": "8.7", "url": "https://book.douban.com/subject/10608453/"}
+{"书名": "火星编年史", "作者": "（美）雷·布拉德伯里", "评分": "8.8", "url": "https://book.douban.com/subject/3290026/"}
+{"书名": "与拉玛相会", "作者": "[英] 阿瑟·C. 克拉克", "评分": "8.8", "url": "https://book.douban.com/subject/6744648/"}
+{"书名": "奇爱博士", "作者": "[英] 彼得·乔治", "评分": "8.4", "url": "https://book.douban.com/subject/26791409/"}
+{"书名": "真名实姓", "作者": "[美] 弗诺·文奇 等", "评分": "8.7", "url": "https://book.douban.com/subject/1772786/"}
+{"书名": "时间回旋", "作者": "[加] 罗伯特·查尔斯·威尔森", "评分": "8.4", "url": "https://book.douban.com/subject/3041463/"}
+{"书名": "童年的终结", "作者": "阿瑟·克拉克", "评分": "8.5", "url": "https://book.douban.com/subject/1865765/"}
+{"书名": "异形全书", "作者": "[英]马克·索尔兹伯里", "评分": "9.5", "url": "https://book.douban.com/subject/27014525/"}
+{"书名": "生命，宇宙以及一切", "作者": "(英)道格拉斯·亚当斯", "评分": "8.5", "url": "https://book.douban.com/subject/19938026/"}
+{"书名": "机器人大师", "作者": "(波兰)斯坦尼斯拉夫·莱姆", "评分": "9.0", "url": "https://book.douban.com/subject/25978738/"}
+{"书名": "光明王", "作者": "[美] 罗杰·泽拉兹尼", "评分": "8.7", "url": "https://book.douban.com/subject/3198422/"}
+{"书名": "家族八景", "作者": "[日] 筒井康隆", "评分": "7.6", "url": "https://book.douban.com/subject/27017794/"}
+{"书名": "机器人间", "作者": "阿缺", "评分": "8.6", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "一无所有", "作者": "[美]厄休拉·勒古恩、Ursula K. Le Guin", "评分": "8.9", "url": "https://book.douban.com/subject/3747044/"}
+{"书名": "赡养人类", "作者": "刘慈欣", "评分": "8.4", "url": "https://book.douban.com/subject/26807576/"}
+{"书名": "孤独深处", "作者": "郝景芳", "评分": "6.4", "url": "https://book.douban.com/subject/26791407/"}
+{"书名": "异形：契约", "作者": "[美] 艾伦·迪恩·福斯特", "评分": "8.1", "url": "https://book.douban.com/subject/27063968/"}
+{"书名": "第二基地", "作者": "[美] 艾萨克·阿西莫夫", "评分": "9.3", "url": "https://book.douban.com/subject/1258489/"}
+{"书名": "乡村教师", "作者": "刘慈欣", "评分": "8.6", "url": "https://book.douban.com/subject/10767124/"}
+{"书名": "菲利普·迪克作品集（全5册）", "作者": "[美]菲利普·迪克", "评分": "9.3", "url": "https://book.douban.com/subject/25736982/"}
+{"书名": "暗夜独行客", "作者": "[美] 雷·布拉德伯里", "评分": "7.8", "url": "https://book.douban.com/subject/26722307/"}
+{"书名": "上海堡垒", "作者": "江南", "评分": "8.5", "url": "https://book.douban.com/subject/3268399/"}
+{"书名": "银河帝国8：我，机器人", "作者": "[美] 艾萨克·阿西莫夫", "评分": "9.0", "url": "https://book.douban.com/subject/20390695/"}
+{"书名": "众神的战车", "作者": "(瑞士)丹尼肯", "评分": "7.7", "url": "https://book.douban.com/subject/6858635/"}
+{"书名": "弗兰肯斯坦", "作者": "[英]玛丽·雪莱", "评分": "7.9", "url": "https://book.douban.com/subject/2042631/"}
+{"书名": "发条女孩", "作者": "[美] 保罗·巴奇加卢皮", "评分": "8.4", "url": "https://book.douban.com/subject/10763170/"}
+{"书名": "巫师、外星人和星舰", "作者": "[美] 查尔斯·阿德勒", "评分": "8.6", "url": "https://book.douban.com/subject/26320244/"}
+{"书名": "未来的序曲", "作者": "(美)刘宇昆，保罗·巴奇加卢皮等 著；(美)戴维·哈特威尔，帕特里克·海登 编", "评分": "8.2", "url": "https://book.douban.com/subject/26534892/"}
+{"书名": "银河帝国：机器人五部曲", "作者": "[美] 艾萨克·阿西莫夫", "评分": "9.6", "url": "https://book.douban.com/subject/26389897/"}
+{"书名": "亲爱的阿道夫", "作者": "[美] 雷·布拉德伯里", "评分": "8.3", "url": "https://book.douban.com/subject/26767242/"}
+{"书名": "重启蒙娜丽莎", "作者": "[美] 威廉·吉布森", "评分": "7.8", "url": "https://book.douban.com/subject/26787940/"}
+{"书名": "基地与帝国", "作者": "[美] 艾萨克·阿西莫夫", "评分": "9.2", "url": "https://book.douban.com/subject/1258491/"}
+{"书名": "再会，谢谢所有的鱼", "作者": "(英)道格拉斯·亚当斯", "评分": "8.2", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "差分机", "作者": "(美)威廉·吉布森、(美)布鲁斯·斯特林", "评分": "7.4", "url": "https://book.douban.com/subject/24153098/"}
+{"书名": "海伯利安的陨落", "作者": "丹·西蒙斯", "评分": "8.9", "url": "https://book.douban.com/subject/2350549/"}
+{"书名": "消失的殖民星球", "作者": "[美] 约翰·斯卡尔齐", "评分": "8.0", "url": "https://book.douban.com/subject/26787943/"}
+{"书名": "雪崩", "作者": "（美）尼尔·斯蒂芬森", "评分": "8.1", "url": "https://book.douban.com/subject/3816895/"}
+{"书名": "异乡异客", "作者": "罗伯特.海因莱因", "评分": "8.2", "url": "https://book.douban.com/subject/2064688/"}
+{"书名": "最後的問題 : 西方短篇科幻小說精選", "作者": "阿西莫夫", "评分": "9.3", "url": "https://book.douban.com/subject/4834737/"}
+{"书名": "死者代言人", "作者": "[美] 奥森·斯科特·卡德", "评分": "8.8", "url": "https://book.douban.com/subject/1271212/"}
+{"书名": "星船伞兵", "作者": "(美)罗伯特・海因莱恩", "评分": "8.6", "url": "https://book.douban.com/subject/1140729/"}
+{"书名": "遥远地球之歌", "作者": "[英] 阿瑟·克拉克", "评分": "8.6", "url": "https://book.douban.com/subject/12404751/"}
+{"书名": "银河系搭车客指南（5部曲）", "作者": "[英] 道格拉斯·亚当斯", "评分": "8.6", "url": "https://book.douban.com/subject/25839522/"}
+{"书名": "爱的算法", "作者": "(美)刘宇昆", "评分": "8.4", "url": "https://book.douban.com/subject/11597373/"}
+{"书名": "群星，我的归宿", "作者": "阿尔弗雷德·贝斯特、Alfred Bester", "评分": "8.2", "url": "https://book.douban.com/subject/1292322/"}
+{"书名": "2018", "作者": "刘慈欣", "评分": "8.1", "url": "https://book.douban.com/subject/26210632/"}
+{"书名": "神秘岛", "作者": "(法)儒勒.凡尔纳", "评分": "8.7", "url": "https://book.douban.com/subject/1275608/"}
+{"书名": "平面国", "作者": "[英]埃德温·A·艾勃特", "评分": "8.2", "url": "https://book.douban.com/subject/3774646/"}
+{"书名": "莱博维茨的赞歌", "作者": "小沃尔特·M·米勒", "评分": "8.2", "url": "https://book.douban.com/subject/1310155/"}
+{"书名": "尤比克", "作者": "[美]菲利普·迪克", "评分": "8.6", "url": "https://book.douban.com/subject/24944340/"}
+{"书名": "严厉的月亮", "作者": "罗伯特·海因莱因", "评分": "8.4", "url": "https://book.douban.com/subject/1182890/"}
+{"书名": "带上她的眼睛", "作者": "刘慈欣", "评分": "8.6", "url": "https://book.douban.com/subject/1195590/"}
+{"书名": "倒带人生", "作者": "(美)肯恩•格林伍德", "评分": "8.5", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "赶往火星", "作者": "罗伯特·祖布林 (Robert Zubrin)、理查德·瓦格纳 (Richard Wagner)", "评分": "9.0", "url": "https://book.douban.com/subject/10532684/"}
+{"书名": "思维的形状", "作者": "(美)刘宇昆", "评分": "8.5", "url": "https://book.douban.com/subject/26108260/"}
+{"书名": "计算中的上帝", "作者": "(加拿大)罗伯特﹒J﹒索耶", "评分": "8.3", "url": "https://book.douban.com/subject/1140726/"}
+{"书名": "高城堡里的人", "作者": "(美)菲利普·迪克", "评分": "7.8", "url": "https://book.douban.com/subject/22606919/"}
+{"书名": "新日之书（全4册）", "作者": "(美)吉恩·沃尔夫", "评分": "8.6", "url": "https://book.douban.com/subject/25900689/"}
+{"书名": "时间足够你爱", "作者": "[美]罗伯特·海因莱因", "评分": "8.2", "url": "https://book.douban.com/subject/2972992/"}
+{"书名": "2030·终点镇", "作者": "迟卉", "评分": "8.4", "url": "https://book.douban.com/subject/26955487/"}
+{"书名": "天意", "作者": "钱莉芳", "评分": "8.2", "url": "https://book.douban.com/subject/1161852/"}
+{"书名": "银河帝国：帝国三部曲", "作者": "[美] 艾萨克·阿西莫夫", "评分": "8.8", "url": "https://book.douban.com/subject/26389898/"}
+{"书名": "完美的真空", "作者": "(波兰)斯坦尼斯拉夫·莱姆", "评分": "8.7", "url": "https://book.douban.com/subject/1440442/"}
+{"书名": "零伯爵", "作者": "[美] 威廉·吉布森", "评分": "7.7", "url": "https://book.douban.com/subject/26328513/"}
+{"书名": "我知道你明天干了什么", "作者": "柳文扬", "评分": "8.9", "url": "https://book.douban.com/subject/2360390/"}
+{"书名": "消失的星国", "作者": "墨熊", "评分": "8.1", "url": "https://book.douban.com/subject/26985218/"}
+{"书名": "上帝的图书馆", "作者": "[美] 司各特·霍金斯", "评分": "8.1", "url": "https://book.douban.com/subject/26656291/"}
+{"书名": "异形：痛苦之河", "作者": "[美] 克里斯托弗·戈尔登", "评分": "8.4", "url": "https://book.douban.com/subject/26911961/"}
+{"书名": "美丽之星", "作者": "[日] 三岛由纪夫", "评分": "8.0", "url": "https://book.douban.com/subject/25853088/"}
+{"书名": "睡豚，醒来", "作者": "凌晨", "评分": "7.3", "url": "https://book.douban.com/subject/26969583/"}
+{"书名": "侏罗纪公园", "作者": "[美] 迈克尔·克莱顿", "评分": "8.3", "url": "https://book.douban.com/subject/26394800/"}
+{"书名": "星际迷航-红衫", "作者": "(美)约翰·斯卡尔齐", "评分": "7.7", "url": "https://book.douban.com/subject/25886175/"}
+{"书名": "绿火星（全二册）", "作者": "（美）金·斯坦利·罗宾逊", "评分": "8.0", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "基本上无害", "作者": "道格拉斯·亚当斯", "评分": "8.7", "url": "https://book.douban.com/subject/3322928/"}
+{"书名": "量子窃贼", "作者": "[美] 哈努·拉贾涅米", "评分": "8.2", "url": "https://book.douban.com/subject/26768311/"}
+{"书名": "冬至草", "作者": "[日]石黑达昌", "评分": "8.0", "url": "https://book.douban.com/subject/25832600/"}
+{"书名": "卫斯理全集", "作者": "倪匡\n\n      </div>\n\n\n        \n  \n  \n  \n  <div class=\"star clearfix\">\n        <span class=\"allstar45\"></span>\n        <span class=\"rating_nums\">8.6</span>\n\n    <span class=\"pl\">\n        (1811人评价)\n    </span>\n  </div>\n\n\n\n        \n  \n  \n  \n\n\n\n\n\n\n      <div class=\"ft\">\n          \n  <div class=\"collect-info\">\n  </div>\n\n\n          <div class=\"cart-actions\">\n            \n                \n  \n\n\n          </div>\n\n            \n            \n  \n\n      </div>\n\n    </div>\n  </li>\n  \n\n      \n      \n  \n  <li class=\"subject-item\">\n    <div class=\"pic\">\n      <a class=\"nbg\" href=\"https://book.douban.com/subject/27064871/\" \n  onclick=\"moreurl(this,{i:'5',query:'',subject_id:'27064871',from:'book_subject_search'})\">\n        <img class=\"\" src=\"https://img3.doubanio.com/mpic/s29496952.jpg\"\n          width=\"90\">\n      </a>\n    </div>\n    <div class=\"info\">\n      <h2 class=\"\">\n        \n  \n  <a href=\"https://book.douban.com/subject/27064871/\" title=\"驱魔\" \n  onclick=\"moreurl(this,{i:'5',query:'',subject_id:'27064871',from:'book_subject_search'})\">\n\n    驱魔\n\n\n    \n\n  </a>\n\n      </h2>\n      <div class=\"pub\">\n        \n  \n  韩松", "评分": "8.0", "url": "https://book.douban.com/subject/3431718/"}
+{"书名": "夏日遇见狄更斯", "作者": "[美] 雷·布拉德伯里", "评分": "8.5", "url": "https://book.douban.com/subject/26834592/"}
+{"书名": "路边野餐", "作者": "(俄罗斯)阿卡迪·斯特鲁伽茨基、(俄罗斯)鲍里斯·斯特鲁伽茨基", "评分": "8.2", "url": "https://book.douban.com/subject/11612052/"}
+{"书名": "玩具修理者", "作者": "小林泰三", "评分": "8.8", "url": "https://book.douban.com/subject/1316584/"}
+{"书名": "十三层空间", "作者": "[美] 丹尼尔·加卢耶", "评分": "9.2", "url": "https://book.douban.com/subject/27001144/"}
+{"书名": "梦侦探", "作者": "(日) 筒井康隆", "评分": "8.1", "url": "https://book.douban.com/subject/4887589/"}
+{"书名": "殡葬人的秘密", "作者": "[美] 雷·布拉德伯里", "评分": "8.3", "url": "https://book.douban.com/subject/26789635/"}
+{"书名": "我的征途是星辰大海", "作者": "今何在", "评分": "7.9", "url": "https://book.douban.com/subject/4937547/"}
+{"书名": "Blame! 1", "作者": "（日）弐瓶勉", "评分": "9.1", "url": "https://book.douban.com/subject/1467492/"}
+{"书名": "神秘博士：沙达", "作者": "[英] 道格拉斯·亚当斯、[英] 加雷斯·罗伯茨", "评分": "8.8", "url": "https://book.douban.com/subject/25917727/"}
+{"书名": "阿西莫夫科幻小说", "作者": "[美] 艾萨克·阿西莫夫", "评分": "9.3", "url": "https://book.douban.com/subject/1900903/"}
+{"书名": "安迪密恩", "作者": "(美)丹·西蒙斯", "评分": "8.3", "url": "https://book.douban.com/subject/25941891/"}
+{"书名": "银河系科幻电影指南", "作者": "电子骑士", "评分": "7.8", "url": "https://book.douban.com/subject/26986922/"}
+{"书名": "红色海洋", "作者": "韩松", "评分": "8.0", "url": "https://book.douban.com/subject/1198312/"}
+{"书名": "科幻电影导论", "作者": "[英]凯斯•M.约翰斯顿", "评分": "8.4", "url": "https://book.douban.com/subject/26783055/"}
+{"书名": "背叛之星", "作者": "[美] 奥森·斯科特·卡德", "评分": "8.3", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "最糟的宇宙，最好的地球", "作者": "刘慈欣", "评分": "9.0", "url": "https://book.douban.com/subject/26609776/"}
+{"书名": "黑暗的速度", "作者": "[美] 伊丽莎白·穆恩", "评分": "7.8", "url": "https://book.douban.com/subject/11498196/"}
+{"书名": "回憶愛瑪儂", "作者": "梶尾真治、鶴田謙二", "评分": "9.0", "url": "https://book.douban.com/subject/19976976/"}
+{"书名": "新新日报馆：机械崛起", "作者": "梁清散", "评分": "7.8", "url": "https://book.douban.com/subject/26868921/"}
+{"书名": "Seveneves", "作者": "Neal Stephenson", "评分": "8.0", "url": "https://book.douban.com/subject/26335214/"}
+{"书名": "基地前传1·基地前奏（上下）", "作者": "（美）艾萨克·阿西莫夫", "评分": "9.0", "url": "https://book.douban.com/subject/1258487/"}
+{"书名": "2010太空漫游", "作者": "(英)阿瑟·克拉克", "评分": "8.8", "url": "https://book.douban.com/subject/2340610/"}
+{"书名": "时间之墟", "作者": "宝树", "评分": "7.3", "url": "https://book.douban.com/subject/24935042/"}
+{"书名": "六道众生", "作者": "何夕", "评分": "8.3", "url": "https://book.douban.com/subject/11605558/"}
+{"书名": "起风之城", "作者": "张冉", "评分": "9.0", "url": "https://book.douban.com/subject/26648648/"}
+{"书名": "猩人：布鲁诺的进化", "作者": "[美] 本杰明·黑尔", "评分": "7.9", "url": "https://book.douban.com/subject/26906371/"}
+{"书名": "全频带阻塞干扰", "作者": "刘慈欣、Comis You 滴水工坊 制作漫画", "评分": "8.4", "url": "https://book.douban.com/subject/3571732/"}
+{"书名": "镜像人之末世如你", "作者": "小托", "评分": "7.7", "url": "https://book.douban.com/subject/26895400/"}
+{"书名": "飞翔吧！大清帝国", "作者": "(日) 武田雅哉", "评分": "7.6", "url": "https://book.douban.com/subject/24739619/"}
+{"书名": "光逝", "作者": "（美）乔治·R·R·马丁", "评分": "7.8", "url": "https://book.douban.com/subject/4814392/"}
+{"书名": "再生砖", "作者": "韩松", "评分": "8.6", "url": "https://book.douban.com/subject/26598144/"}
+{"书名": "科幻作品", "作者": "[英]戴维·锡德", "评分": "8.0", "url": "https://book.douban.com/subject/26981371/"}
+{"书名": "让时间停止的女孩", "作者": "[美] 罗伯特·富兰克林·杨", "评分": "7.5", "url": "https://book.douban.com/subject/26879323/"}
+{"书名": "微宇宙的上帝", "作者": "西奥多·斯特金、艾萨克·阿西莫夫 等", "评分": "8.2", "url": "https://book.douban.com/subject/25816893/"}
+{"书名": "遗落的南境1：湮灭", "作者": "[美] 杰夫·范德米尔", "评分": "7.5", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "变化的位面", "作者": "（美）厄休拉·勒奎恩", "评分": "8.3", "url": "https://book.douban.com/subject/2049339/"}
+{"书名": "帕莫·艾德里奇的三处圣痕", "作者": "[美] 菲利普·迪克", "评分": "8.5", "url": "https://book.douban.com/subject/26372813/"}
+{"书名": "屠杀器官", "作者": "[日] 伊藤计划", "评分": "7.8", "url": "https://book.douban.com/subject/25977519/"}
+{"书名": "安迪密恩的觉醒", "作者": "(美)丹·西蒙斯", "评分": "8.2", "url": "https://book.douban.com/subject/25941893/"}
+{"书名": "天贼", "作者": "[美] 奥森·斯科特·卡德", "评分": "8.1", "url": "https://book.douban.com/subject/26783042/"}
+{"书名": "进入盛夏之门", "作者": "（美）罗伯特·海因莱因", "评分": "8.2", "url": "https://book.douban.com/subject/1439017/"}
+{"书名": "时震", "作者": "[美国] 库尔特·冯内古特", "评分": "8.3", "url": "https://book.douban.com/subject/1085533/"}
+{"书名": "星际迷航：联邦星舰进取号完全图解", "作者": "[美] 本·罗宾逊、[美] 马库斯·赖利", "评分": "9.3", "url": "https://book.douban.com/subject/11639956/"}
+{"书名": "基里尼亚加", "作者": "[美] 迈克·雷斯尼克", "评分": "8.5", "url": "https://book.douban.com/subject/26579776/"}
+{"书名": "和谐", "作者": "[日] 伊藤计划", "评分": "8.0", "url": "https://book.douban.com/subject/25977518/"}
+{"书名": "图案人", "作者": "(美)雷·布拉德伯里", "评分": "8.5", "url": "https://book.douban.com/subject/19977751/"}
+{"书名": "异形：韦兰-汤谷公司报告", "作者": "[美] S. D. 佩里、[芬兰] 马库斯·潘瑟格劳", "评分": "8.2", "url": "https://book.douban.com/subject/27028454/"}
+{"书名": "幽灵舰队", "作者": "(美)约翰·斯卡尔齐", "评分": "8.1", "url": "https://book.douban.com/subject/24840349/"}
+{"书名": "6号泵", "作者": "[美] 保罗·巴奇加卢皮", "评分": "8.2", "url": "https://book.douban.com/subject/26739275/"}
+{"书名": "接触", "作者": "卡尔•萨根", "评分": "8.7", "url": "https://book.douban.com/subject/3105462/"}
+{"书名": "末日之书", "作者": "[美]康妮·威利斯(Connie Willis)", "评分": "7.8", "url": "https://book.douban.com/subject/4025049/"}
+{"书名": "沃辛传奇", "作者": "[美] 奥森·斯科特·卡德", "评分": "8.0", "url": "https://book.douban.com/subject/26776779/"}
+{"书名": "死亡迷局", "作者": "[美]菲利普·迪克", "评分": "8.3", "url": "https://book.douban.com/subject/26271843/"}
+{"书名": "羊毛战记", "作者": "(美)休·豪伊", "评分": "7.5", "url": "https://book.douban.com/subject/24843834/"}
+{"书名": "上帝眼中的微尘", "作者": "(美)拉里·尼文、(美)杰里·波奈尔", "评分": "8.0", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "枪，偶尔有音乐", "作者": "［美］乔纳森•勒瑟姆", "评分": "7.6", "url": "https://book.douban.com/subject/6541263/"}
+{"书名": "重启人：终结篇", "作者": "（美）艾米•亭特拉著", "评分": "7.7", "url": "https://book.douban.com/subject/27044810/"}
+{"书名": "伤心者", "作者": "何夕", "评分": "7.9", "url": "https://book.douban.com/subject/26590999/"}
+{"书名": "大英雄时代", "作者": "Priest", "评分": "8.7", "url": "https://book.douban.com/subject/26688708/"}
+{"书名": "基地续集1·基地边缘（上下）", "作者": "（美）艾萨克·阿西莫夫", "评分": "8.9", "url": "https://book.douban.com/subject/1258485/"}
+{"书名": "流吧！我的眼泪", "作者": "[美]菲利普·迪克", "评分": "8.3", "url": "https://book.douban.com/subject/24944354/"}
+{"书名": "月族 1", "作者": "[美] 玛丽莎·梅尔", "评分": "5.8", "url": "https://book.douban.com/subject/26811147/"}
+{"书名": "复苏人", "作者": "永城", "评分": "8.3", "url": "https://book.douban.com/subject/26994872/"}
+{"书名": "散落星河的记忆1：迷失", "作者": "桐华", "评分": "7.9", "url": "https://book.douban.com/subject/26981838/"}
+{"书名": "外星人就在月球背面", "作者": "李卫东", "评分": "7.3", "url": "https://book.douban.com/subject/3724680/"}
+{"书名": "副本", "作者": "(英)理查德·摩根", "评分": "8.3", "url": "https://book.douban.com/subject/5395151/"}
+{"书名": "地铁", "作者": "韩松", "评分": "7.0", "url": "https://book.douban.com/subject/5336223/"}
+{"书名": "玩家一号", "作者": "[美]恩斯特·克莱恩", "评分": "7.6", "url": "https://book.douban.com/subject/25982711/"}
+{"书名": "基地前传2·迈向基地（上下）", "作者": "（美）艾萨克·阿西莫夫", "评分": "9.0", "url": "https://book.douban.com/subject/1258488/"}
+{"书名": "如何创作科幻小说与奇幻小说", "作者": "[美]奥森·斯科特·卡德", "评分": "8.1", "url": "https://book.douban.com/subject/26299615/"}
+{"书名": "符神传说2东川起风云", "作者": "习风", "评分": "10.0", "url": "https://book.douban.com/subject/27029689/"}
+{"书名": "科幻小说史", "作者": "[英]亚当·罗伯茨、Adam Roberts", "评分": "7.9", "url": "https://book.douban.com/subject/4282061/"}
+{"书名": "超新星纪元", "作者": "刘慈欣", "评分": "7.5", "url": "https://book.douban.com/subject/3636385/"}
+{"书名": "机器人与帝国（上下）", "作者": "（美）艾萨克·阿西莫夫", "评分": "8.9", "url": "https://book.douban.com/subject/1391513/"}
+{"书名": "银河帝国11：曙光中的机器人", "作者": "[美] 艾萨克·阿西莫夫", "评分": "8.9", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "镜子", "作者": "刘慈欣", "评分": "8.3", "url": "https://book.douban.com/subject/26658900/"}
+{"书名": "守望者 上", "作者": "[美] 阿兰·摩尔", "评分": "9.6", "url": "https://book.douban.com/subject/25709685/"}
+{"书名": "神秘博士：死亡之城", "作者": "[英] 道格拉斯·亚当斯、[英] 詹姆斯·高斯", "评分": "8.9", "url": "https://book.douban.com/subject/26874771/"}
+{"书名": "犹太警察工会", "作者": "[美]迈克尔·夏邦", "评分": "7.9", "url": "https://book.douban.com/subject/26249763/"}
+{"书名": "基地续集2·基地与地球（上下）", "作者": "（美）艾萨克·阿西莫夫", "评分": "8.8", "url": "https://book.douban.com/subject/1258486/"}
+{"书名": "异形：走出阴影", "作者": "［美］蒂姆•利本", "评分": "7.1", "url": "https://book.douban.com/subject/26911960/"}
+{"书名": "去远方", "作者": "郝景芳", "评分": "7.2", "url": "https://book.douban.com/subject/26791402/"}
+{"书名": "垂暮之战", "作者": "（美）约翰·斯卡尔齐", "评分": "7.8", "url": "https://book.douban.com/subject/3262395/"}
+{"书名": "荒潮", "作者": "陈楸帆", "评分": "7.7", "url": "https://book.douban.com/subject/20501664/"}
+{"书名": "博物馆行星", "作者": "[日] 菅浩江", "评分": "7.4", "url": "https://book.douban.com/subject/26435482/"}
+{"书名": "地心游记", "作者": "（法）凡尔纳（Verne，J.）", "评分": "8.3", "url": "https://book.douban.com/subject/1276032/"}
+{"书名": "编码宝典", "作者": "[美] 尼尔·斯蒂芬森", "评分": "9.2", "url": "https://book.douban.com/subject/27077159/"}
+{"书名": "雪国列车", "作者": "[法] 罗布、[德] 罗切特、[法] 勒格朗", "评分": "7.6", "url": "https://book.douban.com/subject/26677364/"}
+{"书名": "虚拟偶像爱朵露", "作者": "（加）威廉·吉布森", "评分": "7.5", "url": "https://book.douban.com/subject/25725500/"}
+{"书名": "彩虹尽头", "作者": "（美）弗诺·文奇", "评分": "7.9", "url": "https://book.douban.com/subject/3601195/"}
+{"书名": "天堂的喷泉", "作者": "[英] 亚瑟·克拉克", "评分": "8.4", "url": "https://book.douban.com/subject/10570091/"}
+{"书名": "沙丘之子", "作者": "（美）弗兰克·赫伯特", "评分": "8.4", "url": "https://book.douban.com/subject/1734009/"}
+{"书名": "人类曾经被毁灭", "作者": "李卫东", "评分": "8.0", "url": "https://book.douban.com/subject/1424756/"}
+{"书名": "穹顶之下（上下）", "作者": "斯蒂芬·金", "评分": "7.7", "url": "https://book.douban.com/subject/25722933/"}
+{"书名": "铳梦", "作者": "木城幸人", "评分": "9.2", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "高能预警", "作者": "[英] 尼尔·盖曼", "评分": "7.3", "url": "https://book.douban.com/subject/26806567/"}
+{"书名": "时间机器（中英双语）", "作者": "乔治·威尔斯", "评分": "8.3", "url": "https://book.douban.com/subject/1959340/"}
+{"书名": "银河帝国9：钢穴", "作者": "[美] 艾萨克·阿西莫夫", "评分": "8.7", "url": "https://book.douban.com/subject/20390696/"}
+{"书名": "异形：悲伤之海", "作者": "［美］詹姆斯•A.摩尔", "评分": "7.7", "url": "https://book.douban.com/subject/26911959/"}
+{"书名": "未来考古学", "作者": "[美] 弗里德里克•詹姆逊", "评分": "8.5", "url": "https://book.douban.com/subject/25822107/"}
+{"书名": "撒旦之锤", "作者": "(美)拉里·尼文、(美)杰里·波奈尔", "评分": "8.3", "url": "https://book.douban.com/subject/24699423/"}
+{"书名": "安德的影子", "作者": "奥森·斯科特·卡德", "评分": "8.7", "url": "https://book.douban.com/subject/1418437/"}
+{"书名": "地球纪元 I：太阳危机", "作者": "彩虹之门", "评分": "6.9", "url": "https://book.douban.com/subject/27078754/"}
+{"书名": "致命拜访", "作者": "[美]杰克·芬尼", "评分": "7.7", "url": "https://book.douban.com/subject/26673252/"}
+{"书名": "索拉利斯星·K星异客", "作者": "(波)斯坦尼斯拉夫·莱姆、(美)吉恩·布鲁尔", "评分": "8.6", "url": "https://book.douban.com/subject/1140728/"}
+{"书名": "未来闪影", "作者": "[加拿大] 罗伯特·索耶、Robert J. Sawyer", "评分": "8.0", "url": "https://book.douban.com/subject/6885709/"}
+{"书名": "格兰特船长的儿女", "作者": "[法] 儒勒·凡尔纳(Jules Verne)", "评分": "8.4", "url": "https://book.douban.com/subject/1204488/"}
+{"书名": "图夫航行记", "作者": "（美）乔治·R·R·马丁", "评分": "8.4", "url": "https://book.douban.com/subject/4720666/"}
+{"书名": "遗落的南境（三部曲）", "作者": "[美]杰夫•范德米尔", "评分": "7.5", "url": "https://book.douban.com/subject/26833837/"}
+{"书名": "实时放逐", "作者": "弗诺· 文奇", "评分": "8.6", "url": "https://book.douban.com/subject/3607224/"}
+{"书名": "《三体》中的物理学", "作者": "李淼", "评分": "7.8", "url": "https://book.douban.com/subject/26352270/"}
+{"书名": "阿西莫夫论科幻小说", "作者": "(美) 阿西莫夫", "评分": "8.4", "url": "https://book.douban.com/subject/4882004/"}
+{"书名": "八十天环游地球", "作者": "(法)儒勒.凡尔纳", "评分": "8.3", "url": "https://book.douban.com/subject/1275907/"}
+{"书名": "蚂蚁", "作者": "[法] 贝尔纳·韦尔贝尔", "评分": "8.9", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "科幻电影写作", "作者": "罗伯特·格兰特 (Robert Grant)", "评分": "7.4", "url": "https://book.douban.com/subject/26431296/"}
+{"书名": "杀敌算法", "作者": "[美] 刘宇昆", "评分": "8.2", "url": "https://book.douban.com/subject/26309770/"}
+{"书名": "星球大战：千年隼号完全图解", "作者": "[美] R. 温德姆、[美] C. 雷夫、[美] C. 特列瓦斯", "评分": "9.3", "url": "https://book.douban.com/subject/19935618/"}
+{"书名": "Y先生的结局", "作者": "[英] 斯嘉丽·托马斯", "评分": "7.9", "url": "https://book.douban.com/subject/6016230/"}
+{"书名": "奥杜瓦伊峡谷的七个故事", "作者": "[美] 迈克·雷斯尼克", "评分": "9.0", "url": "https://book.douban.com/subject/26769984/"}
+{"书名": "星新一微型小说选", "作者": "(日)星新一", "评分": "8.9", "url": "https://book.douban.com/subject/2214337/"}
+{"书名": "苍穹浩瀚1：利维坦觉醒（上、下）", "作者": "[美] 詹姆斯·S.A.·科里", "评分": "7.6", "url": "https://book.douban.com/subject/26320237/"}
+{"书名": "阿瑟•克拉克中短篇科幻小说集", "作者": "阿瑟•克拉克", "评分": "8.6", "url": "https://book.douban.com/subject/26366597/"}
+{"书名": "游戏玩家", "作者": "伊恩·M.班克斯", "评分": "7.7", "url": "https://book.douban.com/subject/11597324/"}
+{"书名": "亚特兰蒂斯：基因战争", "作者": "[美] A.G.里德尔", "评分": "7.5", "url": "https://book.douban.com/subject/26364303/"}
+{"书名": "利维坦号战记Ⅰ——飞越阿尔卑斯", "作者": "[美]斯科特•维斯特菲尔德", "评分": "8.2", "url": "https://book.douban.com/subject/24853106/"}
+{"书名": "我是传奇", "作者": "[美]理查德` 马特森", "评分": "7.9", "url": "https://book.douban.com/subject/3021566/"}
+{"书名": "世界科幻杰作选", "作者": "[美] 迈克·雷斯尼克、姚海军 编", "评分": "8.3", "url": "https://book.douban.com/subject/26895034/"}
+{"书名": "废园天使", "作者": "(日) 飞浩隆", "评分": "7.8", "url": "https://book.douban.com/subject/4720669/"}
+{"书名": "未来镜像", "作者": "刘慈欣、夏笳、陈揪帆、韩松、张冉、潘海天、郝景芳、阿缺、宝树", "评分": "8.6", "url": "https://book.douban.com/subject/27001126/"}
+{"书名": "沙丘救世主", "作者": "（美）弗兰克·赫伯特", "评分": "8.3", "url": "https://book.douban.com/subject/1498764/"}
+{"书名": "玛士撒拉之子", "作者": "（美）罗伯特·海因莱因、Robert Anson Heinlein", "评分": "8.3", "url": "https://book.douban.com/subject/4027244/"}
+{"书名": "烈火的召唤", "作者": "[美] 弗朗西斯卡·海格", "评分": "7.9", "url": "https://book.douban.com/subject/26672867/"}
+{"书名": "37", "作者": "柳文扬 著、心乙 编选", "评分": "9.0", "url": "https://book.douban.com/subject/23012689/"}
+{"书名": "爱因斯坦赤道", "作者": "刘慈欣", "评分": "8.5", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "天命", "作者": "钱莉芳", "评分": "7.4", "url": "https://book.douban.com/subject/6779980/"}
+{"书名": "猫城记", "作者": "老舍", "评分": "8.6", "url": "https://book.douban.com/subject/3345595/"}
+{"书名": "时间深渊", "作者": "付强", "评分": "8.1", "url": "https://book.douban.com/subject/26805833/"}
+{"书名": "最后的猎巫人", "作者": "[美] 詹姆斯·莫罗", "评分": "8.2", "url": "https://book.douban.com/subject/26617142/"}
+{"书名": "火星崛起", "作者": "[美] 皮尔斯·布朗", "评分": "7.3", "url": "https://book.douban.com/subject/26748185/"}
+{"书名": "脸上的门，口中的灯", "作者": "(美)罗杰·泽拉兹尼", "评分": "8.2", "url": "https://book.douban.com/subject/4885073/"}
+{"书名": "银河帝国10：裸阳", "作者": "[美] 艾萨克·阿西莫夫", "评分": "8.7", "url": "https://book.douban.com/subject/24531334/"}
+{"书名": "毛毛星球", "作者": "(美)约翰·斯卡尔齐", "评分": "8.2", "url": "https://book.douban.com/subject/19894099/"}
+{"书名": "呼吸--宇宙的毁灭", "作者": "[美]特德-姜", "评分": "9.3", "url": "https://book.douban.com/subject/5966315/"}
+{"书名": "时间旅行者的妻子", "作者": "[美] 奥德丽·尼芬格", "评分": "8.1", "url": "https://book.douban.com/subject/2056749/"}
+{"书名": "分歧者", "作者": "[美]维罗尼卡·罗斯、Veronica Roth", "评分": "6.7", "url": "https://book.douban.com/subject/25831464/"}
+{"书名": "黎明降临", "作者": "杨林", "评分": "7.6", "url": "https://book.douban.com/subject/27055612/"}
+{"书名": "群", "作者": "弗兰克·施茨廷", "评分": "7.9", "url": "https://book.douban.com/subject/3244055/"}
+{"书名": "宇宙过河卒", "作者": "(美)波尔·安德森", "评分": "8.0", "url": "https://book.douban.com/subject/5395149/"}
+{"书名": "第六大陆（上下）", "作者": "[日] 小川一水", "评分": "7.7", "url": "https://book.douban.com/subject/26790752/"}
+{"书名": "火星崛起 2", "作者": "[美] 皮尔斯·布朗", "评分": "8.3", "url": "https://book.douban.com/subject/26831615/"}
+{"书名": "末日爱国者", "作者": "詹姆斯·洛尔斯", "评分": "7.4", "url": "https://book.douban.com/subject/11519001/"}
+{"书名": "三体X", "作者": "宝树", "评分": "7.2", "url": "https://book.douban.com/subject/6265750/"}
+{"书名": "瓦利斯", "作者": "菲利普·迪克", "评分": "8.8", "url": "https://book.douban.com/subject/1441911/"}
+{"书名": "林中秘族", "作者": "[美] 柳原汉雅", "评分": "8.0", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "天年", "作者": "何夕", "评分": "7.1", "url": "https://book.douban.com/subject/26638272/"}
+{"书名": "原始人类", "作者": "(加拿大)罗伯特·J·索耶", "评分": "7.8", "url": "https://book.douban.com/subject/3417499/"}
+{"书名": "武器浮生录", "作者": "(英)伊恩·M.班克斯", "评分": "7.9", "url": "https://book.douban.com/subject/25767894/"}
+{"书名": "外星人的手指有多长", "作者": "西夏", "评分": "8.9", "url": "https://book.douban.com/subject/26856065/"}
+{"书名": "小灵通漫游未来", "作者": "叶永烈 著、杜建国 插图", "评分": "8.9", "url": "https://book.douban.com/subject/1933479/"}
+{"书名": "More Than Human", "作者": "Theodore Sturgeon", "评分": "9.2", "url": "https://book.douban.com/subject/2158991/"}
+{"书名": "海，另一个未知的宇宙", "作者": "弗兰克·施茨廷", "评分": "8.6", "url": "https://book.douban.com/subject/3576412/"}
+{"书名": "无限恐怖", "作者": "长弓手", "评分": "8.2", "url": "https://book.douban.com/subject/2221889/"}
+{"书名": "Stories of Your Life and Others", "作者": "Ted Chiang", "评分": "8.8", "url": "https://book.douban.com/subject/26862342/"}
+{"书名": "科幻文学论纲", "作者": "吴岩", "评分": "8.6", "url": "https://book.douban.com/subject/6038876/"}
+{"书名": "地光", "作者": "[英] 阿瑟·克拉克", "评分": "7.3", "url": "https://book.douban.com/subject/20470853/"}
+{"书名": "星丛", "作者": "罗伯特 J 索耶", "评分": "8.5", "url": "https://book.douban.com/subject/1187843/"}
+{"书名": "爱因斯坦与上海神秘人", "作者": "庄蝶庵", "评分": "7.1", "url": "https://book.douban.com/subject/26675529/"}
+{"书名": "圣迭戈", "作者": "[美] 迈克·雷斯尼克", "评分": "8.1", "url": "https://book.douban.com/subject/26743284/"}
+{"书名": "重启人", "作者": "[美]艾米·亭特拉", "评分": "6.5", "url": "https://book.douban.com/subject/26777044/"}
+{"书名": "人生不相见", "作者": "何夕", "评分": "8.4", "url": "https://book.douban.com/subject/6151679/"}
+{"书名": "《星际迷航》里的物理学", "作者": "[美]劳伦斯•M.克劳斯", "评分": "9.1", "url": "https://book.douban.com/subject/26944388/"}
+{"书名": "箱庭战纪", "作者": "无罪", "评分": "8.7", "url": "https://book.douban.com/subject/27040629/"}
+{"书名": "冒死记录", "作者": "张海帆", "评分": "7.8", "url": "https://book.douban.com/subject/2216512/"}
+{"书名": "未来病史", "作者": "陈楸帆", "评分": "7.8", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "完美末日", "作者": "刘洋", "评分": "7.7", "url": "https://book.douban.com/subject/26596367/"}
+{"书名": "未来的夏娃", "作者": "[法] 利尔·亚当", "评分": "6.9", "url": "https://book.douban.com/subject/20415302/"}
+{"书名": "流浪玛厄斯", "作者": "郝景芳", "评分": "7.4", "url": "https://book.douban.com/subject/5990493/"}
+{"书名": "迟暮鸟语", "作者": "（美）凯特·威廉", "评分": "8.3", "url": "https://book.douban.com/subject/2064684/"}
+{"书名": "苍穹微石", "作者": "（美）艾萨克·阿西莫夫", "评分": "7.9", "url": "https://book.douban.com/subject/1758746/"}
+{"书名": "守望者 下", "作者": "[美]阿兰·摩尔", "评分": "9.6", "url": "https://book.douban.com/subject/25907864/"}
+{"书名": "倒数第二个真相", "作者": "菲利普·迪克", "评分": "7.8", "url": "https://book.douban.com/subject/26352268/"}
+{"书名": "星新一短篇小说集", "作者": "星新一", "评分": "8.7", "url": "https://book.douban.com/subject/1150862/"}
+{"书名": "羚羊与秧鸡", "作者": "玛格丽特·阿特伍德、Margaret Atwood", "评分": "8.3", "url": "https://book.douban.com/subject/1315569/"}
+{"书名": "弗诺·文奇科幻小说集", "作者": "弗诺· 文奇", "评分": "8.5", "url": "https://book.douban.com/subject/3607222/"}
+{"书名": "Nature杂志科幻小说选集", "作者": "[英] 亨利•吉  编", "评分": "6.6", "url": "https://book.douban.com/subject/26314798/"}
+{"书名": "开始写吧！——科幻、奇幻、惊悚小说创作", "作者": "劳丽·拉姆森", "评分": "8.3", "url": "https://book.douban.com/subject/26651639/"}
+{"书名": "星空暗流", "作者": "（美）艾萨克·阿西莫夫", "评分": "8.0", "url": "https://book.douban.com/subject/1754788/"}
+{"书名": "人猿星球", "作者": "(法)皮埃尔·布尔", "评分": "8.5", "url": "https://book.douban.com/subject/20275739/"}
+{"书名": "地铁2033", "作者": "德米特里·格鲁克夫斯基", "评分": "7.1", "url": "https://book.douban.com/subject/5385399/"}
+{"书名": "红火星（全两册）", "作者": "金•斯坦利•罗宾逊", "评分": "7.8", "url": "https://book.douban.com/subject/3136230/"}
+{"书名": "极地恶灵（上）", "作者": "[美]丹·西蒙斯", "评分": "8.1", "url": "https://book.douban.com/subject/4040473/"}
+{"书名": "濒死的地球", "作者": "(美)杰克·万斯", "评分": "8.1", "url": "https://book.douban.com/subject/6789608/"}
+{"书名": "繁星若尘", "作者": "（美）艾萨克·阿西莫夫", "评分": "7.8", "url": "https://book.douban.com/subject/1762288/"}
+{"书名": "天空的孩子", "作者": "(美)弗诺·文奇", "评分": "7.5", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "日本沉没", "作者": "[日] 小松左京", "评分": "7.6", "url": "https://book.douban.com/subject/1469242/"}
+{"书名": "死亡刻痕", "作者": "[美] 维罗尼卡·罗斯", "评分": "8.2", "url": "https://book.douban.com/subject/26937674/"}
+{"书名": "哈利的十五次人生", "作者": "[英] 克莱尔·诺丝", "评分": "8.4", "url": "https://book.douban.com/subject/26846534/"}
+{"书名": "果壳里的一百五十九个宇宙", "作者": "李淼", "评分": "5.3", "url": "https://book.douban.com/subject/26921237/"}
+{"书名": "血音乐", "作者": "(美)格雷格·贝尔", "评分": "7.7", "url": "https://book.douban.com/subject/25886180/"}
+{"书名": "宇宙墓碑", "作者": "韩松", "评分": "8.3", "url": "https://book.douban.com/subject/1812047/"}
+{"书名": "星际特工2", "作者": "[法]克里斯坦 编、梅齐埃 绘", "评分": "8.8", "url": "https://book.douban.com/subject/27044573/"}
+{"书名": "3001太空漫游", "作者": "(英)阿瑟·克拉克", "评分": "8.0", "url": "https://book.douban.com/subject/2340615/"}
+{"书名": "外星屠异", "作者": "[美]奥森·斯科特·卡德", "评分": "8.0", "url": "https://book.douban.com/subject/1157681/"}
+{"书名": "中国科幻大片", "作者": "飞氘", "评分": "7.5", "url": "https://book.douban.com/subject/24741573/"}
+{"书名": "人和吞食者", "作者": "刘慈欣", "评分": "8.5", "url": "https://book.douban.com/subject/26657597/"}
+{"书名": "蚂蚁革命", "作者": "(法)贝尔纳·韦尔贝尔", "评分": "8.7", "url": "https://book.douban.com/subject/1422237/"}
+{"书名": "化身博士", "作者": "史蒂文森", "评分": "7.7", "url": "https://book.douban.com/subject/1228395/"}
+{"书名": "星球大战：死星完全图解", "作者": "[美] 赖德·温德姆 著、[美] 克里斯·雷夫 [等]绘", "评分": "9.1", "url": "https://book.douban.com/subject/26699138/"}
+{"书名": "环形世界", "作者": "[美]拉里·尼文", "评分": "7.6", "url": "https://book.douban.com/subject/3684656/"}
+{"书名": "刘慈欣谈科幻", "作者": "刘慈欣", "评分": "7.6", "url": "https://book.douban.com/subject/25789151/"}
+{"书名": "月海沉船", "作者": "[英] 亚瑟·克拉克", "评分": "8.6", "url": "https://book.douban.com/subject/10570094/"}
+{"书名": "2061太空漫游", "作者": "(英)阿瑟·克拉克", "评分": "8.0", "url": "https://book.douban.com/subject/2340613/"}
+{"书名": "微纪元", "作者": "刘慈欣", "评分": "8.5", "url": "https://book.douban.com/subject/4326055/"}
+{"书名": "儒勒·凡尔纳小说作品选集", "作者": "儒勒·凡尔纳", "评分": "9.2", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "被毁灭的人", "作者": "（美）阿尔弗雷德·贝斯特", "评分": "8.0", "url": "https://book.douban.com/subject/1146266/"}
+{"书名": "时光尽头", "作者": "刘慈欣", "评分": "8.4", "url": "https://book.douban.com/subject/4245620/"}
+{"书名": "城市与群星", "作者": "[英] 亚瑟·克拉克", "评分": "8.4", "url": "https://book.douban.com/subject/10570096/"}
+{"书名": "攻殼機動隊(01)", "作者": "士郎正宗", "评分": "9.1", "url": "https://book.douban.com/subject/3138803/"}
+{"书名": "风港", "作者": "[美] 乔治 R.R.马丁、丽萨·图托", "评分": "7.8", "url": "https://book.douban.com/subject/5391812/"}
+{"书名": "中国式青春", "作者": "今何在", "评分": "7.4", "url": "https://book.douban.com/subject/6120501/"}
+{"书名": "陶偶", "作者": "(美)大卫·布林", "评分": "8.3", "url": "https://book.douban.com/subject/11597370/"}
+{"书名": "倒转地极", "作者": "克莱夫·卡斯勒、保罗·肯普雷科斯", "评分": "5.4", "url": "https://book.douban.com/subject/1958519/"}
+{"书名": "魔鬼积木·白垩纪往事", "作者": "刘慈欣", "评分": "8.1", "url": "https://book.douban.com/subject/3266663/"}
+{"书名": "饥饿游戏", "作者": "[美]苏珊·柯林斯(Suzanne Collins)", "评分": "7.6", "url": "https://book.douban.com/subject/4164096/"}
+{"书名": "时间穿越指南", "作者": "[美]菲尔·霍肖、[美]尼克·赫尔维", "评分": "8.3", "url": "https://book.douban.com/subject/26979849/"}
+{"书名": "星际特工1", "作者": "[法] 克里斯坦 编剧、[法] 梅齐埃 绘画", "评分": "8.3", "url": "https://book.douban.com/subject/26939959/"}
+{"书名": "刘慈欣卷：天使时代", "作者": "刘慈欣、世界华人科幻协会组编、董仁威 姚海军（主编）", "评分": "8.3", "url": "https://book.douban.com/subject/10864154/"}
+{"书名": "火星照耀美国", "作者": "韩松", "评分": "7.1", "url": "https://book.douban.com/subject/6827865/"}
+{"书名": "The Paper Menagerie and Other Stories", "作者": "Ken Liu", "评分": "8.4", "url": "https://book.douban.com/subject/26355979/"}
+{"书名": "光与暗的生灵", "作者": "[美] 罗杰·泽拉兹尼", "评分": "7.2", "url": "https://book.douban.com/subject/26283241/"}
+{"书名": "2001夜物語(01)", "作者": "星野之宣", "评分": "9.3", "url": "https://book.douban.com/subject/1782294/"}
+{"书名": "王晋康科幻小说精选（全4册）", "作者": "王晋康", "评分": "8.5", "url": "https://book.douban.com/subject/1980793/"}
+{"书名": "2001 A Space Odyssey", "作者": "Arthur Charles Clarke", "评分": "9.3", "url": "https://book.douban.com/subject/4953301/"}
+{"书名": "本司汀", "作者": "张艳华", "评分": "8.1", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "2084", "作者": "[阿尔及利亚] 布阿莱姆·桑萨尔", "评分": "6.9", "url": "https://book.douban.com/subject/26940569/"}
+{"书名": "时间旋涡", "作者": "(加)罗伯特·查尔斯·威尔森", "评分": "7.4", "url": "https://book.douban.com/subject/10732280/"}
+{"书名": "坠落天使", "作者": "[英]  理查德·摩根", "评分": "8.7", "url": "https://book.douban.com/subject/26808095/"}
+{"书名": "恐龙文明三部曲", "作者": "[加] 罗伯特·J. 索耶", "评分": "8.4", "url": "https://book.douban.com/subject/1417484/"}
+{"书名": "控虫师", "作者": "彭柳蓉", "评分": "7.0", "url": "https://book.douban.com/subject/27056309/"}
+{"书名": "人性分解", "作者": "(加拿大)罗伯特·J. 索耶", "评分": "8.2", "url": "https://book.douban.com/subject/24751065/"}
+{"书名": "日暮", "作者": "艾萨克.阿西莫夫、西尔弗伯格", "评分": "7.8", "url": "https://book.douban.com/subject/1125417/"}
+{"书名": "太阳的金色苹果", "作者": "雷.布拉德伯里、Ray Beadbury", "评分": "8.8", "url": "https://book.douban.com/subject/1441006/"}
+{"书名": "穿越时空的少女", "作者": "[日] 筒井康隆", "评分": "7.3", "url": "https://book.douban.com/subject/3812309/"}
+{"书名": "奇点天空", "作者": "[美]查尔斯·斯特罗斯", "评分": "7.8", "url": "https://book.douban.com/subject/4178272/"}
+{"书名": "没有你的天堂", "作者": "奥菲尔·图塞·贾夫拉", "评分": "8.1", "url": "https://book.douban.com/subject/26260066/"}
+{"书名": "盗梦空间", "作者": "[英] 克里斯托弗·诺兰", "评分": "7.8", "url": "https://book.douban.com/subject/5363492/"}
+{"书名": "科幻世界文库（全六册）", "作者": "四川科学技术出版社", "评分": "9.2", "url": "https://book.douban.com/subject/2146031/"}
+{"书名": "试验年代", "作者": "(美) 迈克尔·坎宁安、Michael Cunningham", "评分": "7.8", "url": "https://book.douban.com/subject/6831060/"}
+{"书名": "道尔教授的头颅", "作者": "亚历山大.别利亚耶夫", "评分": "7.9", "url": "https://book.douban.com/subject/1389911/"}
+{"书名": "第十一站", "作者": "[加] 艾米丽·圣约翰·曼德尔", "评分": "8.1", "url": "https://book.douban.com/subject/26639957/"}
+{"书名": "鲵鱼之乱", "作者": "[捷克] 卡·恰佩克", "评分": "8.3", "url": "https://book.douban.com/subject/1065102/"}
+{"书名": "太空将来时", "作者": "赵洋", "评分": "8.3", "url": "https://book.douban.com/subject/24745622/"}
+{"书名": "24格每秒天堂", "作者": "潘海天", "评分": "8.4", "url": "https://book.douban.com/subject/26393342/"}
+{"书名": "宿主", "作者": "（美）斯蒂芬妮·梅尔、Stephenie Meyer", "评分": "7.4", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "米与盐的年代", "作者": "金•斯坦利•罗宾森", "评分": "6.8", "url": "https://book.douban.com/subject/2363135/"}
+{"书名": "末日奇点", "作者": "[美] 查尔斯·斯特罗斯", "评分": "8.1", "url": "https://book.douban.com/subject/5299384/"}
+{"书名": "出卖月亮的人", "作者": "（美）罗伯特·海因莱因、Robert Anson Heinlein", "评分": "8.2", "url": "https://book.douban.com/subject/4011684/"}
+{"书名": "尘埃记", "作者": "[美]休·豪伊", "评分": "6.3", "url": "https://book.douban.com/subject/26317874/"}
+{"书名": "梦之海", "作者": "刘慈欣", "评分": "8.0", "url": "https://book.douban.com/subject/26437740/"}
+{"书名": "Nature杂志科幻小说选集Ⅱ", "作者": "[英] 亨利·吉 编", "评分": "8.3", "url": "https://book.douban.com/subject/26842990/"}
+{"书名": "间客", "作者": "猫腻", "评分": "8.8", "url": "https://book.douban.com/subject/24283160/"}
+{"书名": "怒火重燃", "作者": "[英] 理查德·摩根", "评分": "8.0", "url": "https://book.douban.com/subject/27024112/"}
+{"书名": "离开地球表面", "作者": "凌晨", "评分": "8.4", "url": "https://book.douban.com/subject/26849200/"}
+{"书名": "平面宇宙", "作者": "［美］A. K. 杜德尼", "评分": "8.4", "url": "https://book.douban.com/subject/26420540/"}
+{"书名": "屍者的帝國", "作者": "伊藤計劃、圓城塔", "评分": "7.1", "url": "https://book.douban.com/subject/25892730/"}
+{"书名": "蝴蝶", "作者": "刘慈欣", "评分": "8.0", "url": "https://book.douban.com/subject/26708572/"}
+{"书名": "未来边缘", "作者": "刘慈欣", "评分": "7.9", "url": "https://book.douban.com/subject/26392016/"}
+{"书名": "非法智慧", "作者": "张之路", "评分": "8.4", "url": "https://book.douban.com/subject/1041057/"}
+{"书名": "头发", "作者": "卫斯理", "评分": "8.2", "url": "https://book.douban.com/subject/3284411/"}
+{"书名": "金羊毛", "作者": "（加）罗伯特•J•索耶", "评分": "7.9", "url": "https://book.douban.com/subject/1433694/"}
+{"书名": "The Circle", "作者": "Dave Eggers", "评分": "7.1", "url": "https://book.douban.com/subject/25743150/"}
+{"书名": "重力使命", "作者": "哈尔·克莱蒙特", "评分": "8.2", "url": "https://book.douban.com/subject/1878074/"}
+{"书名": "科幻之路（第一卷）", "作者": "[美] 詹姆斯·冈恩", "评分": "8.3", "url": "https://book.douban.com/subject/1463576/"}
+{"书名": "浪漫服务公司", "作者": "罗伯特·谢克里", "评分": "8.5", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "达斯·维德本纪", "作者": "徐辰", "评分": "8.1", "url": "https://book.douban.com/subject/26382931/"}
+{"书名": "这完美的一天", "作者": "(美)艾拉·莱文", "评分": "7.8", "url": "https://book.douban.com/subject/10491574/"}
+{"书名": "移動迷宮", "作者": "詹姆士．達許納、James Dashner", "评分": "7.4", "url": "https://book.douban.com/subject/6129292/"}
+{"书名": "芯存者", "作者": "颜桥", "评分": "8.1", "url": "https://book.douban.com/subject/26815439/"}
+{"书名": "一秒之后", "作者": "[美]威廉·R.福岑", "评分": "7.6", "url": "https://book.douban.com/subject/11529448/"}
+{"书名": "经典的真身", "作者": "(美) 迪克 等", "评分": "8.8", "url": "https://book.douban.com/subject/4814391/"}
+{"书名": "幽灵5号", "作者": "[美] 罗伯特·谢克里", "评分": "8.7", "url": "https://book.douban.com/subject/1130892/"}
+{"书名": "创世纪", "作者": "[新西兰] 伯纳德·贝克特", "评分": "8.0", "url": "https://book.douban.com/subject/5943269/"}
+{"书名": "逃出母宇宙", "作者": "王晋康", "评分": "7.0", "url": "https://book.douban.com/subject/25831055/"}
+{"书名": "环界4.新生", "作者": "铃木光司", "评分": "6.9", "url": "https://book.douban.com/subject/26907068/"}
+{"书名": "寄生前夜", "作者": "濑名秀明", "评分": "7.6", "url": "https://book.douban.com/subject/1767300/"}
+{"书名": "银河系公民", "作者": "(美)罗伯特﹒海因莱因", "评分": "8.1", "url": "https://book.douban.com/subject/1665390/"}
+{"书名": "Ancillary Justice", "作者": "Ann Leckie", "评分": "8.0", "url": "https://book.douban.com/subject/21980268/"}
+{"书名": "医院", "作者": "韩松", "评分": "7.6", "url": "https://book.douban.com/subject/26801112/"}
+{"书名": "关妖精的瓶子", "作者": "夏笳", "评分": "7.6", "url": "https://book.douban.com/subject/11503109/"}
+{"书名": "离线·科幻", "作者": "李婷 主编", "评分": "7.9", "url": "https://book.douban.com/subject/26389399/"}
+{"书名": "血钱博士", "作者": "(美)菲利普·K·迪克", "评分": "7.8", "url": "https://book.douban.com/subject/26210606/"}
+{"书名": "气球上的五星期", "作者": "凡尔纳", "评分": "8.1", "url": "https://book.douban.com/subject/1083032/"}
+{"书名": "365夜科幻故事（上、下册）", "作者": "饶忠华 主编、刘泽岱 等插图", "评分": "9.4", "url": "https://book.douban.com/subject/1791383/"}
+{"书名": "凡尔纳科幻经典 4 部曲（全四册 ）", "作者": "凡尔纳", "评分": "8.9", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "中国科幻年度坐标", "作者": "拉兹 三丰 主编", "评分": "9.2", "url": "https://book.douban.com/subject/26649737/"}
+{"书名": "异形生存手册", "作者": "陈飞", "评分": "6.0", "url": "https://book.douban.com/subject/23774517/"}
+{"书名": "骸骨迷宫", "作者": "[美] 弗朗西斯卡·海格", "评分": "7.8", "url": "https://book.douban.com/subject/26921113/"}
+{"书名": "失落的世界", "作者": "阿瑟·柯南道尔", "评分": "7.6", "url": "https://book.douban.com/subject/3825739/"}
+{"书名": "松林異境", "作者": "布萊克．克勞奇", "评分": "7.5", "url": "https://book.douban.com/subject/25908911/"}
+{"书名": "三日而亡", "作者": "[美] 提姆·鲍尔斯", "评分": "7.3", "url": "https://book.douban.com/subject/5988701/"}
+{"书名": "伪人2075", "作者": "迟卉", "评分": "8.0", "url": "https://book.douban.com/subject/25898111/"}
+{"书名": "天父地母", "作者": "王晋康", "评分": "6.7", "url": "https://book.douban.com/subject/26707928/"}
+{"书名": "行尸走肉", "作者": "(美)罗伯特·凯克曼", "评分": "7.7", "url": "https://book.douban.com/subject/20278368/"}
+{"书名": "水星播种", "作者": "姚海军 主编", "评分": "8.6", "url": "https://book.douban.com/subject/10527069/"}
+{"书名": "回到卡戎", "作者": "郝景芳", "评分": "7.6", "url": "https://book.douban.com/subject/11531717/"}
+{"书名": "时间轴", "作者": "[加] 罗伯特·查尔斯·威尔森", "评分": "6.9", "url": "https://book.douban.com/subject/5355324/"}
+{"书名": "终极实验", "作者": "[加拿大] 罗伯特 J. 索耶", "评分": "8.3", "url": "https://book.douban.com/subject/1162566/"}
+{"书名": "天使女王", "作者": "[美] 格雷格·贝尔", "评分": "7.8", "url": "https://book.douban.com/subject/26390941/"}
+{"书名": "猫的摇篮", "作者": "[美国]库尔特·冯内古特、Kurt Vonnegut", "评分": "8.3", "url": "https://book.douban.com/subject/1470235/"}
+{"书名": "泰坦棋手", "作者": "[美]菲利普·迪克", "评分": "7.8", "url": "https://book.douban.com/subject/26303964/"}
+{"书名": "蚂蚁时代", "作者": "贝尔纳·韦尔贝尔", "评分": "8.9", "url": "https://book.douban.com/subject/1525866/"}
+{"书名": "傀儡主人", "作者": "罗伯特·海因莱因", "评分": "7.7", "url": "https://book.douban.com/subject/1187844/"}
+{"书名": "双星", "作者": "(美)罗伯特・海因莱因", "评分": "7.7", "url": "https://book.douban.com/subject/1675986/"}
+{"书名": "阿努比斯之门", "作者": "[美]提姆·鲍乐斯(Tim Powers)", "评分": "7.7", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "毁灭之城：地球碎块", "作者": "刘慈欣、燕然、贾茜、夏笳、何阳、骆灵左、文舟、骑桶人、迟卉", "评分": "7.3", "url": "https://book.douban.com/subject/24538717/"}
+{"书名": "湿婆之舞", "作者": "江波", "评分": "7.7", "url": "https://book.douban.com/subject/19957024/"}
+{"书名": "未来犯罪", "作者": "影三人", "评分": "8.5", "url": "https://book.douban.com/subject/27078239/"}
+{"书名": "无敌舰队", "作者": "[美] 恩斯特·克莱恩", "评分": "6.4", "url": "https://book.douban.com/subject/27001149/"}
+{"书名": "What if", "作者": "Randall Munroe", "评分": "8.6", "url": "https://book.douban.com/subject/26728833/"}
+{"书名": "猎梦人", "作者": "(法)塞尔日·布鲁梭罗", "评分": "8.1", "url": "https://book.douban.com/subject/5939400/"}
+{"书名": "银河之心·天垂日暮", "作者": "江波", "评分": "7.6", "url": "https://book.douban.com/subject/6789610/"}
+{"书名": "帕迪多街車站", "作者": "柴納．米耶維", "评分": "8.5", "url": "https://book.douban.com/subject/24389756/"}
+{"书名": "飞向人马座", "作者": "郑文光", "评分": "8.0", "url": "https://book.douban.com/subject/1080036/"}
+{"书名": "三尖树时代", "作者": "约翰.温德姆", "评分": "7.8", "url": "https://book.douban.com/subject/1771379/"}
+{"书名": "蚁生", "作者": "王晋康", "评分": "7.2", "url": "https://book.douban.com/subject/2226288/"}
+{"书名": "苹果核里的桃先生", "作者": "七格", "评分": "8.8", "url": "https://book.douban.com/subject/1539103/"}
+{"书名": "第三次拯救未来世界", "作者": "刘慈欣", "评分": "7.9", "url": "https://book.douban.com/subject/26631838/"}
+{"书名": "死者简史", "作者": "[美]凯文•布罗克迈耶（Kevin Brockmeier）", "评分": "7.3", "url": "https://book.douban.com/subject/26337001/"}
+{"书名": "孤独的进化者", "作者": "刘慈欣", "评分": "8.5", "url": "https://book.douban.com/subject/26631837/"}
+{"书名": "&#39;&#39;All You Zombies - -&#39;&#39;", "作者": "Robert A. Heinlein", "评分": "8.7", "url": "https://book.douban.com/subject/26257216/"}
+{"书名": "脑渊", "作者": "李慧", "评分": "7.9", "url": "https://book.douban.com/subject/26811326/"}
+{"书名": "拉美科幻文学史", "作者": "[美] 拉切尔·海伍德·费雷拉", "评分": "8.2", "url": "https://book.douban.com/subject/26657735/"}
+{"书名": "幻影游船1", "作者": "郭妮", "评分": "9.4", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "Dirk Gently&#39;s Holistic Detective Agency", "作者": "Douglas Adams", "评分": "9.1", "url": "https://book.douban.com/subject/1935232/"}
+{"书名": "日本科幻小说史话", "作者": "(日)长山靖生", "评分": "7.3", "url": "https://book.douban.com/subject/19944242/"}
+{"书名": "蓝火星（全两册）", "作者": "（美）金•斯坦利•罗宾逊", "评分": "8.1", "url": "https://book.douban.com/subject/3552454/"}
+{"书名": "安德的流亡", "作者": "[美]奥森·斯科特·卡德", "评分": "8.3", "url": "https://book.douban.com/subject/21724366/"}
+{"书名": "云武士", "作者": "帕特里克•蒂利", "评分": "7.9", "url": "https://book.douban.com/subject/3736884/"}
+{"书名": "外国现代科学幻想小说", "作者": "施咸荣编", "评分": "9.3", "url": "https://book.douban.com/subject/1765132/"}
+{"书名": "隐身人", "作者": "(英)赫.乔.韦尔斯", "评分": "7.8", "url": "https://book.douban.com/subject/1027184/"}
+{"书名": "安佐之梦", "作者": "[美] 约翰·斯卡尔齐", "评分": "7.9", "url": "https://book.douban.com/subject/26943160/"}
+{"书名": "月亮的距離(01)", "作者": "太田垣康男", "评分": "9.0", "url": "https://book.douban.com/subject/3173236/"}
+{"书名": "棱镜", "作者": "(日) 神林长平", "评分": "7.8", "url": "https://book.douban.com/subject/4140460/"}
+{"书名": "达尔文陷阱", "作者": "何夕", "评分": "8.2", "url": "https://book.douban.com/subject/6127328/"}
+{"书名": "末日邮差", "作者": "[美] 大卫·布林", "评分": "7.5", "url": "https://book.douban.com/subject/26266465/"}
+{"书名": "罗素姆万能机器人", "作者": "[捷克]卡雷尔·恰佩克", "评分": "7.8", "url": "https://book.douban.com/subject/24876877/"}
+{"书名": "七重外壳", "作者": "王晋康", "评分": "8.1", "url": "https://book.douban.com/subject/1465602/"}
+{"书名": "立方体之战·突围", "作者": "[美] 玛丽亚·斯奈德", "评分": "7.4", "url": "https://book.douban.com/subject/27001152/"}
+{"书名": "亚特兰蒂斯2:末日病毒", "作者": "[美] A.G.里德尔", "评分": "7.9", "url": "https://book.douban.com/subject/26613044/"}
+{"书名": "时间狂想故事集", "作者": "宝树", "评分": "7.5", "url": "https://book.douban.com/subject/26591916/"}
+{"书名": "高铁", "作者": "韩松", "评分": "6.6", "url": "https://book.douban.com/subject/11607281/"}
+{"书名": "隐形人", "作者": "H.G.威尔斯", "评分": "7.5", "url": "https://book.douban.com/subject/1420984/"}
+{"书名": "十亿分之一的文明", "作者": "刘慈欣", "评分": "8.0", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "发条人偶", "作者": "[美] 大卫·埃里克·尼尔森", "评分": "7.4", "url": "https://book.douban.com/subject/24529566/"}
+{"书名": "红星蓝调", "作者": "[加拿大] 罗伯特·索耶", "评分": "7.3", "url": "https://book.douban.com/subject/26900294/"}
+{"书名": "意识零界之 赎灵师", "作者": "左小权", "评分": "6.9", "url": "https://book.douban.com/subject/25976704/"}
+{"书名": "银河铁道999", "作者": "(日)松本零士", "评分": "9.0", "url": "https://book.douban.com/subject/2040646/"}
+{"书名": "国王与抒情诗", "作者": "李宏伟", "评分": "7.6", "url": "https://book.douban.com/subject/27017396/"}
+{"书名": "惑星奇航 1", "作者": "幸村 誠", "评分": "9.0", "url": "https://book.douban.com/subject/1471904/"}
+{"书名": "去年是个好年吧", "作者": "(日)山本弘", "评分": "6.9", "url": "https://book.douban.com/subject/10765750/"}
+{"书名": "战斗妖精雪风", "作者": "神林长平", "评分": "9.2", "url": "https://book.douban.com/subject/3346426/"}
+{"书名": "分形王子", "作者": "[芬兰] 哈努·拉贾涅米", "评分": "8.8", "url": "https://book.douban.com/subject/27039409/"}
+{"书名": "銃夢01", "作者": "木城幸人", "评分": "9.1", "url": "https://book.douban.com/subject/3122531/"}
+{"书名": "记忆大师", "作者": "宋譞、任鹏", "评分": "6.8", "url": "https://book.douban.com/subject/27025917/"}
+{"书名": "鲸歌", "作者": "刘慈欣", "评分": "7.7", "url": "https://book.douban.com/subject/26599027/"}
+{"书名": "The Fantasies of Robert A. Heinlein", "作者": "Robert A. Heinlein", "评分": "8.9", "url": "https://book.douban.com/subject/26257217/"}
+{"书名": "文学少女侦探", "作者": "梁清散", "评分": "8.0", "url": "https://book.douban.com/subject/26602859/"}
+{"书名": "銀河鐵道999 （1）", "作者": "松本零士", "评分": "9.0", "url": "https://book.douban.com/subject/1456203/"}
+{"书名": "星旅人", "作者": "郝景芳", "评分": "8.1", "url": "https://book.douban.com/subject/6806490/"}
+{"书名": "基因角斗士", "作者": "[美] 特德·科斯玛特卡", "评分": "7.1", "url": "https://book.douban.com/subject/26808096/"}
+{"书名": "2050年的母系氏族 Ⅰ", "作者": "ShakeSpace、今何在、长铗、王晋康、小椴、九戈龙、凤凰、燕垒生、本少爷", "评分": "8.1", "url": "https://book.douban.com/subject/4814387/"}
+{"书名": "记忆迷踪", "作者": "启山", "评分": "7.5", "url": "https://book.douban.com/subject/26949992/"}
+{"书名": "被删除的人", "作者": "陈奕潞", "评分": "7.1", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "吞食上弦月的獅子", "作者": "夢枕獏", "评分": "8.1", "url": "https://book.douban.com/subject/11507219/"}
+{"书名": "猎人行", "作者": "[美]乔治·R. R. 马丁、[美]丹尼尔·亚伯拉罕、[美]加德纳·多佐伊斯", "评分": "7.8", "url": "https://book.douban.com/subject/24737061/"}
+{"书名": "失落的世界", "作者": "迈克尔·克莱顿", "评分": "8.2", "url": "https://book.douban.com/subject/1262143/"}
+{"书名": "风之邦，星之渚：雷兹司芬特兴亡记 上", "作者": "[日] 小川一水", "评分": "7.9", "url": "https://book.douban.com/subject/25802168/"}
+{"书名": "寻找人类", "作者": "雷风暴", "评分": "8.6", "url": "https://book.douban.com/subject/1101631/"}
+{"书名": "外天楼", "作者": "石黒正数", "评分": "9.2", "url": "https://book.douban.com/subject/6890451/"}
+{"书名": "尼乌尔克1.黑孩儿", "作者": "[法]奥利维耶•瓦提纳（Olivier Vatine）", "评分": "8.9", "url": "https://book.douban.com/subject/26925314/"}
+{"书名": "环太平洋", "作者": "阿历克斯·欧文", "评分": "7.1", "url": "https://book.douban.com/subject/25976333/"}
+{"书名": "爱因斯坦赤道", "作者": "刘慈欣", "评分": "8.3", "url": "https://book.douban.com/subject/26631833/"}
+{"书名": "千年战争", "作者": "[美]乔·霍尔德曼", "评分": "7.3", "url": "https://book.douban.com/subject/1479951/"}
+{"书名": "星球大战前传三部曲·漫画限量典藏版", "作者": "黑马漫画公司 编绘", "评分": "8.7", "url": "https://book.douban.com/subject/5245576/"}
+{"书名": "星际旅行", "作者": "吉恩·罗登贝里", "评分": "8.3", "url": "https://book.douban.com/subject/3195504/"}
+{"书名": "土狼星", "作者": "艾伦·斯蒂尔", "评分": "7.6", "url": "https://book.douban.com/subject/25981959/"}
+{"书名": "科幻宇宙生存指南", "作者": "[美]游朝凯/Charles Yu", "评分": "7.0", "url": "https://book.douban.com/subject/25817165/"}
+{"书名": "亚特兰蒂斯3：美丽新世界", "作者": "[美] A.G.里德尔", "评分": "7.8", "url": "https://book.douban.com/subject/26735084/"}
+{"书名": "逃吧，地球人！", "作者": "尼尔• 斯特劳斯、Neil Strauss", "评分": "7.6", "url": "https://book.douban.com/subject/4820706/"}
+{"书名": "艾达", "作者": "[日] 山田正纪", "评分": "7.2", "url": "https://book.douban.com/subject/25977531/"}
+{"书名": "第五类接触", "作者": "郑军", "评分": "8.2", "url": "https://book.douban.com/subject/5402624/"}
+{"书名": "光晕", "作者": "(美)埃里克·尼伦德", "评分": "8.0", "url": "https://book.douban.com/subject/1462652/"}
+{"书名": "当代美国科幻小说选", "作者": "雷·勃雷德伯里、罗伯特·希克里、罗伯特·海因莱因、理查德·格曼、弗里茨·莱伯、福雷斯特·阿克曼、艾萨克·阿西莫夫", "评分": "8.2", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "星空的旋律", "作者": "萧星寒", "评分": "6.7", "url": "https://book.douban.com/subject/6265772/"}
+{"书名": "科幻小说面面观", "作者": "(美) 达科·苏恩文、Darko Suvin", "评分": "7.7", "url": "https://book.douban.com/subject/4882001/"}
+{"书名": "他，来自火星", "作者": "饭卡", "评分": "7.9", "url": "https://book.douban.com/subject/4090777/"}
+{"书名": "与机器人同行", "作者": "阿缺", "评分": "8.3", "url": "https://book.douban.com/subject/26636675/"}
+{"书名": "白垩纪往事", "作者": "刘慈欣", "评分": "7.8", "url": "https://book.douban.com/subject/4832901/"}
+{"书名": "时间机器", "作者": "[英] 赫·乔·威尔斯", "评分": "8.0", "url": "https://book.douban.com/subject/1079829/"}
+{"书名": "从地球到月球", "作者": "儒勒·凡尔纳", "评分": "8.2", "url": "https://book.douban.com/subject/2039548/"}
+{"书名": "薄码", "作者": "陈楸帆 著、成追忆 选编", "评分": "7.8", "url": "https://book.douban.com/subject/7051742/"}
+{"书名": "超脑：浴室", "作者": "蔡必贵", "评分": "6.0", "url": "https://book.douban.com/subject/26896993/"}
+{"书名": "攻殼機動隊 Complete Box", "作者": "士郎正宗", "评分": "8.7", "url": "https://book.douban.com/subject/26990359/"}
+{"书名": "卡勒米安墓场", "作者": "迟卉", "评分": "7.9", "url": "https://book.douban.com/subject/5063541/"}
+{"书名": "彩图科幻百科", "作者": "约翰·克卢特", "评分": "8.5", "url": "https://book.douban.com/subject/1397818/"}
+{"书名": "西游新记", "作者": "童恩正", "评分": "9.0", "url": "https://book.douban.com/subject/1875743/"}
+{"书名": "逃离2147", "作者": "[美] A.G.里德尔", "评分": "7.8", "url": "https://book.douban.com/subject/27003797/"}
+{"书名": "科幻小说变形记", "作者": "(加) 达科·苏恩文、Darko Suvin", "评分": "8.2", "url": "https://book.douban.com/subject/4882003/"}
+{"书名": "亿万年大狂欢", "作者": "(英) 奥尔迪思、(英) 温格罗夫", "评分": "7.3", "url": "https://book.douban.com/subject/4882002/"}
+{"书名": "拉玛真相", "作者": "[英] 阿瑟·C. 克拉克、[美]金特里·李", "评分": "7.8", "url": "https://book.douban.com/subject/6744667/"}
+{"书名": "全能侦探社", "作者": "Douglas Adams", "评分": "7.9", "url": "https://book.douban.com/subject/26929242/"}
+{"书名": "The Giver", "作者": "Lois Lowry", "评分": "8.3", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "跨越三维空间", "作者": "孙维梓", "评分": "8.6", "url": "https://book.douban.com/subject/2382245/"}
+{"书名": "云端杀机", "作者": "[美]丹尼尔·苏亚雷斯 （Daniel Suarez）", "评分": "7.9", "url": "https://book.douban.com/subject/26312151/"}
+{"书名": "沉寂的星球", "作者": "[英]C.S.刘易斯", "评分": "7.9", "url": "https://book.douban.com/subject/5909528/"}
+{"书名": "Interstellar", "作者": "Greg Keyes", "评分": "8.6", "url": "https://book.douban.com/subject/26257987/"}
+{"书名": "未来之城", "作者": "[美] 约翰·斯卡尔齐、伊丽莎白·贝尔、托拜厄斯·S.波克尔、杰伊·莱克、卡尔·施罗德", "评分": "8.2", "url": "https://book.douban.com/subject/26941504/"}
+{"书名": "汪洋战争", "作者": "何夕", "评分": "8.0", "url": "https://book.douban.com/subject/26590998/"}
+{"书名": "卫斯理作品集", "作者": "倪匡", "评分": "8.2", "url": "https://book.douban.com/subject/1082294/"}
+{"书名": "极地恶灵 下", "作者": "[美]丹·西蒙斯", "评分": "8.2", "url": "https://book.douban.com/subject/4040496/"}
+{"书名": "All You Need Is Kill", "作者": "樱坂洋", "评分": "7.7", "url": "https://book.douban.com/subject/2997267/"}
+{"书名": "重返中世纪", "作者": "(美)克莱顿", "评分": "7.5", "url": "https://book.douban.com/subject/1546477/"}
+{"书名": "重返黎明", "作者": "王茁源", "评分": "7.8", "url": "https://book.douban.com/subject/26996363/"}
+{"书名": "量子江湖·燕子坞（上）", "作者": "陈怅", "评分": "7.8", "url": "https://book.douban.com/subject/11599245/"}
+{"书名": "我成为怪物那天", "作者": "郭敬明", "评分": "7.8", "url": "https://book.douban.com/subject/26990558/"}
+{"书名": "拉玛2号", "作者": "[英] 阿瑟·C. 克拉克、[美]金特里·李", "评分": "7.7", "url": "https://book.douban.com/subject/6744650/"}
+{"书名": "达尔文电波", "作者": "格雷格·贝尔", "评分": "7.8", "url": "https://book.douban.com/subject/1157682/"}
+{"书名": "大角快跑", "作者": "潘海天", "评分": "8.4", "url": "https://book.douban.com/subject/2310062/"}
+{"书名": "蝎子之屋", "作者": "南希・法默", "评分": "8.0", "url": "https://book.douban.com/subject/1082431/"}
+{"书名": "14号门", "作者": "[美] 彼得·克莱斯", "评分": "6.3", "url": "https://book.douban.com/subject/26748184/"}
+{"书名": "生化禁區 BIOMEGA 1", "作者": "弐瓶勉", "评分": "9.1", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "拉玛迷境", "作者": "[英] 阿瑟·C. 克拉克、[美] 金特里·李", "评分": "7.5", "url": "https://book.douban.com/subject/6744652/"}
+{"书名": "永世", "作者": "(美)格雷格·贝尔", "评分": "7.2", "url": "https://book.douban.com/subject/25729106/"}
+{"书名": "镜舞", "作者": "(美)洛伊斯.比约德", "评分": "8.5", "url": "https://book.douban.com/subject/1427341/"}
+{"书名": "星际唱片", "作者": "[美]卡尔·萨根", "评分": "8.8", "url": "https://book.douban.com/subject/26884205/"}
+{"书名": "我們都是外星人，你來自哪個星球", "作者": "法魯斯", "评分": "7.2", "url": "https://book.douban.com/subject/26107497/"}
+{"书名": "贵族们的游戏", "作者": "洛伊斯.比约德(美)", "评分": "8.3", "url": "https://book.douban.com/subject/1427340/"}
+{"书名": "1分钟小说选", "作者": "(日)星新一", "评分": "8.8", "url": "https://book.douban.com/subject/2076847/"}
+{"书名": "利维坦号战记Ⅱ——伊斯坦布尔大炮", "作者": "[美]斯科特•维斯特菲尔德", "评分": "8.2", "url": "https://book.douban.com/subject/24853110/"}
+{"书名": "科幻六讲", "作者": "吴岩", "评分": "7.8", "url": "https://book.douban.com/subject/25731662/"}
+{"书名": "The Last Question (When the World Ends)", "作者": "Isaac Asimov、Jim Gallant、Bob E. Flick", "评分": "9.5", "url": "https://book.douban.com/subject/3805978/"}
+{"书名": "11/22/63", "作者": "(美)斯蒂芬·金", "评分": "7.8", "url": "https://book.douban.com/subject/25893267/"}
+{"书名": "GANTZ殺戮都市(01)", "作者": "奧浩哉", "评分": "8.4", "url": "https://book.douban.com/subject/3135034/"}
+{"书名": "藤子·F·不二雄SF短篇完全版 1", "作者": "藤子·F·不二雄", "评分": "9.5", "url": "https://book.douban.com/subject/3057111/"}
+{"书名": "倾诉", "作者": "厄休拉·勒奎恩", "评分": "7.6", "url": "https://book.douban.com/subject/2127090/"}
+{"书名": "蝴蝶风暴", "作者": "江南", "评分": "7.6", "url": "https://book.douban.com/subject/2127790/"}
+{"书名": "僵尸生存指南", "作者": "［美］马克斯•布鲁克斯", "评分": "7.3", "url": "https://book.douban.com/subject/10464645/"}
+{"书名": "希灵帝国", "作者": "[中]远瞳", "评分": "7.7", "url": "https://book.douban.com/subject/26365304/"}
+{"书名": "移動迷宮3", "作者": "James Dashner", "评分": "5.6", "url": "https://book.douban.com/subject/19936525/"}
+{"书名": "毁灭之城：生命副本", "作者": "潘海天、有时右逝、晴川、七月、万象峰年、杨叛、武束衣、郭步调", "评分": "7.4", "url": "https://book.douban.com/subject/23857400/"}
+{"书名": "外星人在巴塞罗那", "作者": "[西班牙] 爱德华多·门多萨", "评分": "7.8", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "饥饿游戏2：燃烧的女孩", "作者": "[美]苏珊·柯林斯(Suzanne Collins)", "评分": "7.6", "url": "https://book.douban.com/subject/5417807/"}
+{"书名": "超人类", "作者": "(美)西奥多·斯特金", "评分": "9.3", "url": "https://book.douban.com/subject/10735455/"}
+{"书名": "为和平而战", "作者": "弗诺· 文奇", "评分": "7.8", "url": "https://book.douban.com/subject/3607228/"}
+{"书名": "Nightfall", "作者": "Isaac Asimov、Robert Silverberg", "评分": "8.2", "url": "https://book.douban.com/subject/1481585/"}
+{"书名": "饥饿游戏3：嘲笑鸟", "作者": "[美]苏珊·柯林斯", "评分": "7.0", "url": "https://book.douban.com/subject/6265961/"}
+{"书名": "神的平衡器", "作者": "陈奕潞", "评分": "7.4", "url": "https://book.douban.com/subject/6311231/"}
+{"书名": "无尽的边界", "作者": "洛伊斯.比约德、Lois McMaster Bujold", "评分": "8.6", "url": "https://book.douban.com/subject/1903743/"}
+{"书名": "The Diamond Age", "作者": "Neal Stephenson", "评分": "8.6", "url": "https://book.douban.com/subject/1438923/"}
+{"书名": "遮蔽的眼睛", "作者": "（美）菲利普・迪克", "评分": "8.4", "url": "https://book.douban.com/subject/1070914/"}
+{"书名": "生命之锁", "作者": "约翰·斯卡尔齐", "评分": "7.0", "url": "https://book.douban.com/subject/26941503/"}
+{"书名": "独家占有Ⅰ", "作者": "丁墨", "评分": "6.9", "url": "https://book.douban.com/subject/25835989/"}
+{"书名": "皮囊之下", "作者": "[英] 米歇尔·法柏", "评分": "8.0", "url": "https://book.douban.com/subject/26866448/"}
+{"书名": "分歧者3·忠诚者", "作者": "[美]维罗尼卡·罗斯、Veronica Roth", "评分": "6.5", "url": "https://book.douban.com/subject/25932385/"}
+{"书名": "动物园里的救世主", "作者": "刘慈欣", "评分": "8.4", "url": "https://book.douban.com/subject/26631834/"}
+{"书名": "中国太阳", "作者": "刘慈欣", "评分": "8.3", "url": "https://book.douban.com/subject/25729093/"}
+{"书名": "意外的时间机器", "作者": "[美]乔·霍尔德曼(Joe Haldeman)", "评分": "7.3", "url": "https://book.douban.com/subject/5299230/"}
+{"书名": "The Man from Earth", "作者": "Jerome Bixby", "评分": "9.2", "url": "https://book.douban.com/subject/3293448/"}
+{"书名": "质量效应 第1卷", "作者": "[加] 德鲁·卡宾森", "评分": "7.2", "url": "https://book.douban.com/subject/10529105/"}
+{"书名": "星之声", "作者": "[日] 加纳新太", "评分": "8.0", "url": "https://book.douban.com/subject/26430284/"}
+{"书名": "永远的和平", "作者": "[美]乔·霍尔德曼", "评分": "7.0", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "独唱者", "作者": "韩松", "评分": "7.8", "url": "https://book.douban.com/subject/26369906/"}
+{"书名": "绿野", "作者": "拉拉", "评分": "8.3", "url": "https://book.douban.com/subject/1919185/"}
+{"书名": "百万杀人实验", "作者": "［美］理查德•马特森", "评分": "7.5", "url": "https://book.douban.com/subject/5375966/"}
+{"书名": "不速之客", "作者": "(日)星新一", "评分": "8.6", "url": "https://book.douban.com/subject/3173077/"}
+{"书名": "利维坦号战记Ⅲ——直到世界尽头", "作者": "[美]斯科特•维斯特菲尔德", "评分": "8.1", "url": "https://book.douban.com/subject/24853111/"}
+{"书名": "纯真及其所编造的", "作者": "飞氘", "评分": "7.7", "url": "https://book.douban.com/subject/6401138/"}
+{"书名": "凡尔纳科幻故事精选", "作者": "李名慈", "评分": "9.1", "url": "https://book.douban.com/subject/1107026/"}
+{"书名": "时间的地图", "作者": "(西班牙)费里克斯·J·帕尔马", "评分": "7.7", "url": "https://book.douban.com/subject/10828410/"}
+{"书名": "时砂之王", "作者": "[日] 小川一水", "评分": "7.5", "url": "https://book.douban.com/subject/25886158/"}
+{"书名": "环游世界80天", "作者": "儒勒.凡尔纳", "评分": "7.6", "url": "https://book.douban.com/subject/2152545/"}
+{"书名": "与吾同在", "作者": "王晋康", "评分": "7.0", "url": "https://book.douban.com/subject/6845575/"}
+{"书名": "起点人", "作者": "[美]莉斯•普赖斯", "评分": "6.6", "url": "https://book.douban.com/subject/26575663/"}
+{"书名": "掠食城市Ⅰ", "作者": "[英]菲利普·瑞弗", "评分": "7.9", "url": "https://book.douban.com/subject/25986330/"}
+{"书名": "Bloodchild and Other Stories", "作者": "Octavia E. Butler", "评分": "8.2", "url": "https://book.douban.com/subject/1794294/"}
+{"书名": "EVE星战前夜之寰宇时代", "作者": "托尼·冈萨雷斯", "评分": "8.0", "url": "https://book.douban.com/subject/26261842/"}
+{"书名": "战争学徒", "作者": "(美国)洛伊斯・比约德", "评分": "8.4", "url": "https://book.douban.com/subject/1427322/"}
+{"书名": "查理九世24·末日浮空城", "作者": "雷欧幻像", "评分": "8.6", "url": "https://book.douban.com/subject/26371152/"}
+{"书名": "银河之心·逐影追光", "作者": "江波", "评分": "8.3", "url": "https://book.douban.com/subject/26768315/"}
+{"书名": "提升之战", "作者": "[美]大卫·布林、David Brin", "评分": "7.5", "url": "https://book.douban.com/subject/2376987/"}
+{"书名": "记忆", "作者": "洛伊斯.比约德(美)", "评分": "8.6", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "美丽新世界", "作者": "[英] 阿道司·赫胥黎", "评分": "8.6", "url": "https://book.douban.com/subject/1321789/"}
+{"书名": "巨兽×6", "作者": "[美] 杰里米·罗宾逊", "评分": "7.2", "url": "https://book.douban.com/subject/26959613/"}
+{"书名": "黄泉归来", "作者": "梶尾真治", "评分": "8.1", "url": "https://book.douban.com/subject/1477999/"}
+{"书名": "那夜凌晨，我坐上了旺角開往大埔的紅VAN (下)", "作者": "Pizza", "评分": "6.6", "url": "https://book.douban.com/subject/21349382/"}
+{"书名": "第13个小时", "作者": "[美] 理查德•道许", "评分": "7.4", "url": "https://book.douban.com/subject/25897402/"}
+{"书名": "マイナス・ゼロ", "作者": "広瀬 正", "评分": "8.8", "url": "https://book.douban.com/subject/1982007/"}
+{"书名": "地铁2034", "作者": "(俄罗斯)德米特里·格鲁克夫斯基", "评分": "7.8", "url": "https://book.douban.com/subject/7047228/"}
+{"书名": "地球以外的文明世界", "作者": "[美] 艾萨克·阿西莫夫", "评分": "8.2", "url": "https://book.douban.com/subject/5941480/"}
+{"书名": "记忆之囚", "作者": "陈茜", "评分": "9.3", "url": "https://book.douban.com/subject/19967238/"}
+{"书名": "His Dark Materials Trilogy (The Golden Compass; The Subtle Knife; The Amber Spyglass)", "作者": "Philip Pullman", "评分": "9.2", "url": "https://book.douban.com/subject/1351900/"}
+{"书名": "星球大战：完全载具图解", "作者": "[澳] 凯丽•多尔蒂 等（著）、[丹] 汉斯•延森 等（绘）", "评分": "9.4", "url": "https://book.douban.com/subject/26847855/"}
+{"书名": "幻影迷宫", "作者": "（俄罗斯）谢尔盖·卢克延科", "评分": "8.7", "url": "https://book.douban.com/subject/1135623/"}
+{"书名": "阿西莫夫科幻精品集（上下册）", "作者": "[美]艾萨克·阿西莫夫 Isaac Asimov", "评分": "8.7", "url": "https://book.douban.com/subject/6710396/"}
+{"书名": "虫子的世界", "作者": "刘慈欣", "评分": "6.5", "url": "https://book.douban.com/subject/26579518/"}
+{"书名": "两年假期", "作者": "(法)儒勒﹒凡尔纳", "评分": "8.7", "url": "https://book.douban.com/subject/1081327/"}
+{"书名": "不朽", "作者": "(美)罗杰·泽拉兹尼", "评分": "7.7", "url": "https://book.douban.com/subject/3684655/"}
+{"书名": "g先生", "作者": "艾倫．萊特曼 Alan Lightman", "评分": "7.4", "url": "https://book.douban.com/subject/24839348/"}
+{"书名": "丑人", "作者": "(美)斯科特·维斯特费尔德", "评分": "7.6", "url": "https://book.douban.com/subject/1998979/"}
+{"书名": "分歧者2·反叛者", "作者": "[美]维罗尼卡·罗斯、Veronica Roth", "评分": "7.0", "url": "https://book.douban.com/subject/25900093/"}
+{"书名": "一个废物艺术家的自白", "作者": "菲利普·迪克", "评分": "7.8", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "Stories of Your Life and Others", "作者": "Ted Chiang", "评分": "8.7", "url": "https://book.douban.com/subject/26590270/"}
+{"书名": "天启", "作者": "A.J.Alex、Yan One", "评分": "9.4", "url": "https://book.douban.com/subject/23059961/"}
+{"书名": "星雲組曲", "作者": "張系國", "评分": "8.8", "url": "https://book.douban.com/subject/1394072/"}
+{"书名": "閃憶殺手", "作者": "丹·西蒙斯", "评分": "7.8", "url": "https://book.douban.com/subject/10432240/"}
+{"书名": "瘟疫", "作者": "燕垒生", "评分": "7.7", "url": "https://book.douban.com/subject/11516839/"}
+{"书名": "Last and First Men", "作者": "Olaf Stapledon", "评分": "8.2", "url": "https://book.douban.com/subject/1940799/"}
+{"书名": "星际迷航", "作者": "罗伯特·A·海因莱因", "评分": "7.5", "url": "https://book.douban.com/subject/2159556/"}
+{"书名": "无限房间", "作者": "无色方糖", "评分": "7.1", "url": "https://book.douban.com/subject/26896839/"}
+{"书名": "火星公主", "作者": "(美)伯勒斯", "评分": "8.0", "url": "https://book.douban.com/subject/2334035/"}
+{"书名": "The Grace of Kings", "作者": "Ken Liu", "评分": "8.7", "url": "https://book.douban.com/subject/25908713/"}
+{"书名": "风雪山神庙", "作者": "林戈声", "评分": "7.0", "url": "https://book.douban.com/subject/26374286/"}
+{"书名": "移动火星", "作者": "[美] 格雷格·贝尔", "评分": "7.4", "url": "https://book.douban.com/subject/26596709/"}
+{"书名": "十字", "作者": "王晋康", "评分": "7.4", "url": "https://book.douban.com/subject/3448653/"}
+{"书名": "Arrival", "作者": "Ted Chiang", "评分": "7.1", "url": "https://book.douban.com/subject/26904126/"}
+{"书名": "明争暗斗", "作者": "(美)洛伊斯·比约德", "评分": "8.7", "url": "https://book.douban.com/subject/3025252/"}
+{"书名": "独家占有Ⅱ", "作者": "丁墨", "评分": "6.8", "url": "https://book.douban.com/subject/25962945/"}
+{"书名": "Alien Interview", "作者": "Lawrence R. Spencer", "评分": "7.7", "url": "https://book.douban.com/subject/4722608/"}
+{"书名": "移動迷宮2", "作者": "詹姆士·達許納 (James Dashner)", "评分": "6.1", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "银带", "作者": "Kevin Kelly , Steve Masseroni", "评分": "6.7", "url": "https://book.douban.com/subject/26680679/"}
+{"书名": "基因病毒", "作者": "【美】詹姆斯•罗林斯", "评分": "7.4", "url": "https://book.douban.com/subject/25787767/"}
+{"书名": "藍血人", "作者": "衛斯理", "评分": "7.3", "url": "https://book.douban.com/subject/1385563/"}
+{"书名": "阿西莫夫最新科学指南（上下册）", "作者": "[美] 阿西莫夫", "评分": "9.1", "url": "https://book.douban.com/subject/1016827/"}
+{"书名": "明日灭亡1：天启爆炸", "作者": "张草", "评分": "7.1", "url": "https://book.douban.com/subject/26364280/"}
+{"书名": "The Steampunk Bible", "作者": "Jeff Vandermeer", "评分": "8.9", "url": "https://book.douban.com/subject/5395815/"}
+{"书名": "绘图科幻精品丛书（第三辑）--冷酷的方程式", "作者": "（美）汤姆・戈德温／吴定柏（改编）", "评分": "7.8", "url": "https://book.douban.com/subject/1070385/"}
+{"书名": "幻影游船2：雾莲街诡面理发师", "作者": "郭妮", "评分": "6.0", "url": "https://book.douban.com/subject/27052121/"}
+{"书名": "反乌托邦三部曲", "作者": "[英] 奥威尔、[英] 赫胥黎、[俄] 扎米亚京", "评分": "9.1", "url": "https://book.douban.com/subject/25781009/"}
+{"书名": "师士传说2命运之痕", "作者": "方想", "评分": "8.5", "url": "https://book.douban.com/subject/2282777/"}
+{"书名": "威尔斯科幻经典", "作者": "[英]H·G·威尔斯", "评分": "8.2", "url": "https://book.douban.com/subject/1732994/"}
+{"书名": "殼中少女", "作者": "冲方丁", "评分": "8.5", "url": "https://book.douban.com/subject/1980670/"}
+{"书名": "玻璃杀手杰克", "作者": "[英]亚当·罗伯茨", "评分": "6.8", "url": "https://book.douban.com/subject/26307701/"}
+{"书名": "尼安德特3：混血儿", "作者": "(加)罗伯特•索耶", "评分": "7.2", "url": "https://book.douban.com/subject/10827450/"}
+{"书名": "有生之年非看不可的101部科幻电影", "作者": "史蒂文·杰伊·施奈德、Steven Jay Schneider", "评分": "8.5", "url": "https://book.douban.com/subject/20452239/"}
+{"书名": "外交豁免权", "作者": "(美)洛伊斯·比约德", "评分": "8.5", "url": "https://book.douban.com/subject/1898194/"}
+{"书名": "巨兽", "作者": "[美] 杰里米·罗宾逊", "评分": "6.9", "url": "https://book.douban.com/subject/26900884/"}
+{"书名": "《分歧者》三部曲", "作者": "[美]维罗尼卡·罗斯、Veronica Roth", "评分": "6.7", "url": "https://book.douban.com/subject/25957889/"}
+{"书名": "The Salmon of Doubt", "作者": "Douglas Adams", "评分": "9.2", "url": "https://book.douban.com/subject/1632413/"}
+{"书名": "猩球崛起：黎明之战", "作者": "（美）艾力克斯·欧文", "评分": "7.4", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "触摸", "作者": "[英] 克莱尔·诺丝", "评分": "7.9", "url": "https://book.douban.com/subject/26774522/"}
+{"书名": "2312", "作者": "[美] 金·斯坦利·罗宾逊", "评分": "6.7", "url": "https://book.douban.com/subject/26598801/"}
+{"书名": "科幻文学理论和学科体系建设", "作者": "吴岩", "评分": "8.3", "url": "https://book.douban.com/subject/3141494/"}
+{"书名": "新石头记", "作者": "吴趼人", "评分": "6.9", "url": "https://book.douban.com/subject/4097952/"}
+{"书名": "卫斯理与白素", "作者": "卫斯理", "评分": "7.6", "url": "https://book.douban.com/subject/3201833/"}
+{"书名": "牛顿加农炮", "作者": "（美）格雷戈里·凯斯", "评分": "7.6", "url": "https://book.douban.com/subject/2253601/"}
+{"书名": "星球大战外传：侠盗一号", "作者": "美国迪士尼公司 编著", "评分": "7.0", "url": "https://book.douban.com/subject/26933725/"}
+{"书名": "遗落的南境2：当权者", "作者": "[美] 杰夫·范德米尔", "评分": "6.8", "url": "https://book.douban.com/subject/26785623/"}
+{"书名": "内战", "作者": "[美] 斯图尔特·摩尔", "评分": "7.8", "url": "https://book.douban.com/subject/26767250/"}
+{"书名": "K-Pax", "作者": "Gene Brewer", "评分": "9.3", "url": "https://book.douban.com/subject/1469299/"}
+{"书名": "去死的漫漫旅途", "作者": "飞氘", "评分": "7.7", "url": "https://book.douban.com/subject/26695803/"}
+{"书名": "当人类决战机器人2：海伯利安完结篇", "作者": "(美)丹·西蒙斯", "评分": "8.5", "url": "https://book.douban.com/subject/12444402/"}
+{"书名": "世界誕生之日", "作者": "娥蘇拉·勒瑰恩、Ursula K. Le Guin", "评分": "8.3", "url": "https://book.douban.com/subject/6795850/"}
+{"书名": "师士传说①光甲重生", "作者": "方想", "评分": "8.3", "url": "https://book.douban.com/subject/2240574/"}
+{"书名": "党救活了他", "作者": "黄衣青著、贺友直画", "评分": "8.5", "url": "https://book.douban.com/subject/2294552/"}
+{"书名": "灵魂之井的午夜", "作者": "杰克·L·乔克", "评分": "7.9", "url": "https://book.douban.com/subject/3699382/"}
+{"书名": "The Expanse Boxed Set", "作者": "James S.A. Corey", "评分": "7.2", "url": "https://book.douban.com/subject/26690549/"}
+{"书名": "荆棘双翼", "作者": "迟卉", "评分": "8.6", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "明斯克号出击", "作者": "久留岛龙夫、军事研究小组", "评分": "7.4", "url": "https://book.douban.com/subject/3288259/"}
+{"书名": "古老的地球之歌", "作者": "宝树", "评分": "7.0", "url": "https://book.douban.com/subject/10827885/"}
+{"书名": "月光花", "作者": "默音", "评分": "7.7", "url": "https://book.douban.com/subject/19976166/"}
+{"书名": "银河英雄传说VOL.9 回天篇", "作者": "[日]田中芳树", "评分": "9.3", "url": "https://book.douban.com/subject/2135416/"}
+{"书名": "中国科幻小说年选", "作者": "刘慈欣、迟卉、赵海虹、王晋康、景芳、拉拉、长铗、星河、凌晨、赤色风铃、罗隆祥、陈楸帆、今何在、Limit、何夕、夏茄、飞氘", "评分": "7.6", "url": "https://book.douban.com/subject/2918997/"}
+{"书名": "想象另一种可能", "作者": "李淼", "评分": "7.1", "url": "https://book.douban.com/subject/26614057/"}
+{"书名": "世界大战", "作者": "H.G.威尔斯", "评分": "7.5", "url": "https://book.douban.com/subject/1687846/"}
+{"书名": "去年在阿鲁吧", "作者": "贺景滨", "评分": "7.5", "url": "https://book.douban.com/subject/25128652/"}
+{"书名": "宇宙往事", "作者": "刘慈欣", "评分": "6.6", "url": "https://book.douban.com/subject/26765924/"}
+{"书名": "时间的皱纹", "作者": "马德琳·英格", "评分": "6.8", "url": "https://book.douban.com/subject/2076616/"}
+{"书名": "大机器停止", "作者": "[英]E.M.福斯特", "评分": "7.8", "url": "https://book.douban.com/subject/24743062/"}
+{"书名": "失去的世界", "作者": "(英)柯南道尔", "评分": "8.0", "url": "https://book.douban.com/subject/2079391/"}
+{"书名": "消失的星期天", "作者": "[俄]阿卡迪·斯特鲁加茨基、[俄]鲍里斯·斯特鲁加茨基", "评分": "7.8", "url": "https://book.douban.com/subject/2076130/"}
+{"书名": "带我去太空", "作者": "[美] 罗恩·米勒", "评分": "9.5", "url": "https://book.douban.com/subject/26939099/"}
+{"书名": "银河之心-暗黑深渊", "作者": "江波", "评分": "7.4", "url": "https://book.douban.com/subject/24899768/"}
+{"书名": "新科学史：科幻研究", "作者": "江晓原、穆蕴秋", "评分": "7.0", "url": "https://book.douban.com/subject/26874560/"}
+{"书名": "江晓原科幻电影指南", "作者": "江晓原", "评分": "5.3", "url": "https://book.douban.com/subject/26437389/"}
+{"书名": "斋藤家的核弹头", "作者": "(日) 筱田节子", "评分": "7.8", "url": "https://book.douban.com/subject/4202418/"}
+{"书名": "科幻小说的终结", "作者": "[英] 西蒙·史密斯", "评分": "5.7", "url": "https://book.douban.com/subject/4928396/"}
+{"书名": "科幻文学的批评与建构", "作者": "[美] 罗伯特·斯科尔斯、[美] 弗雷德里克·詹姆逊、[美] 阿瑟B.艾文斯", "评分": "7.6", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "爱拉与洞熊族", "作者": "(美)琼·奥尔", "评分": "8.5", "url": "https://book.douban.com/subject/6852273/"}
+{"书名": "2037化学笔记", "作者": "陈奕潞", "评分": "6.9", "url": "https://book.douban.com/subject/20385477/"}
+{"书名": "终极理论", "作者": "（美）马克·阿尔珀特", "评分": "6.8", "url": "https://book.douban.com/subject/3210918/"}
+{"书名": "星球大战：正传三部曲", "作者": "[美]阿奇•古德温、[美]艾尔•威廉姆森", "评分": "7.9", "url": "https://book.douban.com/subject/26314456/"}
+{"书名": "Nemesis", "作者": "Isaac Asimov", "评分": "8.3", "url": "https://book.douban.com/subject/2375885/"}
+{"书名": "太空神曲", "作者": "[苏] 阿·卡赞采夫", "评分": "8.3", "url": "https://book.douban.com/subject/3025537/"}
+{"书名": "恍如隔世", "作者": "[英] 克里斯托弗·普里斯特", "评分": "6.9", "url": "https://book.douban.com/subject/26320238/"}
+{"书名": "祖国", "作者": "(英)罗伯特·哈里斯", "评分": "8.1", "url": "https://book.douban.com/subject/10741325/"}
+{"书名": "神秘日志·外星人", "作者": "[英]杜佳德·A.斯蒂尔 著、[英]加里·布莱斯 等 绘", "评分": "8.7", "url": "https://book.douban.com/subject/26789780/"}
+{"书名": "海底两万里", "作者": "(法)儒勒﹒凡尔纳", "评分": "9.2", "url": "https://book.douban.com/subject/1512245/"}
+{"书名": "飞城", "作者": "詹姆斯·布利什", "评分": "7.8", "url": "https://book.douban.com/subject/3625411/"}
+{"书名": "沉默基因", "作者": "黄序", "评分": "6.4", "url": "https://book.douban.com/subject/20382127/"}
+{"书名": "Who Fears Death", "作者": "Okorafor, Nnedi", "评分": "7.7", "url": "https://book.douban.com/subject/4953273/"}
+{"书名": "Fringe: September&#39;s Notebook", "作者": "Tara Bennett、Paul Terry", "评分": "9.4", "url": "https://book.douban.com/subject/20501698/"}
+{"书名": "松林異境 2", "作者": "布萊克．克勞奇", "评分": "7.9", "url": "https://book.douban.com/subject/25961506/"}
+{"书名": "The Transmigration of Timothy Archer", "作者": "Philip K. Dick", "评分": "8.4", "url": "https://book.douban.com/subject/2395060/"}
+{"书名": "Embodiment and the inner life", "作者": "Murray Shanahan", "评分": "8.1", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "I Have No Mouth, and I Must Scream", "作者": "Harlan Ellison", "评分": "8.5", "url": "https://book.douban.com/subject/2031656/"}
+{"书名": "使女的故事", "作者": "(加拿大)玛格丽特·阿特伍德", "评分": "8.2", "url": "https://book.douban.com/subject/3056877/"}
+{"书名": "半人半鱼之神", "作者": "[美]詹姆斯·冈恩、郭建中（主编）", "评分": "8.6", "url": "https://book.douban.com/subject/3257744/"}
+{"书名": "寻梦", "作者": "卫斯理", "评分": "7.9", "url": "https://book.douban.com/subject/3201836/"}
+{"书名": "比你想像的更黑暗", "作者": "杰克.威廉森", "评分": "7.9", "url": "https://book.douban.com/subject/1125416/"}
+{"书名": "眼睛", "作者": "倪匡", "评分": "7.9", "url": "https://book.douban.com/subject/1394964/"}
+{"书名": "祸匣打开之后", "作者": "宋宜昌", "评分": "7.5", "url": "https://book.douban.com/subject/1781278/"}
+{"书名": "同学两亿岁", "作者": "疯丢子", "评分": "7.5", "url": "https://book.douban.com/subject/19989558/"}
+{"书名": "安德的游戏2：决战虫族", "作者": "(美)奥森·斯科特·卡德", "评分": "8.2", "url": "https://book.douban.com/subject/24380044/"}
+{"书名": "银河英雄传说VOL.8 乱离篇", "作者": "[日]田中芳树", "评分": "9.4", "url": "https://book.douban.com/subject/2080914/"}
+{"书名": "Moebius:The Incal Classic Collection", "作者": "Moebius", "评分": "9.3", "url": "https://book.douban.com/subject/6573274/"}
+{"书名": "星际掠食", "作者": "长铗", "评分": "7.2", "url": "https://book.douban.com/subject/26303961/"}
+{"书名": "凡尔纳科幻三部曲", "作者": "凡尔纳", "评分": "9.0", "url": "https://book.douban.com/subject/5399594/"}
+{"书名": "立方体之战·反攻", "作者": "[美] 玛丽亚·斯奈德", "评分": "8.7", "url": "https://book.douban.com/subject/27001151/"}
+{"书名": "透明社会", "作者": "Brin, David", "评分": "7.7", "url": "https://book.douban.com/subject/19896200/"}
+{"书名": "凡尔纳科幻经典(插图版•全译本)(套装共11册)", "作者": "</div>\n\n\n        \n  \n  \n  \n  <div class=\"star clearfix\">\n        <span class=\"allstar45\"></span>\n        <span class=\"rating_nums\">9.3</span>\n\n    <span class=\"pl\">\n        (11人评价)\n    </span>\n  </div>\n\n\n\n        \n  \n  \n  \n\n\n\n\n\n\n      <div class=\"ft\">\n          \n  <div class=\"collect-info\">\n  </div>\n\n\n          <div class=\"cart-actions\">\n            \n                \n  \n\n\n          </div>\n\n            \n            \n  \n\n      </div>\n\n    </div>\n  </li>\n  \n\n      \n      \n  \n  <li class=\"subject-item\">\n    <div class=\"pic\">\n      <a class=\"nbg\" href=\"https://book.douban.com/subject/3581945/\" \n  onclick=\"moreurl(this,{i:'1',query:'',subject_id:'3581945',from:'book_subject_search'})\">\n        <img class=\"\" src=\"https://img3.doubanio.com/mpic/s3638396.jpg\"\n          width=\"90\">\n      </a>\n    </div>\n    <div class=\"info\">\n      <h2 class=\"\">\n        \n  \n  <a href=\"https://book.douban.com/subject/3581945/\" title=\"生化危机官方小说1\" \n  onclick=\"moreurl(this,{i:'1',query:'',subject_id:'3581945',from:'book_subject_search'})\">\n\n    生化危机官方小说1\n\n\n    \n      <span style=\"font-size:12px;\"> : 安布雷拉的阴谋 </span>\n\n  </a>\n\n      </h2>\n      <div class=\"pub\">\n        \n  \n  S.D.佩瑞", "评分": "7.3", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "Oryx and Crake", "作者": "Margaret Atwood", "评分": "8.0", "url": "https://book.douban.com/subject/1427870/"}
+{"书名": "事关良心", "作者": "詹姆斯·布利什", "评分": "7.5", "url": "https://book.douban.com/subject/3881746/"}
+{"书名": "西塔甘达", "作者": "洛伊斯.比约德、Lois McMaster Bujold", "评分": "8.6", "url": "https://book.douban.com/subject/1903736/"}
+{"书名": "时间中的侦探", "作者": "负二", "评分": "7.0", "url": "https://book.douban.com/subject/6893336/"}
+{"书名": "我，机器人", "作者": "艾萨克·阿西莫夫", "评分": "8.8", "url": "https://book.douban.com/subject/26794065/"}
+{"书名": "《辐射4》艺术设定集", "作者": "贝塞斯达软件公司", "评分": "9.5", "url": "https://book.douban.com/subject/26755044/"}
+{"书名": "行尸走肉", "作者": "罗伯特·凯克曼、杰·伯南希亚", "评分": "7.5", "url": "https://book.douban.com/subject/25890183/"}
+{"书名": "一百年以后", "作者": "基尔.布雷乔夫", "评分": "9.5", "url": "https://book.douban.com/subject/3010663/"}
+{"书名": "穿墙猫", "作者": "[美] 罗伯特·海因莱因", "评分": "6.3", "url": "https://book.douban.com/subject/26768314/"}
+{"书名": "奇迹", "作者": "糊涂", "评分": "9.2", "url": "https://book.douban.com/subject/2138630/"}
+{"书名": "守護程序 I 網路殺神", "作者": "Daniel Suarez", "评分": "8.3", "url": "https://book.douban.com/subject/6308250/"}
+{"书名": "香巴拉秘符", "作者": "隔世醒人", "评分": "7.3", "url": "https://book.douban.com/subject/10530021/"}
+{"书名": "好兆头", "作者": "（英）尼尔·盖曼、（英）特里·普拉切特", "评分": "8.7", "url": "https://book.douban.com/subject/3191247/"}
+{"书名": "老貓", "作者": "衛斯理", "评分": "7.7", "url": "https://book.douban.com/subject/1385564/"}
+{"书名": "想像力宣言", "作者": "韩松", "评分": "8.4", "url": "https://book.douban.com/subject/1689421/"}
+{"书名": "地球百子 1", "作者": "[美] 卡斯·摩根", "评分": "6.2", "url": "https://book.douban.com/subject/26701966/"}
+{"书名": "安德的礼物", "作者": "(美)奥森·斯科特·卡德", "评分": "8.0", "url": "https://book.douban.com/subject/25751308/"}
+{"书名": "中国科幻小说精品集", "作者": "姚海军", "评分": "8.7", "url": "https://book.douban.com/subject/1132947/"}
+{"书名": "机器人启示录", "作者": "[美] 丹尼尔·威尔森", "评分": "7.3", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "掠食城市Ⅱ", "作者": "[英]菲利普·瑞弗", "评分": "7.6", "url": "https://book.douban.com/subject/25986332/"}
+{"书名": "光晕", "作者": "威廉·C·迪茨", "评分": "7.2", "url": "https://book.douban.com/subject/1462657/"}
+{"书名": "明日灭亡2：地球觉醒", "作者": "张草", "评分": "8.2", "url": "https://book.douban.com/subject/26364281/"}
+{"书名": "遗落的南境3：接纳", "作者": "[美] 杰夫·范德米尔", "评分": "6.7", "url": "https://book.douban.com/subject/26801110/"}
+{"书名": "基因的秘密", "作者": "[希腊] 尼科斯•帕纳约托普洛斯", "评分": "7.3", "url": "https://book.douban.com/subject/2125018/"}
+{"书名": "东游记", "作者": "张祖荣", "评分": "7.6", "url": "https://book.douban.com/subject/3112031/"}
+{"书名": "奇奇怪博士", "作者": "郑允钦", "评分": "9.2", "url": "https://book.douban.com/subject/2325718/"}
+{"书名": "蚁巢里的甲虫", "作者": "(俄罗斯)阿卡迪·斯特鲁伽茨基、(俄罗斯)鲍里斯·斯特鲁伽茨基", "评分": "7.0", "url": "https://book.douban.com/subject/6127330/"}
+{"书名": "20世纪世界儿童文学名著精粹", "作者": "刘文刚 主编", "评分": "9.8", "url": "https://book.douban.com/subject/2982279/"}
+{"书名": "养蜂人", "作者": "王晋康", "评分": "7.5", "url": "https://book.douban.com/subject/6744664/"}
+{"书名": "神秘之球", "作者": "[美国]迈克尔·克莱顿", "评分": "8.2", "url": "https://book.douban.com/subject/1262148/"}
+{"书名": "通向宇宙之门", "作者": "弗雷德里克.波尔(美)", "评分": "7.7", "url": "https://book.douban.com/subject/1056874/"}
+{"书名": "零日传说 第1部", "作者": "陈虹羽", "评分": "8.1", "url": "https://book.douban.com/subject/26652979/"}
+{"书名": "星移记", "作者": "[美]休·豪伊", "评分": "6.7", "url": "https://book.douban.com/subject/26656294/"}
+{"书名": "THE ILLUSTRATED MAN", "作者": "Ray Bradbury", "评分": "8.0", "url": "https://book.douban.com/subject/4196952/"}
+{"书名": "桑道夫伯爵", "作者": "(法)儒勒·凡尔纳", "评分": "7.8", "url": "https://book.douban.com/subject/2215376/"}
+{"书名": "凡尔纳海洋科幻三部曲", "作者": "（法）儒勒·凡尔纳", "评分": "9.2", "url": "https://book.douban.com/subject/1931099/"}
+{"书名": "蛮荒海岸", "作者": "金·斯坦利·鲁宾逊（美）、KIM STANLEY ROBINSON", "评分": "8.3", "url": "https://book.douban.com/subject/3024740/"}
+{"书名": "上帝之速Ⅰ", "作者": "[美] 贝丝•里维斯", "评分": "7.9", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "攻殼機動隊(02)", "作者": "士郎正宗", "评分": "8.9", "url": "https://book.douban.com/subject/3138811/"}
+{"书名": "格林兄弟的遗赠", "作者": "[美]波莉·舒尔曼", "评分": "8.5", "url": "https://book.douban.com/subject/25719466/"}
+{"书名": "Doctor Who", "作者": "Cavan Scott、Mark Wright", "评分": "9.5", "url": "https://book.douban.com/subject/21707166/"}
+{"书名": "生命之歌", "作者": "王晋康", "评分": "8.2", "url": "https://book.douban.com/subject/1843252/"}
+{"书名": "《三体》导读", "作者": "詹琰、路姜波", "评分": "8.7", "url": "https://book.douban.com/subject/26899088/"}
+{"书名": "城 科幻三部曲", "作者": "张系国", "评分": "8.0", "url": "https://book.douban.com/subject/1000689/"}
+{"书名": "城与城", "作者": "(英)柴纳·米耶维", "评分": "7.6", "url": "https://book.douban.com/subject/25833221/"}
+{"书名": "星际争霸", "作者": "杰夫 格拉布、特雷西 希克曼", "评分": "7.8", "url": "https://book.douban.com/subject/1473332/"}
+{"书名": "星陨1：丛林中的十字架", "作者": "周敬之", "评分": "7.4", "url": "https://book.douban.com/subject/26452812/"}
+{"书名": "古箭计划", "作者": "［美］詹姆斯（James）", "评分": "7.2", "url": "https://book.douban.com/subject/6013396/"}
+{"书名": "银河英雄传说VOL.3 雌伏篇", "作者": "[日] 田中芳树 著、[日] 道原克巳 插图", "评分": "9.2", "url": "https://book.douban.com/subject/1917417/"}
+{"书名": "中国科幻银河奖作品精选集⑥", "作者": "杨枫 编、姚海军 编", "评分": "8.6", "url": "https://book.douban.com/subject/25769543/"}
+{"书名": "噬夢人", "作者": "伊格言", "评分": "7.1", "url": "https://book.douban.com/subject/5302117/"}
+{"书名": "铁大师", "作者": "帕特里克•蒂利", "评分": "7.7", "url": "https://book.douban.com/subject/3736886/"}
+{"书名": "星海征程", "作者": "北京市科学技术协会、蝌蚪五线谱网站", "评分": "7.7", "url": "https://book.douban.com/subject/20412100/"}
+{"书名": "Doctor Who: How to be a Time Lord", "作者": "Various", "评分": "9.7", "url": "https://book.douban.com/subject/25888289/"}
+{"书名": "航空手册", "作者": "[美] 斯科特·维斯特菲尔德、[美] 基斯·汤普森（绘）", "评分": "7.9", "url": "https://book.douban.com/subject/26377013/"}
+{"书名": "太阳系历险记", "作者": "(法)儒勒·凡尔纳", "评分": "8.5", "url": "https://book.douban.com/subject/2215336/"}
+{"书名": "何夕卷：爱别离", "作者": "何夕、世界华人科幻协会组编、董仁威 姚海军（主编）", "评分": "8.0", "url": "https://book.douban.com/subject/10864152/"}
+{"书名": "古星图之谜", "作者": "程嘉梓", "评分": "8.1", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "科幻世界的哲學凝視", "作者": "陳瑞麟", "评分": "7.7", "url": "https://book.douban.com/subject/2173982/"}
+{"书名": "我被外星人绑架过11次", "作者": "斯坦·罗曼尼克", "评分": "7.5", "url": "https://book.douban.com/subject/6436659/"}
+{"书名": "天使微积分", "作者": "（美）格雷戈里·凯斯", "评分": "7.6", "url": "https://book.douban.com/subject/2309907/"}
+{"书名": "太阳篡夺者", "作者": "(日) 野尻抱介", "评分": "7.4", "url": "https://book.douban.com/subject/4882000/"}
+{"书名": "中外科幻小说大观", "作者": "刘兴诗 主编", "评分": "9.0", "url": "https://book.douban.com/subject/2266123/"}
+{"书名": "星球大战：达斯•贝恩Ⅰ", "作者": "[加] 德鲁•卡宾森", "评分": "8.8", "url": "https://book.douban.com/subject/26898861/"}
+{"书名": "韩松卷：看的恐惧", "作者": "韩松、世界华人科幻协会组编、董仁威 姚海军（主编）", "评分": "6.8", "url": "https://book.douban.com/subject/10864161/"}
+{"书名": "贝拉亚", "作者": "[美]洛伊斯·比约德", "评分": "8.3", "url": "https://book.douban.com/subject/3025244/"}
+{"书名": "爱、生命与希望", "作者": "房誉", "评分": "7.9", "url": "https://book.douban.com/subject/24849603/"}
+{"书名": "異色短篇集1-牛面人的大餐", "作者": "藤子.F.不二雄", "评分": "9.5", "url": "https://book.douban.com/subject/3150093/"}
+{"书名": "脑洞W：有妖怪", "作者": "无色方糖、方洋、七英俊", "评分": "6.9", "url": "https://book.douban.com/subject/26945555/"}
+{"书名": "星球大战：塔金", "作者": "【美】詹姆斯·卢塞尼奥", "评分": "8.3", "url": "https://book.douban.com/subject/26914143/"}
+{"书名": "水陆两栖人", "作者": "亚历山大.别利亚耶夫", "评分": "8.5", "url": "https://book.douban.com/subject/1389912/"}
+{"书名": "投影", "作者": "［美国］凯文·吉尔福伊尔", "评分": "8.2", "url": "https://book.douban.com/subject/3067304/"}
+{"书名": "拆船工", "作者": "(美)保罗·巴奇加卢皮", "评分": "6.8", "url": "https://book.douban.com/subject/25886156/"}
+{"书名": "光晕", "作者": "(美)埃里克·尼伦德", "评分": "7.8", "url": "https://book.douban.com/subject/1462658/"}
+{"书名": "The Age of Em", "作者": "Robin Hanson", "评分": "8.2", "url": "https://book.douban.com/subject/26847208/"}
+{"书名": "琼斯缔造的世界", "作者": "菲利普・迪克、李维章", "评分": "8.0", "url": "https://book.douban.com/subject/1028183/"}
+{"书名": "The Merchant and the Alchemist&#39;s Gate", "作者": "Ted Chiang", "评分": "8.8", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "太阳潜入者", "作者": "(美)大卫·布林", "评分": "7.4", "url": "https://book.douban.com/subject/5395152/"}
+{"书名": "科玛", "作者": "洛伊斯·比约德", "评分": "8.4", "url": "https://book.douban.com/subject/1894978/"}
+{"书名": "Level E", "作者": "富樫義博、Yoshhiro Togashi", "评分": "9.3", "url": "https://book.douban.com/subject/1370274/"}
+{"书名": "冒牌大英雄（全10册）", "作者": "七十二编", "评分": "8.6", "url": "https://book.douban.com/subject/4839899/"}
+{"书名": "住在身体里的人", "作者": "陈奕潞", "评分": "7.9", "url": "https://book.douban.com/subject/26612858/"}
+{"书名": "木炭", "作者": "卫斯理", "评分": "7.9", "url": "https://book.douban.com/subject/3338894/"}
+{"书名": "太空序曲", "作者": "（英）阿瑟·C.克拉克", "评分": "7.7", "url": "https://book.douban.com/subject/3105498/"}
+{"书名": "水惑星年代记", "作者": "大石まさる", "评分": "8.5", "url": "https://book.douban.com/subject/6039455/"}
+{"书名": "银河英雄传说VOL.4：策谋篇", "作者": "(日)田中芳树", "评分": "9.3", "url": "https://book.douban.com/subject/1967817/"}
+{"书名": "羽翼·深蓝", "作者": "自由鸟", "评分": "7.2", "url": "https://book.douban.com/subject/4128025/"}
+{"书名": "从小跟着共产党", "作者": "黄庆云", "评分": "8.3", "url": "https://book.douban.com/subject/3072996/"}
+{"书名": "永远跟着共产党", "作者": "少年儿童出版社编、毛用坤绘图", "评分": "6.6", "url": "https://book.douban.com/subject/3080102/"}
+{"书名": "镜中千年", "作者": "半轻人", "评分": "7.0", "url": "https://book.douban.com/subject/21668129/"}
+{"书名": "清晨的加斯巴", "作者": "筒井康隆", "评分": "7.2", "url": "https://book.douban.com/subject/3993344/"}
+{"书名": "世界科幻名著故事 1", "作者": "柯南道尔、史帝文生", "评分": "9.4", "url": "https://book.douban.com/subject/1978382/"}
+{"书名": "The Maze Runner", "作者": "Dashner, James", "评分": "7.4", "url": "https://book.douban.com/subject/4577631/"}
+{"书名": "世界最高峰的奇迹", "作者": "叶永烈", "评分": "7.2", "url": "https://book.douban.com/subject/2079409/"}
+{"书名": "回到未来", "作者": "埃里希•冯•丹尼肯", "评分": "8.0", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "威尔斯科幻小说全集", "作者": "[英] 赫·乔·威尔斯", "评分": "8.1", "url": "https://book.douban.com/subject/1644109/"}
+{"书名": "诱骗", "作者": "(日)星新一", "评分": "9.0", "url": "https://book.douban.com/subject/3077647/"}
+{"书名": "紫色的Qualia", "作者": "うえお久光、綱島志朗", "评分": "8.4", "url": "https://book.douban.com/subject/4934257/"}
+{"书名": "玩家", "作者": "夜X", "评分": "7.7", "url": "https://book.douban.com/subject/27011961/"}
+{"书名": "机器人的信条", "作者": "约翰逊等", "评分": "8.2", "url": "https://book.douban.com/subject/25843726/"}
+{"书名": "仙女座星云", "作者": "（苏）伊.安.叶弗列莫夫", "评分": "8.5", "url": "https://book.douban.com/subject/3018335/"}
+{"书名": "分解人", "作者": "尼爾．舒斯特曼、Shusterman, Neal", "评分": "7.9", "url": "https://book.douban.com/subject/3145381/"}
+{"书名": "天国恶魔", "作者": "[美]威廉姆·C.迪特兹", "评分": "7.2", "url": "https://book.douban.com/subject/25709694/"}
+{"书名": "新世纪小说大系（2001—2010）• 科幻卷", "作者": "主编 陈思和 编选 严锋 宋明炜", "评分": "8.2", "url": "https://book.douban.com/subject/25845442/"}
+{"书名": "反物质飞船", "作者": "[美] 杰克·威廉森", "评分": "7.8", "url": "https://book.douban.com/subject/1133486/"}
+{"书名": "The Incal Classic Collection", "作者": "Alexandro Jodorowsky", "评分": "9.2", "url": "https://book.douban.com/subject/10569761/"}
+{"书名": "魔鬼积木", "作者": "刘慈欣", "评分": "7.4", "url": "https://book.douban.com/subject/1125282/"}
+{"书名": "0000年的母系氏族", "作者": "潘海天", "评分": "7.8", "url": "https://book.douban.com/subject/5355647/"}
+{"书名": "穹顶之下·末日卷", "作者": "刘慈欣、飞氘、王晋康、苏学军、宝树、本少爷、李亮、马伯庸", "评分": "8.2", "url": "https://book.douban.com/subject/26385442/"}
+{"书名": "当睡者醒来时", "作者": "[英]赫伯特·乔治·威尔斯", "评分": "7.3", "url": "https://book.douban.com/subject/26596364/"}
+{"书名": "寻找杰克", "作者": "(英)柴纳·米耶维", "评分": "8.0", "url": "https://book.douban.com/subject/25833222/"}
+{"书名": "最后的地球人", "作者": "星新一 著、劉伯樂 繪", "评分": "8.0", "url": "https://book.douban.com/subject/1764227/"}
+{"书名": "超脑Ⅰ：连接", "作者": "[美] 道格拉斯·E.理查兹", "评分": "8.7", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "The Chrysalids", "作者": "John Wyndham", "评分": "7.8", "url": "https://book.douban.com/subject/2005815/"}
+{"书名": "Pacific Rim", "作者": "David S Cohen", "评分": "8.9", "url": "https://book.douban.com/subject/21073064/"}
+{"书名": "星潮闪电", "作者": "戴维·布林", "评分": "8.0", "url": "https://book.douban.com/subject/1597085/"}
+{"书名": "Dune Messiah (Dune Chronicles, Book 2)", "作者": "Frank Herbert", "评分": "9.5", "url": "https://book.douban.com/subject/1457207/"}
+{"书名": "Stand on Zanzibar", "作者": "John Brunner", "评分": "7.5", "url": "https://book.douban.com/subject/1480361/"}
+{"书名": "十月國度", "作者": "雷．布萊伯利", "评分": "7.4", "url": "https://book.douban.com/subject/2998601/"}
+{"书名": "兄弟手足", "作者": "(美)洛伊斯·比约德", "评分": "8.2", "url": "https://book.douban.com/subject/3025254/"}
+{"书名": "克苏鲁神话", "作者": "[美] H.P.洛夫克拉夫特", "评分": "7.8", "url": "https://book.douban.com/subject/26862626/"}
+{"书名": "All You Need Is Kill 1", "作者": "小畑健、原作・原案\t   \t桜坂洋", "评分": "8.1", "url": "https://book.douban.com/subject/25872631/"}
+{"书名": "外国科幻论文精选", "作者": "王逢振 主编", "评分": "7.5", "url": "https://book.douban.com/subject/3150145/"}
+{"书名": "坟场之书", "作者": "[英] 尼尔·盖曼", "评分": "8.3", "url": "https://book.douban.com/subject/4219125/"}
+{"书名": "冲击参数", "作者": "杰弗里 A 兰迪斯、Geoffrey A. Landis", "评分": "7.7", "url": "https://book.douban.com/subject/3105145/"}
+{"书名": "飞行中的阴影", "作者": "[美] 奥森·斯科特·卡德", "评分": "8.3", "url": "https://book.douban.com/subject/27068338/"}
+{"书名": "科幻应该这样读", "作者": "吴岩", "评分": "8.2", "url": "https://book.douban.com/subject/7060182/"}
+{"书名": "混沌行走Ⅰ", "作者": "[美]派崔克·奈斯", "评分": "6.0", "url": "https://book.douban.com/subject/25903414/"}
+{"书名": "星塵之旅", "作者": "星野之宣", "评分": "8.5", "url": "https://book.douban.com/subject/1812732/"}
+{"书名": "掉线-星云VI", "作者": "拉拉", "评分": "7.4", "url": "https://book.douban.com/subject/2231708/"}
+{"书名": "A Wrinkle in Time", "作者": "Madeleine L&#39;Engle", "评分": "7.2", "url": "https://book.douban.com/subject/1340984/"}
+{"书名": "The Female Man", "作者": "Joanna Russ", "评分": "6.9", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "银河英雄传说VOL.2 野望篇", "作者": "（日）田中芳树", "评分": "9.2", "url": "https://book.douban.com/subject/1863010/"}
+{"书名": "人类", "作者": "[加拿大]罗伯特·索耶、Robert J. Sawyer", "评分": "7.5", "url": "https://book.douban.com/subject/4850811/"}
+{"书名": "消失的房间", "作者": "劳伦•伯克斯", "评分": "6.4", "url": "https://book.douban.com/subject/25978550/"}
+{"书名": "幻觉", "作者": "（美）菲利普・迪克", "评分": "8.0", "url": "https://book.douban.com/subject/1055432/"}
+{"书名": "机械人生", "作者": "[澳大利亚] 麦克斯·拜瑞", "评分": "7.3", "url": "https://book.douban.com/subject/25752142/"}
+{"书名": "我们", "作者": "[俄] 尤金·扎米亚金", "评分": "7.9", "url": "https://book.douban.com/subject/1434071/"}
+{"书名": "神仙难为", "作者": "(俄罗斯)阿卡迪·斯特鲁伽茨基、(俄罗斯)鲍里斯·斯特鲁伽茨基", "评分": "7.7", "url": "https://book.douban.com/subject/11626404/"}
+{"书名": "H. P. Lovecraft", "作者": "H. P. Lovecraft", "评分": "8.3", "url": "https://book.douban.com/subject/1753294/"}
+{"书名": "蒙淘克工程", "作者": "［美］普林斯顿·B·尼克尔斯、［美］彼得•穆恩", "评分": "7.0", "url": "https://book.douban.com/subject/6557329/"}
+{"书名": "星屑與妮娜1", "作者": "[日]福島 聡", "评分": "9.4", "url": "https://book.douban.com/subject/23717403/"}
+{"书名": "2014中国最佳科幻作品", "作者": "姚海军 胡编", "评分": "8.2", "url": "https://book.douban.com/subject/26606177/"}
+{"书名": "快乐制造者", "作者": "詹姆斯·冈恩", "评分": "7.7", "url": "https://book.douban.com/subject/3119576/"}
+{"书名": "谋杀先生", "作者": "(美) 迪恩·孔茨", "评分": "7.5", "url": "https://book.douban.com/subject/4221572/"}
+{"书名": "黑太阳", "作者": "[美] 杰克·威廉森", "评分": "7.2", "url": "https://book.douban.com/subject/1133487/"}
+{"书名": "午夜以后", "作者": "[美] 雷·布拉德伯里", "评分": "7.4", "url": "https://book.douban.com/subject/10534890/"}
+{"书名": "膜", "作者": "纪大伟", "评分": "7.2", "url": "https://book.douban.com/subject/1128402/"}
+{"书名": "巨齿鲨", "作者": "[美] 斯蒂夫·奥顿", "评分": "7.3", "url": "https://book.douban.com/subject/6790065/"}
+{"书名": "飞向火星", "作者": "[美]乔·霍尔德曼(Joe Haldeman)", "评分": "7.9", "url": "https://book.douban.com/subject/4025047/"}
+{"书名": "新世界より 下", "作者": "貴志祐介", "评分": "9.7", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "EMANON さすらいエマノン Episode:1", "作者": "鶴田謙二、梶尾真治", "评分": "9.4", "url": "https://book.douban.com/subject/4311499/"}
+{"书名": "Halo: Contact Harvest", "作者": "Joseph Staten", "评分": "8.1", "url": "https://book.douban.com/subject/3999319/"}
+{"书名": "机器岛（上下）", "作者": "(法)儒勒·凡尔纳", "评分": "8.3", "url": "https://book.douban.com/subject/2215240/"}
+{"书名": "铁之书机械设定", "作者": "赵勇权", "评分": "7.4", "url": "https://book.douban.com/subject/24283813/"}
+{"书名": "银河英雄传说VOL.5 风云篇", "作者": "[日] 田中芳树", "评分": "9.4", "url": "https://book.douban.com/subject/2042338/"}
+{"书名": "时光闪电", "作者": "(西班牙)何塞·卡洛斯·索莫萨", "评分": "7.3", "url": "https://book.douban.com/subject/10789678/"}
+{"书名": "We3", "作者": "Grant Morrison、Frank Quitely", "评分": "9.2", "url": "https://book.douban.com/subject/2031909/"}
+{"书名": "星之海洋", "作者": "黄云飞", "评分": "8.8", "url": "https://book.douban.com/subject/2015991/"}
+{"书名": "第一家族", "作者": "帕特里克•蒂利", "评分": "7.7", "url": "https://book.douban.com/subject/3736875/"}
+{"书名": "The Player of Games", "作者": "Iain M. Banks", "评分": "7.3", "url": "https://book.douban.com/subject/4242563/"}
+{"书名": "玩具修理者", "作者": "小林泰三(原作)、MEIMU(漫畫)", "评分": "8.6", "url": "https://book.douban.com/subject/2042894/"}
+{"书名": "乖宠", "作者": "丁墨", "评分": "7.2", "url": "https://book.douban.com/subject/20492474/"}
+{"书名": "新中国", "作者": "陆士谔", "评分": "6.8", "url": "https://book.douban.com/subject/4210987/"}
+{"书名": "奇门", "作者": "衛斯理", "评分": "7.1", "url": "https://book.douban.com/subject/1494206/"}
+{"书名": "星际驿站", "作者": "克里福德·西马克、Clfford D. Simak", "评分": "7.7", "url": "https://book.douban.com/subject/1437670/"}
+{"书名": "碎片之岛", "作者": "(美)华伦·费伊", "评分": "7.6", "url": "https://book.douban.com/subject/24869464/"}
+{"书名": "星球大战：传承1", "作者": "[美]约翰·奥斯特兰德、简·杜尔塞马", "评分": "7.3", "url": "https://book.douban.com/subject/26411941/"}
+{"书名": "太阳舞", "作者": "[美]詹姆斯·冈恩、郭建中（主编）", "评分": "8.3", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "异海", "作者": "蛇从革", "评分": "7.7", "url": "https://book.douban.com/subject/10768061/"}
+{"书名": "《遗产》三部曲", "作者": "(美)克里斯托弗·鲍里尼", "评分": "9.0", "url": "https://book.douban.com/subject/10749901/"}
+{"书名": "喀尔巴阡古堡", "作者": "(法)儒勒·凡尔纳", "评分": "7.3", "url": "https://book.douban.com/subject/2302070/"}
+{"书名": "世界科幻名著故事 4", "作者": "雷·布雷德伯里、彼埃尔·布勒", "评分": "9.5", "url": "https://book.douban.com/subject/2255448/"}
+{"书名": "天空之城", "作者": "(意)大卫·卡雷尔、绘画:(意)雅各布·布鲁诺", "评分": "7.9", "url": "https://book.douban.com/subject/6515087/"}
+{"书名": "不锈钢老鼠的诞生、不锈钢老鼠参军记", "作者": "(美)哈里·哈里森", "评分": "7.7", "url": "https://book.douban.com/subject/2974126/"}
+{"书名": "多了一个", "作者": "卫斯理", "评分": "7.1", "url": "https://book.douban.com/subject/2303070/"}
+{"书名": "魔兽世界编年史", "作者": "[美] 克里斯·梅森 等", "评分": "9.2", "url": "https://book.douban.com/subject/26792804/"}
+{"书名": "生化危机官方小说3", "作者": "S.D.佩瑞", "评分": "7.7", "url": "https://book.douban.com/subject/3581956/"}
+{"书名": "重生", "作者": "[英] 约翰·温德姆", "评分": "7.8", "url": "https://book.douban.com/subject/26810900/"}
+{"书名": "外星人入侵生存指南", "作者": "[美] W. H. 墨菲", "评分": "4.8", "url": "https://book.douban.com/subject/11505671/"}
+{"书名": "血河", "作者": "帕特里克•蒂利", "评分": "7.7", "url": "https://book.douban.com/subject/3736885/"}
+{"书名": "Foundation&#39;s Friends", "作者": "Tor Books", "评分": "6.5", "url": "https://book.douban.com/subject/3707780/"}
+{"书名": "關鍵下一秒", "作者": "菲力普狄克", "评分": "6.9", "url": "https://book.douban.com/subject/2298247/"}
+{"书名": "World War Z", "作者": "Max Brooks", "评分": "7.2", "url": "https://book.douban.com/subject/2372229/"}
+{"书名": "Stellaris", "作者": "Steven Savile", "评分": "7.3", "url": "https://book.douban.com/subject/26799971/"}
+{"书名": "星际迷航：克林贡猎禽舰完全图解", "作者": "[美]本•罗宾逊", "评分": "8.2", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "星际战争", "作者": "刘慈欣 等", "评分": "5.5", "url": "https://book.douban.com/subject/26694803/"}
+{"书名": "For the Win", "作者": "Cory Doctorow", "评分": "7.3", "url": "https://book.douban.com/subject/4775187/"}
+{"书名": "地火", "作者": "刘绍棠", "评分": "8.6", "url": "https://book.douban.com/subject/1941049/"}
+{"书名": "星球大战：达斯•贝恩Ⅱ", "作者": "[加] 德鲁•卡宾森", "评分": "9.4", "url": "https://book.douban.com/subject/26898888/"}
+{"书名": "宇宙兄弟1", "作者": "小山宙哉", "评分": "9.4", "url": "https://book.douban.com/subject/4066638/"}
+{"书名": "异尘余生", "作者": "王小龙", "评分": "7.0", "url": "https://book.douban.com/subject/1161971/"}
+{"书名": "风水", "作者": "倪匡\n\n      </div>\n\n\n        \n  \n  \n  \n  <div class=\"star clearfix\">\n        <span class=\"allstar35\"></span>\n        <span class=\"rating_nums\">7.0</span>\n\n    <span class=\"pl\">\n        (250人评价)\n    </span>\n  </div>\n\n\n\n        \n  \n  \n  \n    <p>东南亚第一富豪陶启泉，辗转托了很多人，要求和卫斯理见面，向他讲述一个五十年前寻找风水穴的故事。陶启泉的祖父因葬在“鲸吞地”，使后代大富大贵。但鲸吞地只有五十... </p>\n\n\n\n\n\n\n      <div class=\"ft\">\n          \n  <div class=\"collect-info\">\n  </div>\n\n\n          <div class=\"cart-actions\">\n            \n                \n  \n\n\n          </div>\n\n            \n            \n  \n\n      </div>\n\n    </div>\n  </li>\n  \n\n      \n      \n  \n  <li class=\"subject-item\">\n    <div class=\"pic\">\n      <a class=\"nbg\" href=\"https://book.douban.com/subject/2298243/\" \n  onclick=\"moreurl(this,{i:'10',query:'',subject_id:'2298243',from:'book_subject_search'})\">\n        <img class=\"\" src=\"https://img3.doubanio.com/mpic/s2757102.jpg\"\n          width=\"90\">\n      </a>\n    </div>\n    <div class=\"info\">\n      <h2 class=\"\">\n        \n  \n  <a href=\"https://book.douban.com/subject/2298243/\" title=\"记忆裂痕\" \n  onclick=\"moreurl(this,{i:'10',query:'',subject_id:'2298243',from:'book_subject_search'})\">\n\n    记忆裂痕\n\n\n    \n\n  </a>\n\n      </h2>\n      <div class=\"pub\">\n        \n  \n  菲利普狄克", "评分": "7.4", "url": "https://book.douban.com/subject/3437175/"}
+{"书名": "掠食因子", "作者": "[美]道格拉斯·普莱斯顿、林肯·蔡尔德", "评分": "7.1", "url": "https://book.douban.com/subject/19995042/"}
+{"书名": "Invisible Planets", "作者": "Ken Liu", "评分": "8.4", "url": "https://book.douban.com/subject/26754937/"}
+{"书名": "潘多拉星球生存手册", "作者": "[美] 玛丽·亚威廉、德克·马蒂松", "评分": "7.2", "url": "https://book.douban.com/subject/4851812/"}
+{"书名": "Foundation Trilogy. Isaac Asimov", "作者": "Asimov, Isaac", "评分": "8.0", "url": "https://book.douban.com/subject/6769323/"}
+{"书名": "Quicksilver (The Baroque Cycle, Vol. 1)", "作者": "Neal Stephenson", "评分": "9.5", "url": "https://book.douban.com/subject/1395580/"}
+{"书名": "诸神的黄昏", "作者": "江苏凤凰文艺出版社", "评分": "7.4", "url": "https://book.douban.com/subject/26894154/"}
+{"书名": "时间景象", "作者": "〔美〕格里高利•本福德", "评分": "7.4", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css"}
+{"书名": "死亡空间", "作者": "布莱恩·埃文森", "评分": "7.9", "url": "https://book.douban.com/subject/20440076/"}
+{"书名": "1分钟小说选.续集", "作者": "(日)星新一", "评分": "9.0", "url": "https://book.douban.com/subject/2214360/"}
+{"书名": "向中国共产党学习", "作者": "吴再", "评分": "6.7", "url": "https://book.douban.com/subject/4244606/"}
+{"书名": "丛林温室", "作者": "布赖恩·奥尔迪斯", "评分": "6.5", "url": "https://book.douban.com/subject/3013824/"}
+{"书名": "火星人完全档案", "作者": "理查德·C. 霍格兰德", "评分": "8.7", "url": "https://book.douban.com/subject/25017304/"}
+{"书名": "乞丐与选民", "作者": "（美）南希·克雷斯", "评分": "7.7", "url": "https://book.douban.com/subject/2238108/"}
+{"书名": "秘密 －トップ・シークレット－ 1", "作者": "清水玲子", "评分": "8.9", "url": "https://book.douban.com/subject/2003176/"}
+{"书名": "荆棘", "作者": "[美]罗伯特·西尔弗伯格", "评分": "7.3", "url": "https://book.douban.com/subject/1830124/"}
+{"书名": "ABARA  上", "作者": "弐瓶勉", "评分": "8.4", "url": "https://book.douban.com/subject/1877874/"}
+{"书名": "星之聲", "作者": "新海誠、佐原瑞", "评分": "8.7", "url": "https://book.douban.com/subject/4195825/"}
+{"书名": "火星人第二次入侵", "作者": "(俄罗斯)阿卡迪·斯特鲁伽茨基、(俄罗斯)鲍里斯·斯特鲁伽茨基", "评分": "7.3", "url": "https://book.douban.com/subject/25772960/"}
+{"书名": "卫斯理作品集第二辑（全19册）", "作者": "倪匡", "评分": "8.6", "url": "https://book.douban.com/subject/1105023/"}
+{"书名": "黑暗之劫", "作者": "(英) C.S.刘易斯", "评分": "8.0", "url": "https://book.douban.com/subject/5326885/"}
+{"书名": "末世迷踪", "作者": "蒂姆•莱希、杰里•詹金斯", "评分": "7.2", "url": "https://book.douban.com/subject/1901195/"}
+{"书名": "环游地球八十天", "作者": "[法]儒勒·凡尔纳", "评分": "7.9", "url": "https://book.douban.com/subject/2115692/"}
+{"书名": "我們在虛空中巡視夜晚", "作者": "上遠野浩平", "评分": "8.1", "url": "https://book.douban.com/subject/2282009/"}
+{"书名": "AKIRA (Part 1)", "作者": "大友 克洋", "评分": "9.4", "url": "https://book.douban.com/subject/1481652/"}

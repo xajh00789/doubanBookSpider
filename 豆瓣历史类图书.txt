@@ -1,0 +1,983 @@
+{"作者": "[以色列]尤瓦尔·赫拉利", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "9.1", "书名": "人类简史"}
+{"作者": "[英] 肯·福莱特", "url": "https://book.douban.com/subject/26698660/", "评分": "8.9", "书名": "巨人的陨落"}
+{"作者": "[白俄] S.A.阿列克谢耶维奇", "url": "https://book.douban.com/subject/26704403/", "评分": "8.8", "书名": "二手时间"}
+{"作者": "[美] 黄仁宇", "url": "https://book.douban.com/subject/1041482/", "评分": "8.9", "书名": "万历十五年"}
+{"作者": "杨显惠", "url": "https://book.douban.com/subject/3239549/", "评分": "9.2", "书名": "夹边沟记事"}
+{"作者": "钱穆", "url": "https://book.douban.com/subject/1003479/", "评分": "9.1", "书名": "中国历代政治得失"}
+{"作者": "[英] 肯·福莱特", "url": "https://book.douban.com/subject/26957760/", "评分": "9.0", "书名": "世界的凛冬"}
+{"作者": "[美] 贾雷德·戴蒙德", "url": "https://book.douban.com/subject/1813841/", "评分": "8.8", "书名": "枪炮、病菌与钢铁"}
+{"作者": "[美] 沙希利·浦洛基", "url": "https://book.douban.com/subject/27021578/", "评分": "8.4", "书名": "大国的崩溃"}
+{"作者": "[美] 林肯·佩恩", "url": "https://book.douban.com/subject/27000152/", "评分": "8.7", "书名": "海洋与文明"}
+{"作者": "[美] 威廉·曼彻斯特", "url": "https://book.douban.com/subject/27026379/", "评分": "8.0", "书名": "黎明破晓的世界"}
+{"作者": "[美] 孔飞力", "url": "https://book.douban.com/subject/10471333/", "评分": "9.0", "书名": "叫魂"}
+{"作者": "錢穆", "url": "https://book.douban.com/subject/1046492/", "评分": "9.3", "书名": "國史大綱（上下）"}
+{"作者": "当年明月", "url": "https://book.douban.com/subject/3674537/", "评分": "9.1", "书名": "明朝那些事儿（1-9）"}
+{"作者": "[英] 杰里·布罗顿（Jerry Brotton）", "url": "https://book.douban.com/subject/26816981/", "评分": "8.7", "书名": "十二幅地图中的世界史"}
+{"作者": "茅海建", "url": "https://book.douban.com/subject/1675478/", "评分": "9.0", "书名": "天朝的崩溃"}
+{"作者": "当年明月", "url": "https://book.douban.com/subject/1873231/", "评分": "8.7", "书名": "明朝那些事儿（壹）"}
+{"作者": "[英] 尼尔·麦格雷戈", "url": "https://book.douban.com/subject/25746578/", "评分": "9.2", "书名": "大英博物馆世界简史（全3册）"}
+{"作者": "司马迁", "url": "https://book.douban.com/subject/1077847/", "评分": "9.5", "书名": "史记（全十册）"}
+{"作者": "[英] 彼得·弗兰科潘", "url": "https://book.douban.com/subject/26853835/", "评分": "8.4", "书名": "丝绸之路"}
+{"作者": "[以色列]尤瓦尔·赫拉利", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "9.1", "书名": "人类简史"}
+{"作者": "[英] 肯·福莱特", "url": "https://book.douban.com/subject/26698660/", "评分": "8.9", "书名": "巨人的陨落"}
+{"作者": "[白俄] S.A.阿列克谢耶维奇", "url": "https://book.douban.com/subject/26704403/", "评分": "8.8", "书名": "二手时间"}
+{"作者": "[美] 黄仁宇", "url": "https://book.douban.com/subject/1041482/", "评分": "8.9", "书名": "万历十五年"}
+{"作者": "杨显惠", "url": "https://book.douban.com/subject/3239549/", "评分": "9.2", "书名": "夹边沟记事"}
+{"作者": "钱穆", "url": "https://book.douban.com/subject/1003479/", "评分": "9.1", "书名": "中国历代政治得失"}
+{"作者": "[英] 肯·福莱特", "url": "https://book.douban.com/subject/26957760/", "评分": "9.0", "书名": "世界的凛冬"}
+{"作者": "[美] 贾雷德·戴蒙德", "url": "https://book.douban.com/subject/1813841/", "评分": "8.8", "书名": "枪炮、病菌与钢铁"}
+{"作者": "[美] 沙希利·浦洛基", "url": "https://book.douban.com/subject/27021578/", "评分": "8.4", "书名": "大国的崩溃"}
+{"作者": "[美] 林肯·佩恩", "url": "https://book.douban.com/subject/27000152/", "评分": "8.7", "书名": "海洋与文明"}
+{"作者": "[美] 威廉·曼彻斯特", "url": "https://book.douban.com/subject/27026379/", "评分": "8.0", "书名": "黎明破晓的世界"}
+{"作者": "[美] 孔飞力", "url": "https://book.douban.com/subject/10471333/", "评分": "9.0", "书名": "叫魂"}
+{"作者": "錢穆", "url": "https://book.douban.com/subject/1046492/", "评分": "9.3", "书名": "國史大綱（上下）"}
+{"作者": "当年明月", "url": "https://book.douban.com/subject/3674537/", "评分": "9.1", "书名": "明朝那些事儿（1-9）"}
+{"作者": "[英] 杰里·布罗顿（Jerry Brotton）", "url": "https://book.douban.com/subject/26816981/", "评分": "8.7", "书名": "十二幅地图中的世界史"}
+{"作者": "茅海建", "url": "https://book.douban.com/subject/1675478/", "评分": "9.0", "书名": "天朝的崩溃"}
+{"作者": "当年明月", "url": "https://book.douban.com/subject/1873231/", "评分": "8.7", "书名": "明朝那些事儿（壹）"}
+{"作者": "[英] 尼尔·麦格雷戈", "url": "https://book.douban.com/subject/25746578/", "评分": "9.2", "书名": "大英博物馆世界简史（全3册）"}
+{"作者": "司马迁", "url": "https://book.douban.com/subject/1077847/", "评分": "9.5", "书名": "史记（全十册）"}
+{"作者": "[英] 彼得·弗兰科潘", "url": "https://book.douban.com/subject/26853835/", "评分": "8.4", "书名": "丝绸之路"}
+{"作者": "[意] 普里莫·莱维", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "9.2", "书名": "被淹没和被拯救的"}
+{"作者": "[奥] 斯蒂芬·茨威格", "url": "https://book.douban.com/subject/1083762/", "评分": "8.7", "书名": "人类的群星闪耀时"}
+{"作者": "[美] 斯塔夫里阿诺斯", "url": "https://book.douban.com/subject/1225977/", "评分": "8.9", "书名": "全球通史（第7版 上册）"}
+{"作者": "[美] 斯科特·安德森", "url": "https://book.douban.com/subject/25883305/", "评分": "9.1", "书名": "阿拉伯的劳伦斯"}
+{"作者": "[奥］斯蒂芬・茨威格", "url": "https://book.douban.com/subject/1062343/", "评分": "9.2", "书名": "昨日的世界"}
+{"作者": "约翰·赫斯特（John Hirst）", "url": "https://book.douban.com/subject/5366248/", "评分": "8.3", "书名": "你一定爱读的极简欧洲史"}
+{"作者": "[美] 唐纳德·卡根", "url": "https://book.douban.com/subject/26451505/", "评分": "9.0", "书名": "伯罗奔尼撒战争"}
+{"作者": "[瑞典] 喜仁龙（Osvald Sirén）", "url": "https://book.douban.com/subject/26921196/", "评分": "9.0", "书名": "北京的城墙与城门"}
+{"作者": "[美] 威廉·曼彻斯特", "url": "https://book.douban.com/subject/1005492/", "评分": "8.9", "书名": "光荣与梦想"}
+{"作者": "[英] 伊恩·克肖", "url": "https://book.douban.com/subject/27046300/", "评分": "8.7", "书名": "命运攸关的抉择"}
+{"作者": "[法] 托克维尔", "url": "https://book.douban.com/subject/1032063/", "评分": "8.9", "书名": "旧制度与大革命"}
+{"作者": "于尔根·奥斯特哈默", "url": "https://book.douban.com/subject/26639302/", "评分": "9.3", "书名": "世界的演变"}
+{"作者": "温骏轩", "url": "https://book.douban.com/subject/27045287/", "评分": "9.0", "书名": "谁在世界中心"}
+{"作者": "冶文彪", "url": "https://book.douban.com/subject/26265745/", "评分": "8.2", "书名": "清明上河图密码"}
+{"作者": "[英] 罗杰·克劳利", "url": "https://book.douban.com/subject/25891318/", "评分": "9.0", "书名": "1453"}
+{"作者": "吴军", "url": "https://book.douban.com/subject/25902942/", "评分": "9.0", "书名": "文明之光（第一册）"}
+{"作者": "[以色列] 阿里·沙维特", "url": "https://book.douban.com/subject/25986748/", "评分": "8.3", "书名": "我的应许之地"}
+{"作者": "[美]斯蒂芬·平克", "url": "https://book.douban.com/subject/26150549/", "评分": "8.7", "书名": "人性中的善良天使"}
+{"作者": "傅高义", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.9", "书名": "邓小平时代"}
+{"作者": "林达", "url": "https://book.douban.com/subject/1027191/", "评分": "9.0", "书名": "历史深处的忧虑"}
+{"作者": "[英] 劳伦斯•里斯", "url": "https://book.douban.com/subject/26861418/", "评分": "9.4", "书名": "奥斯维辛"}
+{"作者": "田余庆", "url": "https://book.douban.com/subject/10758290/", "评分": "9.4", "书名": "东晋门阀政治"}
+{"作者": "(美)安妮·阿普尔鲍姆", "url": "https://book.douban.com/subject/20503529/", "评分": "9.2", "书名": "古拉格：一部历史"}
+{"作者": "[美] 大卫·克里斯蒂安（David Christian）、辛西娅·斯托克斯·布朗 (Cynthia Stokes Brown)、克雷格·本杰明 (Craig Benjamin)", "url": "https://book.douban.com/subject/26827546/", "评分": "8.6", "书名": "大历史"}
+{"作者": "[美] 徐中约", "url": "https://book.douban.com/subject/2376486/", "评分": "8.9", "书名": "中国近代史"}
+{"作者": "[英]基思•罗威（Keith Lowe）", "url": "https://book.douban.com/subject/26354440/", "评分": "9.0", "书名": "野蛮大陆"}
+{"作者": "[加] 卜正民 等", "url": "https://book.douban.com/subject/26847586/", "评分": "8.7", "书名": "哈佛中国史（全六卷）"}
+{"作者": "爱德华·谢弗、Edward H. Schafer", "url": "https://book.douban.com/subject/1446959/", "评分": "8.8", "书名": "唐代的外来文明"}
+{"作者": "仇鹿鸣", "url": "https://book.douban.com/subject/10796986/", "评分": "9.1", "书名": "魏晋之际的政治权力与家族网络"}
+{"作者": "郭建龙", "url": "https://book.douban.com/subject/27007549/", "评分": "8.5", "书名": "中央帝国的财政密码"}
+{"作者": "吕思勉", "url": "https://book.douban.com/subject/3707886/", "评分": "8.9", "书名": "中国通史"}
+{"作者": "孙皓晖", "url": "https://book.douban.com/subject/3079029/", "评分": "8.7", "书名": "大秦帝国"}
+{"作者": "王力 编", "url": "https://book.douban.com/subject/2747765/", "评分": "9.0", "书名": "中国古代文化常识"}
+{"作者": "黄仁宇", "url": "https://book.douban.com/subject/1015699/", "评分": "8.3", "书名": "中国大历史"}
+{"作者": "盐野七生", "url": "https://book.douban.com/subject/25777432/", "评分": "9.1", "书名": "罗马人的故事（礼品装，全15册）"}
+{"作者": "[英] 肯·福莱特", "url": "https://book.douban.com/subject/27025715/", "评分": "7.8", "书名": "永恒的边缘"}
+{"作者": "李碧妍", "url": "https://book.douban.com/subject/26603137/", "评分": "9.2", "书名": "危机与重构"}
+{"作者": "万蝇楠 整理", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "9.0", "书名": "陈寅恪魏晋南北朝史讲演录"}
+{"作者": "[英]西蒙•蒙蒂菲奥里", "url": "https://book.douban.com/subject/25886351/", "评分": "7.6", "书名": "耶路撒冷三千年"}
+{"作者": "(英) 丹·琼斯", "url": "https://book.douban.com/subject/26276743/", "评分": "8.6", "书名": "金雀花王朝"}
+{"作者": "姚大中", "url": "https://book.douban.com/subject/26961138/", "评分": "9.7", "书名": "姚著中国史"}
+{"作者": "[英] 恩斯特·贡布里希", "url": "https://book.douban.com/subject/26292964/", "评分": "8.7", "书名": "世界小史"}
+{"作者": "[英] 奥兰多·费吉斯", "url": "https://book.douban.com/subject/25953571/", "评分": "8.8", "书名": "耳语者"}
+{"作者": "[美] 克斯汀·唐尼", "url": "https://book.douban.com/subject/26782506/", "评分": "9.0", "书名": "伊莎贝拉"}
+{"作者": "韦庆远", "url": "https://book.douban.com/subject/27001225/", "评分": "9.2", "书名": "暮日耀光"}
+{"作者": "（美）里昂·尤里斯", "url": "https://book.douban.com/subject/3228779/", "评分": "8.7", "书名": "出埃及记"}
+{"作者": "[美] 裴士锋 (Stephen R.Platt)", "url": "https://book.douban.com/subject/25938605/", "评分": "8.6", "书名": "天国之秋"}
+{"作者": "岳南", "url": "https://book.douban.com/subject/5399227/", "评分": "8.1", "书名": "南渡北归（第一部）"}
+{"作者": "顾诚", "url": "https://book.douban.com/subject/6533042/", "评分": "9.3", "书名": "南明史"}
+{"作者": "[美] 雅克·巴尔赞", "url": "https://book.douban.com/subject/25752592/", "评分": "8.9", "书名": "从黎明到衰落（上下）"}
+{"作者": "[晋] 陈寿 撰、[宋] 裴松之 注", "url": "https://book.douban.com/subject/1014763/", "评分": "9.3", "书名": "三国志（全五册）"}
+{"作者": "[美] 卡蒂·马顿", "url": "https://book.douban.com/subject/26606366/", "评分": "8.1", "书名": "布达佩斯往事"}
+{"作者": "孟元老", "url": "https://book.douban.com/subject/4903692/", "评分": "9.1", "书名": "东京梦华录"}
+{"作者": "[美] 贺萧（Gail Hershatter）", "url": "https://book.douban.com/subject/27030380/", "评分": "8.8", "书名": "记忆的性别"}
+{"作者": "[英]伊斯特凡•洪特", "url": "https://book.douban.com/subject/27002570/", "评分": "9.6", "书名": "贸易的猜忌"}
+{"作者": "冶文彪", "url": "https://book.douban.com/subject/27025036/", "评分": "8.9", "书名": "清明上河图密码4"}
+{"作者": "秦晖", "url": "https://book.douban.com/subject/1076378/", "评分": "9.1", "书名": "传统十论"}
+{"作者": "[美] 汉普顿·塞兹", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "9.5", "书名": "冰雪王国"}
+{"作者": "吴思", "url": "https://book.douban.com/subject/1025723/", "评分": "8.3", "书名": "潜规则"}
+{"作者": "[宋] 司馬光 編著、[元] 胡三省 音注", "url": "https://book.douban.com/subject/1072295/", "评分": "9.4", "书名": "資治通鑑（全二十冊）"}
+{"作者": "朱迪斯·M·本内特(Judith M.bennett)、C·沃伦·霍利斯特(C.Warren Hollister)", "url": "https://book.douban.com/subject/2326273/", "评分": "8.8", "书名": "欧洲中世纪史"}
+{"作者": "拉莱·科林斯、多米尼克·拉皮埃尔", "url": "https://book.douban.com/subject/21329239/", "评分": "8.8", "书名": "巴黎烧了吗?"}
+{"作者": "[英] 罗杰·克劳利（Roger Crowley）", "url": "https://book.douban.com/subject/26901940/", "评分": "8.9", "书名": "征服者"}
+{"作者": "[俄] 亚历山大·索尔仁尼琴", "url": "https://book.douban.com/subject/1315844/", "评分": "9.2", "书名": "古拉格群岛（上中下）"}
+{"作者": "西敏司", "url": "https://book.douban.com/subject/4891219/", "评分": "8.3", "书名": "甜与权力"}
+{"作者": "[英] 罗斯·金（Ross King）", "url": "https://book.douban.com/subject/26992226/", "评分": "8.6", "书名": "米开朗琪罗与教皇的天花板"}
+{"作者": "[以色列] 尤瓦尔·赫拉利", "url": "https://book.douban.com/subject/26943161/", "评分": "8.5", "书名": "未来简史"}
+{"作者": "刘和平", "url": "https://book.douban.com/subject/1982427/", "评分": "9.1", "书名": "大明王朝1566"}
+{"作者": "(日) 宫本一夫、(日) 平势隆郎、(日) 鹤间和幸、(日) 金文京、(日) 川本芳昭、(日) 气贺泽保规、(日) 小岛毅、(日) 杉山正明、(日) 上田信、(日) 菊池秀明", "url": "https://book.douban.com/subject/25844017/", "评分": "8.5", "书名": "讲谈社·中国的历史（十卷本）"}
+{"作者": "（英）阿诺德・汤因比", "url": "https://book.douban.com/subject/1315199/", "评分": "9.1", "书名": "历史研究"}
+{"作者": "[英] 尤林卡·罗布莱克", "url": "https://book.douban.com/subject/27017800/", "评分": "8.3", "书名": "天文学家的女巫案"}
+{"作者": "[美] 戴维·考特莱特", "url": "https://book.douban.com/subject/25908552/", "评分": "7.6", "书名": "上瘾五百年"}
+{"作者": "易社强", "url": "https://book.douban.com/subject/10436418/", "评分": "8.9", "书名": "战争与革命中的西南联大"}
+{"作者": "[美] 托马斯·索威尔", "url": "https://book.douban.com/subject/6892579/", "评分": "8.4", "书名": "美国种族简史"}
+{"作者": "[美] 理查德·伯恩斯坦", "url": "https://book.douban.com/subject/26865333/", "评分": "8.5", "书名": "中国1945"}
+{"作者": "[荷]伊恩•布鲁玛", "url": "https://book.douban.com/subject/26298832/", "评分": "8.7", "书名": "零年：1945"}
+{"作者": "[俄罗斯] 瓦西里·格罗斯曼", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "9.3", "书名": "生活与命运"}
+{"作者": "[英] 西蒙·蒙蒂菲奥里", "url": "https://book.douban.com/subject/26991064/", "评分": "8.3", "书名": "青年斯大林"}
+{"作者": "[英] 罗里·麦克林", "url": "https://book.douban.com/subject/27026387/", "评分": "7.7", "书名": "柏林：一座城市的肖像"}
+{"作者": "王军", "url": "https://book.douban.com/subject/1070711/", "评分": "8.8", "书名": "城记"}
+{"作者": "[美] 谭凯 (Nicolas Tackett)", "url": "https://book.douban.com/subject/27006609/", "评分": "7.4", "书名": "中古中国门阀大族的消亡"}
+{"作者": "梁启超", "url": "https://book.douban.com/subject/1076685/", "评分": "8.9", "书名": "李鸿章传"}
+{"作者": "陈寅恪", "url": "https://book.douban.com/subject/1017795/", "评分": "9.6", "书名": "隋唐制度渊源略论稿 唐代政治史述论稿"}
+{"作者": "杨照", "url": "https://book.douban.com/subject/26905301/", "评分": "8.9", "书名": "经典里的中国"}
+{"作者": "当年明月", "url": "https://book.douban.com/subject/1949338/", "评分": "8.9", "书名": "明朝那些事儿（贰）"}
+{"作者": "吴军", "url": "https://book.douban.com/subject/26275177/", "评分": "9.0", "书名": "文明之光 （第三册）"}
+{"作者": "[美] 托尼·朱特、[美] 蒂莫西·斯奈德", "url": "https://book.douban.com/subject/26667007/", "评分": "9.1", "书名": "思虑20世纪"}
+{"作者": "威尔.杜兰(美)", "url": "https://book.douban.com/subject/1001356/", "评分": "9.3", "书名": "世界文明史(全24册)"}
+{"作者": "杨奎松", "url": "https://book.douban.com/subject/26711101/", "评分": "8.2", "书名": "&#34;边缘人&#34;纪事"}
+{"作者": "沈辛成", "url": "https://book.douban.com/subject/27037182/", "评分": "9.1", "书名": "纽约无人是客"}
+{"作者": "吴思", "url": "https://book.douban.com/subject/1006560/", "评分": "8.2", "书名": "血酬定律"}
+{"作者": "[美] 白彬菊 (Beatrice Bartlett)", "url": "https://book.douban.com/subject/26985065/", "评分": "8.8", "书名": "君主与大臣"}
+{"作者": "[美] 汉娜·阿伦特、Hannah Arendt", "url": "https://book.douban.com/subject/26834183/", "评分": "8.7", "书名": "艾希曼在耶路撒冷"}
+{"作者": "谭其骧", "url": "https://book.douban.com/subject/1055304/", "评分": "9.6", "书名": "中国历史地图集（全八册）"}
+{"作者": "盐野七生", "url": "https://book.douban.com/subject/7055441/", "评分": "8.9", "书名": "罗马人的故事1"}
+{"作者": "孙机", "url": "https://book.douban.com/subject/25961497/", "评分": "9.0", "书名": "中国古代物质文化"}
+{"作者": "黄永年", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.0", "书名": "唐史十二讲（典藏本）"}
+{"作者": "彼得•希瑟 (Peter Heather)", "url": "https://book.douban.com/subject/26905142/", "评分": "9.1", "书名": "罗马帝国的陨落"}
+{"作者": "（清）顾祖禹、施和金、贺次君", "url": "https://book.douban.com/subject/1314467/", "评分": "9.6", "书名": "读史方舆纪要"}
+{"作者": "王汎森", "url": "https://book.douban.com/subject/26581737/", "评分": "8.8", "书名": "权力的毛细管作用"}
+{"作者": "［英］斯蒂文•朗西曼（Steven Runciman）", "url": "https://book.douban.com/subject/25899496/", "评分": "8.8", "书名": "1453：君士坦丁堡的陷落"}
+{"作者": "[加] 莫德里斯·埃克斯坦斯", "url": "https://book.douban.com/subject/26900285/", "评分": "8.5", "书名": "春之祭"}
+{"作者": "[英] 爱德华·吉本", "url": "https://book.douban.com/subject/1211052/", "评分": "8.6", "书名": "罗马帝国衰亡史（上册）"}
+{"作者": "费正清", "url": "https://book.douban.com/subject/10740958/", "评分": "8.9", "书名": "剑桥中国史（全十册）"}
+{"作者": "王明珂", "url": "https://book.douban.com/subject/26721301/", "评分": "8.8", "书名": "反思史学与史学反思"}
+{"作者": "马伯庸", "url": "https://book.douban.com/subject/26931701/", "评分": "8.0", "书名": "长安十二时辰"}
+{"作者": "[美] 巴巴拉·W.塔奇曼", "url": "https://book.douban.com/subject/26701098/", "评分": "9.2", "书名": "骄傲之塔"}
+{"作者": "[日] 小熊英二", "url": "https://book.douban.com/subject/26897187/", "评分": "8.3", "书名": "活着回来的男人"}
+{"作者": "马俊亚", "url": "https://book.douban.com/subject/5914478/", "评分": "8.6", "书名": "被牺牲的“局部”"}
+{"作者": "高阳", "url": "https://book.douban.com/subject/1056164/", "评分": "9.0", "书名": "慈禧全传(六卷八册)"}
+{"作者": "[美] 伊恩·约翰逊", "url": "https://book.douban.com/subject/26899544/", "评分": "7.9", "书名": "慕尼黑的清真寺"}
+{"作者": "孙机", "url": "https://book.douban.com/subject/26848651/", "评分": "9.1", "书名": "从历史中醒来"}
+{"作者": "[美] 陶涵", "url": "https://book.douban.com/subject/10797092/", "评分": "8.6", "书名": "蒋介石与现代中国"}
+{"作者": "[美]孔飞力", "url": "https://book.douban.com/subject/25750468/", "评分": "8.7", "书名": "中国现代国家的起源"}
+{"作者": "修昔底德", "url": "https://book.douban.com/subject/1439441/", "评分": "8.9", "书名": "伯罗奔尼撒战争史"}
+{"作者": "[美] 马克弟", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.2", "书名": "绝对欲望，绝对奇异"}
+{"作者": "廖信忠", "url": "https://book.douban.com/subject/4113090/", "评分": "7.4", "书名": "我们台湾这些年"}
+{"作者": "余英时", "url": "https://book.douban.com/subject/1016864/", "评分": "8.9", "书名": "士与中国文化"}
+{"作者": "[美] 理查德·沃林", "url": "https://book.douban.com/subject/26979435/", "评分": "8.8", "书名": "东风"}
+{"作者": "（美）约翰·W·道尔", "url": "https://book.douban.com/subject/3206270/", "评分": "8.9", "书名": "拥抱战败"}
+{"作者": "蒋廷黻", "url": "https://book.douban.com/subject/1060025/", "评分": "8.8", "书名": "中国近代史"}
+{"作者": "宫崎市定", "url": "https://book.douban.com/subject/27075720/", "评分": "8.7", "书名": "宫崎市定亚洲史论考"}
+{"作者": "齐邦媛", "url": "https://book.douban.com/subject/4842446/", "评分": "8.7", "书名": "巨流河"}
+{"作者": "[英] 方德万", "url": "https://book.douban.com/subject/27091336/", "评分": "8.8", "书名": "潮来潮去"}
+{"作者": "二混子", "url": "https://book.douban.com/subject/27003014/", "评分": "7.6", "书名": "半小时漫画中国史（修订版）"}
+{"作者": "爱新觉罗·溥仪", "url": "https://book.douban.com/subject/1191433/", "评分": "7.6", "书名": "我的前半生"}
+{"作者": "[德]C.W.策拉姆", "url": "https://book.douban.com/subject/10491608/", "评分": "8.7", "书名": "神祇、陵墓与学者"}
+{"作者": "当年明月", "url": "https://book.douban.com/subject/2052448/", "评分": "8.9", "书名": "明朝那些事儿（叁）"}
+{"作者": "陈旭麓", "url": "https://book.douban.com/subject/1491537/", "评分": "8.9", "书名": "近代中国社会的新陈代谢"}
+{"作者": "唐德刚", "url": "https://book.douban.com/subject/1000280/", "评分": "8.5", "书名": "袁氏当国"}
+{"作者": "中华书局编辑部编著", "url": "https://book.douban.com/subject/1012929/", "评分": "9.3", "书名": "二十四史"}
+{"作者": "[美] 威廉·夏伊勒", "url": "https://book.douban.com/subject/1125731/", "评分": "8.8", "书名": "第三帝国的兴亡（上中下）"}
+{"作者": "[法] 费尔南·布罗代尔", "url": "https://book.douban.com/subject/1044499/", "评分": "9.2", "书名": "菲利普二世时代的地中海和地中海世界（上下卷）"}
+{"作者": "陈寅恪 著、陈美延 编", "url": "https://book.douban.com/subject/1010189/", "评分": "9.6", "书名": "金明馆丛稿初编"}
+{"作者": "高晓松", "url": "https://book.douban.com/subject/25846182/", "评分": "7.5", "书名": "鱼羊野史·第1卷"}
+{"作者": "[英] 阿德里安·戈兹沃西", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.7", "书名": "恺撒：巨人的一生"}
+{"作者": "当年明月", "url": "https://book.douban.com/subject/3274113/", "评分": "8.8", "书名": "明朝那些事儿（陆）"}
+{"作者": "[日] 西嶋定生", "url": "https://book.douban.com/subject/27012065/", "评分": "8.3", "书名": "秦汉帝国"}
+{"作者": "[英] 安德鲁·玛尔", "url": "https://book.douban.com/subject/26902009/", "评分": "8.0", "书名": "BBC世界史"}
+{"作者": "田余庆", "url": "https://book.douban.com/subject/6311230/", "评分": "9.3", "书名": "秦汉魏晋史探微"}
+{"作者": "[英] 尤金·罗根", "url": "https://book.douban.com/subject/26869694/", "评分": "8.7", "书名": "奥斯曼帝国的衰亡"}
+{"作者": "当年明月", "url": "https://book.douban.com/subject/3626924/", "评分": "8.9", "书名": "明朝那些事儿（柒）：大结局"}
+{"作者": "金观涛、刘青峰", "url": "https://book.douban.com/subject/5906321/", "评分": "9.2", "书名": "开放中的变迁"}
+{"作者": "胡鸿", "url": "https://book.douban.com/subject/27011415/", "评分": "8.9", "书名": "能夏则大与渐慕华风"}
+{"作者": "当年明月", "url": "https://book.douban.com/subject/2253642/", "评分": "8.8", "书名": "明朝那些事儿（肆）"}
+{"作者": "芒福德", "url": "https://book.douban.com/subject/1444252/", "评分": "9.3", "书名": "城市发展史"}
+{"作者": "[美] 查尔斯·金", "url": "https://book.douban.com/subject/26909793/", "评分": "8.7", "书名": "佩拉宫的午夜"}
+{"作者": "陈存仁", "url": "https://book.douban.com/subject/2118743/", "评分": "8.6", "书名": "银元时代生活史"}
+{"作者": "[美] 费利克斯•吉尔伯特（Felix Gilbert）、[美] 尤金•赖斯（Eugene F. Rice）、[美] 安东尼•托马斯•格拉夫顿（Anthony Grafton）、[美] 理查德•邓恩（Richard S. Dunn）、[美] 伊塞•沃洛克（Isser Woloch）、[美] 格里高利•布朗（Gregory S. Brown）、[美] 查尔斯•布鲁尼格（Charles Breunig）、[美] 马修•莱温格（Matthew Levinger）、[美] 诺曼•里奇（Norman Rich）、[美] 大卫•克莱•拉奇（David Clay Large）", "url": "https://book.douban.com/subject/26923543/", "评分": "9.1", "书名": "现代欧洲史（全6卷）"}
+{"作者": "熊逸", "url": "https://book.douban.com/subject/2363834/", "评分": "8.9", "书名": "春秋大义"}
+{"作者": "当年明月", "url": "https://book.douban.com/subject/3009821/", "评分": "8.8", "书名": "明朝那些事儿（伍）"}
+{"作者": "[日]小岛毅", "url": "https://book.douban.com/subject/26612919/", "评分": "7.9", "书名": "东大爸爸写给我的日本史"}
+{"作者": "唐诺", "url": "https://book.douban.com/subject/26657573/", "评分": "8.3", "书名": "眼前"}
+{"作者": "[法] 费尔南·布罗代尔", "url": "https://book.douban.com/subject/1254597/", "评分": "9.2", "书名": "15至18世纪的物质文明、经济和资本主义（第一卷）"}
+{"作者": "杨伯峻", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "9.4", "书名": "春秋左傳注（全四冊）"}
+{"作者": "吴晓波", "url": "https://book.douban.com/subject/4010186/", "评分": "8.6", "书名": "跌荡一百年（下）"}
+{"作者": "郭建龙", "url": "https://book.douban.com/subject/26700104/", "评分": "8.5", "书名": "穿越百年中东"}
+{"作者": "秦晖、金雁", "url": "https://book.douban.com/subject/4243276/", "评分": "9.3", "书名": "田园诗与狂想曲"}
+{"作者": "徐兴业", "url": "https://book.douban.com/subject/4000908/", "评分": "9.0", "书名": "金瓯缺"}
+{"作者": "[美] 亨利·查尔斯·李", "url": "https://book.douban.com/subject/26830154/", "评分": "8.4", "书名": "迷信与暴力"}
+{"作者": "[波]显克维奇", "url": "https://book.douban.com/subject/3733083/", "评分": "8.8", "书名": "你往何处去"}
+{"作者": "唐浩明", "url": "https://book.douban.com/subject/1037060/", "评分": "8.6", "书名": "曾国藩（上中下）"}
+{"作者": "[澳] 内维尔·马克斯韦尔(Neville Maxwell)", "url": "https://book.douban.com/subject/3782155/", "评分": "8.6", "书名": "印度对华战争"}
+{"作者": "黄仁宇", "url": "https://book.douban.com/subject/1322214/", "评分": "7.5", "书名": "汴京残梦"}
+{"作者": "李敖", "url": "https://book.douban.com/subject/1062991/", "评分": "8.4", "书名": "北京法源寺"}
+{"作者": "（美）房龙", "url": "https://book.douban.com/subject/1010204/", "评分": "8.5", "书名": "宽容"}
+{"作者": "金易、沈义玲", "url": "https://book.douban.com/subject/1805764/", "评分": "8.6", "书名": "宫女谈往录"}
+{"作者": "吴思", "url": "https://book.douban.com/subject/1050929/", "评分": "8.6", "书名": "隐蔽的秩序"}
+{"作者": "陈寅恪", "url": "https://book.douban.com/subject/1034470/", "评分": "9.0", "书名": "柳如是别传（全三册）"}
+{"作者": "[奥] 彼得·西施罗夫斯基", "url": "https://book.douban.com/subject/27025710/", "评分": "7.8", "书名": "生而有罪"}
+{"作者": "韩丁（William Hinton）", "url": "https://book.douban.com/subject/1772151/", "评分": "8.8", "书名": "翻身"}
+{"作者": "[美]詹姆斯·韦斯特·戴维森（James West Davidson）", "url": "https://book.douban.com/subject/27045325/", "评分": "9.3", "书名": "耶鲁美国小历史"}
+{"作者": "宋韬", "url": "https://book.douban.com/subject/1107841/", "评分": "9.1", "书名": "战国策"}
+{"作者": "[意] 普里莫·莱维（Primo Levi）", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "9.0", "书名": "再度觉醒"}
+{"作者": "吕思勉", "url": "https://book.douban.com/subject/1427450/", "评分": "9.0", "书名": "白话本国史"}
+{"作者": "[美] 乔比·沃里克", "url": "https://book.douban.com/subject/26897747/", "评分": "8.4", "书名": "黑旗"}
+{"作者": "张鸣", "url": "https://book.douban.com/subject/10472702/", "评分": "8.2", "书名": "重说中国近代史"}
+{"作者": "吴军", "url": "https://book.douban.com/subject/6709783/", "评分": "9.1", "书名": "浪潮之巅"}
+{"作者": "张宏杰", "url": "https://book.douban.com/subject/5922204/", "评分": "8.3", "书名": "曾国藩的正面与侧面"}
+{"作者": "[英国]彼得·阿克罗伊德", "url": "https://book.douban.com/subject/26775503/", "评分": "8.1", "书名": "伦敦传"}
+{"作者": "（古希腊）普鲁塔克", "url": "https://book.douban.com/subject/1197950/", "评分": "9.2", "书名": "希腊罗马名人传"}
+{"作者": "高华", "url": "https://book.douban.com/subject/4229282/", "评分": "8.6", "书名": "革命年代"}
+{"作者": "[美] 埃里克·伯科威茨", "url": "https://book.douban.com/subject/26292057/", "评分": "8.3", "书名": "性审判史"}
+{"作者": "[美] 杨·T.格罗斯", "url": "https://book.douban.com/subject/27085641/", "评分": "8.9", "书名": "邻人"}
+{"作者": "森林鹿", "url": "https://book.douban.com/subject/20389202/", "评分": "7.8", "书名": "唐朝穿越指南"}
+{"作者": "[美] 弗拉季斯拉夫·祖博克", "url": "https://book.douban.com/subject/25869117/", "评分": "8.5", "书名": "失败的帝国"}
+{"作者": "杨渡", "url": "https://book.douban.com/subject/26590901/", "评分": "8.6", "书名": "一百年漂泊"}
+{"作者": "[荷兰] 彼得·贾德森(Pieter M. Judson)", "url": "https://book.douban.com/subject/27044555/", "评分": "8.3", "书名": "哈布斯堡王朝"}
+{"作者": "卜正民", "url": "https://book.douban.com/subject/1025547/", "评分": "8.3", "书名": "纵乐的困惑"}
+{"作者": "王奇生", "url": "https://book.douban.com/subject/5372471/", "评分": "9.1", "书名": "党员、党权与党争"}
+{"作者": "[美] 罗伯特·杰伊·利夫顿", "url": "https://book.douban.com/subject/26865732/", "评分": "8.3", "书名": "纳粹医生"}
+{"作者": "[美] 斯图亚特·戈登（Stewart Gordon）", "url": "https://book.douban.com/subject/26864396/", "评分": "7.6", "书名": "极简亚洲千年史"}
+{"作者": "[法] 阿敏·马卢夫", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.6", "书名": "撒马尔罕"}
+{"作者": "李德•哈特 (Basil H.Liddell Hart)", "url": "https://book.douban.com/subject/3610090/", "评分": "9.0", "书名": "第二次世界大战战史"}
+{"作者": "李仲轩 口述、徐皓峰 整理", "url": "https://book.douban.com/subject/1924213/", "评分": "8.3", "书名": "逝去的武林"}
+{"作者": "杨奎松", "url": "https://book.douban.com/subject/4827310/", "评分": "8.8", "书名": "“中间地带”的革命"}
+{"作者": "吴晓波", "url": "https://book.douban.com/subject/1970428/", "评分": "8.8", "书名": "激荡三十年（上）"}
+{"作者": "【美】拉莱•科林斯、【法】多米尼克·拉皮埃尔", "url": "https://book.douban.com/subject/26353607/", "评分": "8.4", "书名": "为你，耶路撒冷（上下册）"}
+{"作者": "[美] 马克·哈里斯", "url": "https://book.douban.com/subject/26995723/", "评分": "8.3", "书名": "五个人的战争"}
+{"作者": "张宏杰", "url": "https://book.douban.com/subject/11636077/", "评分": "8.4", "书名": "饥饿的盛世"}
+{"作者": "[美] 巴巴拉·W·塔奇曼", "url": "https://book.douban.com/subject/26831765/", "评分": "8.7", "书名": "远方之镜"}
+{"作者": "[美] 黄仁宇", "url": "https://book.douban.com/subject/1051231/", "评分": "8.4", "书名": "黄河青山"}
+{"作者": "(德) 塞巴斯提安·哈夫纳", "url": "https://book.douban.com/subject/26825933/", "评分": "9.1", "书名": "不含传说的普鲁士"}
+{"作者": "[美] 戈登·S. 伍德", "url": "https://book.douban.com/subject/26819270/", "评分": "9.7", "书名": "美利坚共和国的缔造"}
+{"作者": "张纯如", "url": "https://book.douban.com/subject/2245468/", "评分": "9.3", "书名": "南京浩劫"}
+{"作者": "霍更斯", "url": "https://book.douban.com/subject/27009523/", "评分": "8.6", "书名": "极简全球史"}
+{"作者": "[意] 阿尔贝托·安杰拉", "url": "https://book.douban.com/subject/27054857/", "评分": "8.6", "书名": "庞贝三日"}
+{"作者": "(爱尔兰)奥克莱利著", "url": "https://book.douban.com/subject/25758414/", "评分": "8.3", "书名": "苏联的最后一天"}
+{"作者": "金观涛、刘青峰", "url": "https://book.douban.com/subject/5906312/", "评分": "8.7", "书名": "兴盛与危机"}
+{"作者": "葛兆光", "url": "https://book.douban.com/subject/5988185/", "评分": "8.4", "书名": "宅兹中国"}
+{"作者": "张荫麟", "url": "https://book.douban.com/subject/1055347/", "评分": "9.1", "书名": "中国史纲"}
+{"作者": "[日] 山冈庄八", "url": "https://book.douban.com/subject/2317974/", "评分": "8.5", "书名": "德川家康（第一部）"}
+{"作者": "托尼•朱特", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.8", "书名": "战后欧洲史"}
+{"作者": "严耕望", "url": "https://book.douban.com/subject/6100919/", "评分": "9.1", "书名": "治史三书"}
+{"作者": "吴军", "url": "https://book.douban.com/subject/25902222/", "评分": "8.9", "书名": "文明之光（第二册）"}
+{"作者": "秦涛", "url": "https://book.douban.com/subject/10606194/", "评分": "8.6", "书名": "老谋子司马懿"}
+{"作者": "[英] 尼尔·麦克格雷格", "url": "https://book.douban.com/subject/26286757/", "评分": "8.7", "书名": "莎士比亚的动荡世界"}
+{"作者": "[美] 比尔·布莱森", "url": "https://book.douban.com/subject/26911121/", "评分": "8.6", "书名": "那年夏天"}
+{"作者": "张光直", "url": "https://book.douban.com/subject/20516441/", "评分": "8.9", "书名": "美术、神话与祭祀"}
+{"作者": "[意大利] 普里莫·莱维", "url": "https://book.douban.com/subject/26657701/", "评分": "8.7", "书名": "若非此时，何时？"}
+{"作者": "冶文彪", "url": "https://book.douban.com/subject/5390091/", "评分": "8.7", "书名": "人皮论语"}
+{"作者": "宋·孟元老", "url": "https://book.douban.com/subject/1907655/", "评分": "9.4", "书名": "东京梦华录笺注（上下）"}
+{"作者": "曹昇", "url": "https://book.douban.com/subject/2133254/", "评分": "8.1", "书名": "流血的仕途"}
+{"作者": "金雁", "url": "https://book.douban.com/subject/11605940/", "评分": "8.5", "书名": "倒转红轮"}
+{"作者": "[英]弗朗西斯·拉尔森", "url": "https://book.douban.com/subject/26872888/", "评分": "7.5", "书名": "人类砍头小史"}
+{"作者": "[ 美] 威尔·杜兰特、阿里尔·杜兰特", "url": "https://book.douban.com/subject/26279878/", "评分": "8.2", "书名": "历史的教训"}
+{"作者": "新垣平", "url": "https://book.douban.com/subject/5423803/", "评分": "8.2", "书名": "剑桥倚天屠龙史"}
+{"作者": "饶胜文", "url": "https://book.douban.com/subject/1207500/", "评分": "8.9", "书名": "布局天下"}
+{"作者": "（俄）瓦尔拉姆·沙拉莫夫", "url": "https://book.douban.com/subject/26802170/", "评分": "9.3", "书名": "科雷马故事"}
+{"作者": "林达", "url": "https://book.douban.com/subject/1001885/", "评分": "8.5", "书名": "带一本书去巴黎"}
+{"作者": "邓智仁", "url": "https://book.douban.com/subject/27088309/", "评分": "7.4", "书名": "锦衣行"}
+{"作者": "刘志伟、孙歌", "url": "https://book.douban.com/subject/26883500/", "评分": "9.2", "书名": "在历史中寻找中国"}
+{"作者": "[德]奥斯瓦尔德·斯宾格勒", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.7", "书名": "西方的没落（全二卷）"}
+{"作者": "陶涵", "url": "https://book.douban.com/subject/5288371/", "评分": "8.4", "书名": "蒋经国传"}
+{"作者": "[英]艾瑞克•霍布斯鲍姆", "url": "https://book.douban.com/subject/25795767/", "评分": "8.8", "书名": "极端的年代：1914～1991"}
+{"作者": "[德] 塞巴斯提安·哈夫纳", "url": "https://book.douban.com/subject/26647781/", "评分": "9.0", "书名": "从俾斯麦到希特勒"}
+{"作者": "阎步克", "url": "https://book.douban.com/subject/3423098/", "评分": "8.7", "书名": "波峰与波谷"}
+{"作者": "[美] 亨利·基辛格", "url": "https://book.douban.com/subject/19920715/", "评分": "8.6", "书名": "论中国"}
+{"作者": "张宏杰", "url": "https://book.douban.com/subject/1463256/", "评分": "8.3", "书名": "大明王朝的七张面孔"}
+{"作者": "柏杨", "url": "https://book.douban.com/subject/1427825/", "评分": "8.5", "书名": "中国人史纲（上中下）"}
+{"作者": "[乌拉圭] 爱德华多·加莱亚诺", "url": "https://book.douban.com/subject/1047370/", "评分": "8.6", "书名": "拉丁美洲被切开的血管"}
+{"作者": "林欣浩", "url": "https://book.douban.com/subject/26791320/", "评分": "8.4", "书名": "哇，历史原来可以这样学1"}
+{"作者": "[日] 盐野七生", "url": "https://book.douban.com/subject/26767261/", "评分": "8.7", "书名": "海都物语"}
+{"作者": "姜淑梅", "url": "https://book.douban.com/subject/25731506/", "评分": "8.0", "书名": "乱时候，穷时候"}
+{"作者": "费正清 主编", "url": "https://book.douban.com/subject/1253538/", "评分": "8.7", "书名": "剑桥中华民国史（上卷）"}
+{"作者": "[美]威廉•麦克尼尔", "url": "https://book.douban.com/subject/20389611/", "评分": "8.2", "书名": "世界史"}
+{"作者": "吴军", "url": "https://book.douban.com/subject/26989163/", "评分": "8.8", "书名": "文明之光（第四册）"}
+{"作者": "陈寅恪", "url": "https://book.douban.com/subject/4086800/", "评分": "9.6", "书名": "陈寅恪集"}
+{"作者": "沈从文", "url": "https://book.douban.com/subject/1315258/", "评分": "9.1", "书名": "中国古代服饰研究"}
+{"作者": "[意] 普里莫·莱维", "url": "https://book.douban.com/subject/26666138/", "评分": "8.9", "书名": "这是不是个人"}
+{"作者": "[美] 斯科特·克里斯蒂安松", "url": "https://book.douban.com/subject/27012340/", "评分": "7.7", "书名": "文件中的历史"}
+{"作者": "[英] 伯内特·博洛滕", "url": "https://book.douban.com/subject/26907955/", "评分": "8.7", "书名": "西班牙内战"}
+{"作者": "[美]大卫·克里斯蒂安", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "7.4", "书名": "极简人类史"}
+{"作者": "梁庚尧", "url": "https://book.douban.com/subject/26947830/", "评分": "9.0", "书名": "宋代科举社会"}
+{"作者": "吴晓波", "url": "https://book.douban.com/subject/3313327/", "评分": "8.6", "书名": "跌荡一百年（上）"}
+{"作者": "[美] 孔飞力", "url": "https://book.douban.com/subject/1063540/", "评分": "8.3", "书名": "中华帝国晚期的叛乱及其敌人"}
+{"作者": "岳南", "url": "https://book.douban.com/subject/6119800/", "评分": "8.5", "书名": "南渡北归（第三部）"}
+{"作者": "周一良", "url": "https://book.douban.com/subject/2255277/", "评分": "9.1", "书名": "魏晋南北朝史札记"}
+{"作者": "陆键东", "url": "https://book.douban.com/subject/1002690/", "评分": "8.7", "书名": "陈寅恪的最后20年"}
+{"作者": "杨奎松", "url": "https://book.douban.com/subject/24316409/", "评分": "8.3", "书名": "忍不住的“关怀”（增订版）"}
+{"作者": "查尔斯·曼恩", "url": "https://book.douban.com/subject/26801839/", "评分": "8.5", "书名": "1493"}
+{"作者": "[德] 诺贝特·埃利亚斯", "url": "https://book.douban.com/subject/3701456/", "评分": "8.8", "书名": "文明的进程"}
+{"作者": "[美] 魏斐德", "url": "https://book.douban.com/subject/1132689/", "评分": "8.7", "书名": "洪业"}
+{"作者": "[德] 特奥多尔·蒙森", "url": "https://book.douban.com/subject/1023494/", "评分": "7.8", "书名": "罗马史（第一卷）"}
+{"作者": "沈志华", "url": "https://book.douban.com/subject/1009529/", "评分": "8.6", "书名": "毛泽东、斯大林与朝鲜战争"}
+{"作者": "[英] 奥兰多·费吉斯", "url": "https://book.douban.com/subject/26840828/", "评分": "8.6", "书名": "古拉格之恋"}
+{"作者": "勒内·格鲁塞", "url": "https://book.douban.com/subject/1057653/", "评分": "8.7", "书名": "草原帝国"}
+{"作者": "贡德・弗兰克", "url": "https://book.douban.com/subject/1006020/", "评分": "7.4", "书名": "白银资本"}
+{"作者": "[英] 保罗·约翰逊", "url": "https://book.douban.com/subject/26581246/", "评分": "8.8", "书名": "摩登时代"}
+{"作者": "[美] 拉尔斯·布朗沃思", "url": "https://book.douban.com/subject/26929967/", "评分": "8.1", "书名": "拜占庭帝国"}
+{"作者": "刘铮云", "url": "https://book.douban.com/subject/27081777/", "评分": "8.5", "书名": "档案中的历史"}
+{"作者": "Anne-Maria Wittke、Eckart Olshausen、Richard Szydlak", "url": "https://book.douban.com/subject/26834908/", "评分": "8.8", "书名": "古代世界历史地图集"}
+{"作者": "钱理群", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.9", "书名": "岁月沧桑"}
+{"作者": "阎雷 (Yann Layma)", "url": "https://book.douban.com/subject/26274949/", "评分": "8.2", "书名": "昨天的中国"}
+{"作者": "[英] 萨道义", "url": "https://book.douban.com/subject/27043583/", "评分": "7.7", "书名": "明治维新亲历记"}
+{"作者": "汪凌燕、汪通", "url": "https://book.douban.com/subject/26873728/", "评分": "8.7", "书名": "穿越历史聊经济"}
+{"作者": "吴晓波", "url": "https://book.douban.com/subject/24851460/", "评分": "8.6", "书名": "历代经济变革得失"}
+{"作者": "荣新江", "url": "https://book.douban.com/subject/6313277/", "评分": "8.9", "书名": "学术训练与学术规范"}
+{"作者": "柯文", "url": "https://book.douban.com/subject/1439260/", "评分": "8.9", "书名": "历史三调"}
+{"作者": "（美）费正清（编）、（美）刘广京（编）", "url": "https://book.douban.com/subject/1039126/", "评分": "8.9", "书名": "剑桥中国晚清史（上下卷）"}
+{"作者": "许倬云", "url": "https://book.douban.com/subject/26334500/", "评分": "8.3", "书名": "说中国"}
+{"作者": "[匈]米克洛斯·尼斯利", "url": "https://book.douban.com/subject/26586326/", "评分": "8.8", "书名": "来自纳粹地狱的报告"}
+{"作者": "周海燕", "url": "https://book.douban.com/subject/25786160/", "评分": "8.5", "书名": "记忆的政治"}
+{"作者": "瞿同祖", "url": "https://book.douban.com/subject/1517400/", "评分": "9.3", "书名": "清代地方政府"}
+{"作者": "余英时", "url": "https://book.douban.com/subject/1065335/", "评分": "9.1", "书名": "朱熹的历史世界(上下)"}
+{"作者": "艾瑞克•莱维 (Erik Levi)", "url": "https://book.douban.com/subject/26907172/", "评分": "8.1", "书名": "莫扎特与纳粹"}
+{"作者": "华杉", "url": "https://book.douban.com/subject/26354200/", "评分": "8.9", "书名": "华杉讲透孙子兵法"}
+{"作者": "[美] 詹姆斯·弗农", "url": "https://book.douban.com/subject/27036755/", "评分": "8.4", "书名": "远方的陌生人"}
+{"作者": "章骞", "url": "https://book.douban.com/subject/24869701/", "评分": "9.4", "书名": "无畏之海"}
+{"作者": "周策纵", "url": "https://book.douban.com/subject/1447912/", "评分": "8.9", "书名": "五四运动"}
+{"作者": "[日] 宫崎市定", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "7.9", "书名": "雍正帝"}
+{"作者": "秋原", "url": "https://book.douban.com/subject/26419408/", "评分": "9.3", "书名": "清代旅蒙商述略"}
+{"作者": "[美] 莫里·古皮提尔·曼宁", "url": "https://book.douban.com/subject/26592900/", "评分": "8.1", "书名": "当图书进入战争"}
+{"作者": "（美）埃德加·斯诺", "url": "https://book.douban.com/subject/1506961/", "评分": "8.4", "书名": "西行漫记"}
+{"作者": "[英] 安德鲁·罗伯茨（Andrew Roberts）", "url": "https://book.douban.com/subject/26802226/", "评分": "8.7", "书名": "拿破仑大帝"}
+{"作者": "比尔·布莱森", "url": "https://book.douban.com/subject/6781486/", "评分": "8.1", "书名": "趣味生活简史"}
+{"作者": "[美]芮乐伟·韩森（Valerie Hansen)", "url": "https://book.douban.com/subject/26426959/", "评分": "8.2", "书名": "丝绸之路新史"}
+{"作者": "塔奇曼", "url": "https://book.douban.com/subject/1322401/", "评分": "8.7", "书名": "八月炮火"}
+{"作者": "[美] 保罗·肯尼迪", "url": "https://book.douban.com/subject/1421923/", "评分": "8.2", "书名": "大国的兴衰"}
+{"作者": "李零", "url": "https://book.douban.com/subject/26640179/", "评分": "7.8", "书名": "我们的中国"}
+{"作者": "[英] 克里斯托弗·希伯特(Christopher Hibbert)", "url": "https://book.douban.com/subject/26871064/", "评分": "7.6", "书名": "美第奇家族的兴衰"}
+{"作者": "金观涛、刘青峰", "url": "https://book.douban.com/subject/26591902/", "评分": "9.3", "书名": "中国思想史十讲（上卷）"}
+{"作者": "[美] 拉尔斯·布朗沃思", "url": "https://book.douban.com/subject/26949668/", "评分": "8.9", "书名": "欧洲中世纪三部曲"}
+{"作者": "希罗多德", "url": "https://book.douban.com/subject/1427023/", "评分": "9.0", "书名": "希罗多德历史（上下）"}
+{"作者": "Thomas P.  Bernstein (EDT)、Hua-Yu Li (EDT)", "url": "https://book.douban.com/subject/4317044/", "评分": "8.7", "书名": "China Learns from the Soviet Union"}
+{"作者": "萧寒 主编、绿妖 撰稿、严明 摄影", "url": "https://book.douban.com/subject/26933798/", "评分": "8.1", "书名": "我在故宫修文物"}
+{"作者": "徐弃郁", "url": "https://book.douban.com/subject/6518053/", "评分": "9.2", "书名": "脆弱的崛起"}
+{"作者": "冯梦龙、蔡元放", "url": "https://book.douban.com/subject/1185908/", "评分": "8.6", "书名": "东周列国志（上下）"}
+{"作者": "罗威廉 (William T.Rowe)", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.2", "书名": "红雨"}
+{"作者": "陈巨来", "url": "https://book.douban.com/subject/5404877/", "评分": "8.2", "书名": "安持人物琐忆"}
+{"作者": "刀尔登", "url": "https://book.douban.com/subject/3391717/", "评分": "8.1", "书名": "中国好人"}
+{"作者": "[美]阿诺德·C.布拉克曼", "url": "https://book.douban.com/subject/27036060/", "评分": "8.8", "书名": "另一个纽伦堡"}
+{"作者": "温斯顿·丘吉尔", "url": "https://book.douban.com/subject/1000531/", "评分": "8.7", "书名": "第二次世界大战回忆录（全六卷）"}
+{"作者": "林达", "url": "https://book.douban.com/subject/1907199/", "评分": "8.6", "书名": "扫起落叶好过冬"}
+{"作者": "陈寅恪", "url": "https://book.douban.com/subject/1037121/", "评分": "9.3", "书名": "寒柳堂集"}
+{"作者": "[荷] 田海", "url": "https://book.douban.com/subject/27028462/", "评分": "8.6", "书名": "讲故事"}
+{"作者": "[英] 诺曼·斯通", "url": "https://book.douban.com/subject/27038525/", "评分": "7.5", "书名": "土耳其简史"}
+{"作者": "吕思勉", "url": "https://book.douban.com/subject/3787085/", "评分": "8.5", "书名": "三国史话"}
+{"作者": "[美] 拉尔斯·布朗沃思", "url": "https://book.douban.com/subject/26897748/", "评分": "8.3", "书名": "维京传奇"}
+{"作者": "朱家溍", "url": "https://book.douban.com/subject/4240739/", "评分": "8.9", "书名": "故宫退食录（上下）"}
+{"作者": "吕思勉", "url": "https://book.douban.com/subject/1446867/", "评分": "9.2", "书名": "兩晉南北朝史（上下）"}
+{"作者": "新垣平", "url": "https://book.douban.com/subject/24324704/", "评分": "8.1", "书名": "剑桥简明金庸武侠史"}
+{"作者": "（美）亨德里克·威廉·房龙", "url": "https://book.douban.com/subject/1063736/", "评分": "8.4", "书名": "人类的故事"}
+{"作者": "（美）弗朗西斯·福山", "url": "https://book.douban.com/subject/1432078/", "评分": "8.1", "书名": "历史的终结及最后之人"}
+{"作者": "[美] 约翰·S. 戈登", "url": "https://book.douban.com/subject/1220853/", "评分": "8.3", "书名": "伟大的博弈"}
+{"作者": "[美]迈克尔·罗斯金(Michael G. Roskin)", "url": "https://book.douban.com/subject/22806583/", "评分": "8.7", "书名": "国家的常识"}
+{"作者": "宋杰", "url": "https://book.douban.com/subject/3875719/", "评分": "8.9", "书名": "中国古代战争的地理枢纽"}
+{"作者": "[美]吉尔伯特·海厄特（Gilbert Highet)", "url": "https://book.douban.com/subject/26594676/", "评分": "9.5", "书名": "古典传统"}
+{"作者": "彼得·霍普柯克", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.8", "书名": "大博弈"}
+{"作者": "[法] 皮埃尔·诺拉 主编", "url": "https://book.douban.com/subject/26591593/", "评分": "9.2", "书名": "记忆之场"}
+{"作者": "川胜义雄", "url": "https://book.douban.com/subject/2382863/", "评分": "9.1", "书名": "六朝贵族制社会研究"}
+{"作者": "(英) 魏根深", "url": "https://book.douban.com/subject/26642260/", "评分": "8.3", "书名": "中国历史研究手册"}
+{"作者": "辛德勇", "url": "https://book.douban.com/subject/26916135/", "评分": "9.1", "书名": "中国印刷史研究"}
+{"作者": "张曼菱", "url": "https://book.douban.com/subject/24838578/", "评分": "8.4", "书名": "西南联大行思录"}
+{"作者": "茅海建", "url": "https://book.douban.com/subject/3665980/", "评分": "9.0", "书名": "从甲午到戊戌"}
+{"作者": "[英]艾瑞克•霍布斯鲍姆", "url": "https://book.douban.com/subject/25795770/", "评分": "8.6", "书名": "革命的年代：1789～1848"}
+{"作者": "林达", "url": "https://book.douban.com/subject/1014825/", "评分": "9.0", "书名": "我也有一个梦想"}
+{"作者": "[美] 大卫·克里斯蒂安", "url": "https://book.douban.com/subject/26975985/", "评分": "8.4", "书名": "时间地图"}
+{"作者": "（加）布鲁斯·G. 崔格尔", "url": "https://book.douban.com/subject/25815071/", "评分": "8.7", "书名": "理解早期文明"}
+{"作者": "王鼎钧", "url": "https://book.douban.com/subject/20433554/", "评分": "9.2", "书名": "关山夺路"}
+{"作者": "(英)庄士敦", "url": "https://book.douban.com/subject/2040853/", "评分": "7.8", "书名": "紫禁城的黄昏"}
+{"作者": "[奥] 斯·茨威格", "url": "https://book.douban.com/subject/1465543/", "评分": "8.8", "书名": "异端的权利"}
+{"作者": "司马光", "url": "https://book.douban.com/subject/2191536/", "评分": "9.0", "书名": "资治通鉴-(柏杨白话版)(全九辑三十六册)(双盒装)"}
+{"作者": "张信刚", "url": "https://book.douban.com/subject/6826619/", "评分": "8.2", "书名": "大中东行纪"}
+{"作者": "[法]费尔南·布罗代尔", "url": "https://book.douban.com/subject/25845900/", "评分": "8.1", "书名": "文明史"}
+{"作者": "马千", "url": "https://book.douban.com/subject/26782012/", "评分": "8.6", "书名": "医院骑士团全史"}
+{"作者": "[美] 梅天穆", "url": "https://book.douban.com/subject/27081056/", "评分": "8.4", "书名": "世界历史上的蒙古征服"}
+{"作者": "[英] 克里斯托弗·戈托－琼斯", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.3", "书名": "现代日本"}
+{"作者": "徐瑾", "url": "https://book.douban.com/subject/26969182/", "评分": "7.5", "书名": "白银帝国"}
+{"作者": "杨奎松", "url": "https://book.douban.com/subject/2713409/", "评分": "8.9", "书名": "国民党的“联共”与“反共”"}
+{"作者": "岳南", "url": "https://book.douban.com/subject/6390216/", "评分": "8.5", "书名": "南渡北歸 (3冊合售)"}
+{"作者": "雅各布·布克哈特", "url": "https://book.douban.com/subject/1138452/", "评分": "8.5", "书名": "意大利文艺复兴时期的文化"}
+{"作者": "葛兆光", "url": "https://book.douban.com/subject/26952818/", "评分": "9.2", "书名": "歷史中國的內與外"}
+{"作者": "金雁", "url": "https://book.douban.com/subject/6308034/", "评分": "8.4", "书名": "从&#34;东欧&#34;到&#34;新欧洲&#34;"}
+{"作者": "李开元", "url": "https://book.douban.com/subject/26349445/", "评分": "8.1", "书名": "秦谜"}
+{"作者": "[美]罗伯特.达恩顿", "url": "https://book.douban.com/subject/1777853/", "评分": "8.3", "书名": "屠猫记"}
+{"作者": "〔美〕史蒂芬·约翰逊 (Steven Johnson)", "url": "https://book.douban.com/subject/26950083/", "评分": "8.4", "书名": "死亡地图"}
+{"作者": "岳南", "url": "https://book.douban.com/subject/5502440/", "评分": "8.2", "书名": "南渡北归（第二部）"}
+{"作者": "邓野", "url": "https://book.douban.com/subject/6895949/", "评分": "9.2", "书名": "联合政府与一党训政"}
+{"作者": "[英] 玛丽·瑞瑙特", "url": "https://book.douban.com/subject/4175473/", "评分": "8.6", "书名": "波斯少年"}
+{"作者": "王这么", "url": "https://book.douban.com/subject/26791617/", "评分": "7.8", "书名": "大好河山可骑驴"}
+{"作者": "吕思勉", "url": "https://book.douban.com/subject/1480858/", "评分": "9.0", "书名": "吕思勉读史札记"}
+{"作者": "张生全", "url": "https://book.douban.com/subject/27005902/", "评分": "8.6", "书名": "最后的士绅家族（上下册）"}
+{"作者": "(汉)司马迁", "url": "https://book.douban.com/subject/2121038/", "评分": "8.4", "书名": "白话史记（上中下）"}
+{"作者": "戴维 S. 兰德斯", "url": "https://book.douban.com/subject/4193722/", "评分": "8.4", "书名": "国富国穷"}
+{"作者": "秋原", "url": "https://book.douban.com/subject/26789604/", "评分": "8.9", "书名": "茶馆之殇"}
+{"作者": "林达", "url": "https://book.douban.com/subject/2282097/", "评分": "8.8", "书名": "像自由一样美丽"}
+{"作者": "塞缪尔•E•芬纳", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "9.1", "书名": "统治史（卷一）：古代的王权和帝国——从苏美尔到罗马（修订版）"}
+{"作者": "[英] 白馥兰", "url": "https://book.douban.com/subject/26986632/", "评分": "8.6", "书名": "技术、性别、历史"}
+{"作者": "[美] 阿尔伯特·克雷格", "url": "https://book.douban.com/subject/26891290/", "评分": "7.6", "书名": "哈佛极简中国史"}
+{"作者": "王觉仁", "url": "https://book.douban.com/subject/27073559/", "评分": "8.0", "书名": "兰亭序杀局1"}
+{"作者": "[英]约翰•汤姆逊", "url": "https://book.douban.com/subject/20366533/", "评分": "8.7", "书名": "中国与中国人影像"}
+{"作者": "[美] 麦迪逊", "url": "https://book.douban.com/subject/1084730/", "评分": "9.4", "书名": "辩论：美国制宪会议记录（上下）"}
+{"作者": "高馬可", "url": "https://book.douban.com/subject/24855510/", "评分": "9.0", "书名": "香港簡史"}
+{"作者": "[美] 金·麦夸里(Kim MacQuarrie)", "url": "https://book.douban.com/subject/26997145/", "评分": "8.9", "书名": "印加帝国的末日"}
+{"作者": "扬之水", "url": "https://book.douban.com/subject/3317670/", "评分": "8.5", "书名": "终朝采蓝"}
+{"作者": "蓝云舒", "url": "https://book.douban.com/subject/20501270/", "评分": "8.7", "书名": "大唐明月1·风起长安"}
+{"作者": "陈乐民", "url": "https://book.douban.com/subject/1065142/", "评分": "8.5", "书名": "欧洲文明十五讲"}
+{"作者": "班固", "url": "https://book.douban.com/subject/1029723/", "评分": "9.3", "书名": "汉书（全十二册）"}
+{"作者": "[英] 玛尼·弗格（Marnie Fogg）", "url": "https://book.douban.com/subject/26782825/", "评分": "8.9", "书名": "时尚通史"}
+{"作者": "王明珂", "url": "https://book.douban.com/subject/1799788/", "评分": "8.5", "书名": "华夏边缘"}
+{"作者": "[英] 罗德里克·卡夫、[英] 萨拉·阿亚德", "url": "https://book.douban.com/subject/26892916/", "评分": "8.7", "书名": "极简图书史"}
+{"作者": "冶文彪", "url": "https://book.douban.com/subject/26576515/", "评分": "8.1", "书名": "清明上河图密码 2"}
+{"作者": "[美]巴巴拉·W·塔奇曼", "url": "https://book.douban.com/subject/26831740/", "评分": "9.3", "书名": "第一声礼炮"}
+{"作者": "[法] 克劳德·卡利耶尔", "url": "https://book.douban.com/subject/4747128/", "评分": "8.8", "书名": "乌托邦的年代"}
+{"作者": "[英] 玛丽·蒂芬（Mary Tiffen）", "url": "https://book.douban.com/subject/26981138/", "评分": "8.5", "书名": "中国岁月"}
+{"作者": "姜生", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.6", "书名": "汉帝国的遗产"}
+{"作者": "[日]冈田英弘、[日]神田信夫、[日]松村润", "url": "https://book.douban.com/subject/26905098/", "评分": "7.4", "书名": "紫禁城的荣光"}
+{"作者": "[美] 米华健", "url": "https://book.douban.com/subject/26995811/", "评分": "7.9", "书名": "丝绸之路"}
+{"作者": "[英]伯纳德·康沃尔", "url": "https://book.douban.com/subject/26686622/", "评分": "8.4", "书名": "滑铁卢"}
+{"作者": "郭廷以", "url": "https://book.douban.com/subject/3662567/", "评分": "9.2", "书名": "近代中国史纲"}
+{"作者": "费正清(美)", "url": "https://book.douban.com/subject/1034847/", "评分": "8.5", "书名": "美国与中国"}
+{"作者": "冶文彪", "url": "https://book.douban.com/subject/26746839/", "评分": "8.4", "书名": "清明上河图密码3"}
+{"作者": "宗承灏", "url": "https://book.douban.com/subject/27044649/", "评分": "8.0", "书名": "大明朝（1368—1644）"}
+{"作者": "赵柏田", "url": "https://book.douban.com/subject/26281730/", "评分": "8.0", "书名": "南华录"}
+{"作者": "吴晓波", "url": "https://book.douban.com/subject/6980818/", "评分": "8.6", "书名": "浩荡两千年"}
+{"作者": "</div>\n\n\n        \n  \n  \n  \n  <div class=\"star clearfix\">\n        <span class=\"allstar45\"></span>\n        <span class=\"rating_nums\">8.9</span>\n\n    <span class=\"pl\">\n        (1007人评价)\n    </span>\n  </div>\n\n\n\n        \n  \n  \n  \n\n\n\n\n\n\n      <div class=\"ft\">\n          \n  <div class=\"collect-info\">\n  </div>\n\n\n          <div class=\"cart-actions\">\n            \n                \n  \n\n\n          </div>\n\n            \n            \n  \n\n      </div>\n\n    </div>\n  </li>\n  \n\n      \n      \n  \n  <li class=\"subject-item\">\n    <div class=\"pic\">\n      <a class=\"nbg\" href=\"https://book.douban.com/subject/10769835/\" \n  onclick=\"moreurl(this,{i:'11',query:'',subject_id:'10769835',from:'book_subject_search'})\">\n        <img class=\"\" src=\"https://img3.doubanio.com/mpic/s10213915.jpg\"\n          width=\"90\">\n      </a>\n    </div>\n    <div class=\"info\">\n      <h2 class=\"\">\n        \n  \n  <a href=\"https://book.douban.com/subject/10769835/\" title=\"历史学十二讲\" \n  onclick=\"moreurl(this,{i:'11',query:'',subject_id:'10769835',from:'book_subject_search'})\">\n\n    历史学十二讲\n\n\n    \n\n  </a>\n\n      </h2>\n      <div class=\"pub\">\n        \n  \n  [法] 安托万•普罗斯特", "url": "https://book.douban.com/subject/26786719/", "评分": "8.9", "书名": "以色列：一个国家的诞生"}
+{"作者": "阎步克", "url": "https://book.douban.com/subject/3410734/", "评分": "8.9", "书名": "从爵本位到官本位"}
+{"作者": "（法）布洛赫", "url": "https://book.douban.com/subject/1053109/", "评分": "9.0", "书名": "封建社会（上、下卷）"}
+{"作者": "杜君立", "url": "https://book.douban.com/subject/26841898/", "评分": "9.1", "书名": "现代的历程"}
+{"作者": "何兆武 口述、文靖 撰写", "url": "https://book.douban.com/subject/1859140/", "评分": "8.9", "书名": "上学记"}
+{"作者": "马克斯·布特 (Max Boot)", "url": "https://book.douban.com/subject/26751983/", "评分": "8.3", "书名": "隐形军队"}
+{"作者": "[波]伊萨克•多伊彻", "url": "https://book.douban.com/subject/20537674/", "评分": "9.3", "书名": "先知三部曲（全新插图修订本）"}
+{"作者": "[英] 托马斯·卡莱尔", "url": "https://book.douban.com/subject/27060617/", "评分": "8.9", "书名": "法国大革命"}
+{"作者": "[英] 罗纳德·赖特", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "7.9", "书名": "极简进步史"}
+{"作者": "[荷] 伊恩·布鲁玛", "url": "https://book.douban.com/subject/26577705/", "评分": "8.4", "书名": "罪孽的报应"}
+{"作者": "梁庚尧", "url": "https://book.douban.com/subject/26776858/", "评分": "9.3", "书名": "中国社会史"}
+{"作者": "卜正民", "url": "https://book.douban.com/subject/26392829/", "评分": "7.8", "书名": "秩序的沦陷"}
+{"作者": "林达", "url": "https://book.douban.com/subject/1762869/", "评分": "8.9", "书名": "如彗星划过夜空"}
+{"作者": "[法]埃曼努埃尔·吉贝尔（Emmanuel Guibert）", "url": "https://book.douban.com/subject/26376049/", "评分": "8.9", "书名": "阿兰的战争"}
+{"作者": "[美] 加里·纳什(Gary B. Nash)、朱莉·罗伊·杰弗里(Julie Roy Jeffrey)、约翰·豪(John R. How)、彼得·弗雷德里克(Peter J. Frederick)、艾伦·戴维斯(Allen F. Davis)、艾伦·温克尔(Allan M. Winkler)", "url": "https://book.douban.com/subject/2981480/", "评分": "9.1", "书名": "美国人民：创建一个国家和一种社会（上卷）"}
+{"作者": "[法] 谢和耐", "url": "https://book.douban.com/subject/3525645/", "评分": "7.9", "书名": "蒙元入侵前夜的中国日常生活"}
+{"作者": "马克思", "url": "https://book.douban.com/subject/1091964/", "评分": "9.0", "书名": "路易·波拿巴的雾月十八日"}
+{"作者": "[英] 艾伦·麦克法兰 主讲、清华大学国学研究院 主编、刘北成 评议、刘东 主持", "url": "https://book.douban.com/subject/24699353/", "评分": "8.1", "书名": "现代世界的诞生"}
+{"作者": "[美] R. R. 帕尔默", "url": "https://book.douban.com/subject/3555039/", "评分": "9.0", "书名": "现代世界史"}
+{"作者": "[英] 西门·沙马", "url": "https://book.douban.com/subject/26720841/", "评分": "7.4", "书名": "犹太人的故事"}
+{"作者": "[美] 埃德蒙·威尔逊", "url": "https://book.douban.com/subject/22768133/", "评分": "8.3", "书名": "到芬兰车站"}
+{"作者": "(美)詹姆斯.M 麦克弗森", "url": "https://book.douban.com/subject/1702679/", "评分": "8.8", "书名": "火的考验"}
+{"作者": "[英] 詹姆斯·费尔格里夫", "url": "https://book.douban.com/subject/26921758/", "评分": "7.5", "书名": "地理与世界霸权"}
+{"作者": "凯瑟琳·德林克·鲍恩", "url": "https://book.douban.com/subject/24529162/", "评分": "8.3", "书名": "民主的奇迹"}
+{"作者": "(英) 琳达·科利", "url": "https://book.douban.com/subject/26983926/", "评分": "8.7", "书名": "英国人"}
+{"作者": "[美] 罗斯·特里尔", "url": "https://book.douban.com/subject/1485628/", "评分": "7.9", "书名": "毛泽东传"}
+{"作者": "[法] 盖伊·萨杰", "url": "https://book.douban.com/subject/3418938/", "评分": "9.0", "书名": "被遗忘的士兵"}
+{"作者": "威廉·戈兹曼", "url": "https://book.douban.com/subject/27026691/", "评分": "7.8", "书名": "千年金融史"}
+{"作者": "(美) 斯坦迪奇", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.0", "书名": "舌尖上的历史"}
+{"作者": "[日]盐野七生", "url": "https://book.douban.com/subject/26545313/", "评分": "8.0", "书名": "文艺复兴的故事01：文艺复兴是什么"}
+{"作者": "金·麦夸里 (Kim MacQuarrie)", "url": "https://book.douban.com/subject/27034274/", "评分": "8.2", "书名": "安第斯山脉的生与死"}
+{"作者": "[荷] 高罗佩", "url": "https://book.douban.com/subject/1069138/", "评分": "8.4", "书名": "中国古代房内考"}
+{"作者": "许纪霖", "url": "https://book.douban.com/subject/26952234/", "评分": "8.1", "书名": "家国天下"}
+{"作者": "祝总斌", "url": "https://book.douban.com/subject/1836621/", "评分": "9.2", "书名": "两汉魏晋南北朝宰相制度研究"}
+{"作者": "黄仁宇", "url": "https://book.douban.com/subject/2567326/", "评分": "8.1", "书名": "从大历史的角度读蒋介石日记"}
+{"作者": "[美] 阿德里安·戈兹沃西", "url": "https://book.douban.com/subject/26808763/", "评分": "8.3", "书名": "奥古斯都"}
+{"作者": "[古罗马] 凯撒", "url": "https://book.douban.com/subject/1511912/", "评分": "8.5", "书名": "高卢战记"}
+{"作者": "马克斯·布特", "url": "https://book.douban.com/subject/6090958/", "评分": "9.1", "书名": "战争改变历史"}
+{"作者": "来新夏", "url": "https://book.douban.com/subject/26795138/", "评分": "7.9", "书名": "北洋军阀史"}
+{"作者": "杨奎松", "url": "https://book.douban.com/subject/3923369/", "评分": "8.9", "书名": "中华人民共和国建国史研究1"}
+{"作者": "[美]科尼利厄斯·瑞恩（Cornelius Ryan）", "url": "https://book.douban.com/subject/26594136/", "评分": "9.3", "书名": "二战史诗三部曲"}
+{"作者": "[英]萨达卡特·卡德里", "url": "https://book.douban.com/subject/25848747/", "评分": "8.4", "书名": "审判为什么不公正"}
+{"作者": "唐隐", "url": "https://book.douban.com/subject/26954209/", "评分": "7.6", "书名": "大唐悬疑录3：长恨歌密码"}
+{"作者": "[比利时]彼得·胡斯", "url": "https://book.douban.com/subject/26780643/", "评分": "8.7", "书名": "时间线"}
+{"作者": "章东磐 主编", "url": "https://book.douban.com/subject/5299857/", "评分": "9.0", "书名": "国家记忆"}
+{"作者": "贝恩德·施特弗尔 (Bernd Stover)", "url": "https://book.douban.com/subject/27072707/", "评分": "8.1", "书名": "冷战1947-1991"}
+{"作者": "[美] 埃里克·方纳", "url": "https://book.douban.com/subject/1031956/", "评分": "8.9", "书名": "美国自由的故事"}
+{"作者": "史景迁", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "7.7", "书名": "太平天国"}
+{"作者": "(英)理查德・奥弗里", "url": "https://book.douban.com/subject/6800122/", "评分": "9.0", "书名": "泰晤士世界历史"}
+{"作者": "马克·科兰斯基", "url": "https://book.douban.com/subject/4011286/", "评分": "8.0", "书名": "1968"}
+{"作者": "王仲荦", "url": "https://book.douban.com/subject/1008176/", "评分": "8.5", "书名": "魏晋南北朝史"}
+{"作者": "熊召政", "url": "https://book.douban.com/subject/1893879/", "评分": "8.5", "书名": "张居正（全四册）"}
+{"作者": "[英] 佩里·安德森", "url": "https://book.douban.com/subject/26974896/", "评分": "7.2", "书名": "新的旧世界"}
+{"作者": "[英] 克里斯蒂安·沃尔玛", "url": "https://book.douban.com/subject/27046020/", "评分": "8.2", "书名": "通向世界尽头"}
+{"作者": "沃尔特•拉塞尔•米德 (Walter Russell Mead)", "url": "https://book.douban.com/subject/26260335/", "评分": "8.1", "书名": "上帝与黄金"}
+{"作者": "何炳棣", "url": "https://book.douban.com/subject/1400710/", "评分": "8.3", "书名": "读史阅世六十年"}
+{"作者": "钱穆 讲授、叶龙 记录整理、林毅夫 序", "url": "https://book.douban.com/subject/25719688/", "评分": "8.1", "书名": "中国经济史"}
+{"作者": "[英]约翰·基根", "url": "https://book.douban.com/subject/26293794/", "评分": "8.5", "书名": "二战史"}
+{"作者": "宫崎市定", "url": "https://book.douban.com/subject/26607789/", "评分": "8.2", "书名": "宫崎市定中国史"}
+{"作者": "林孝庭", "url": "https://book.douban.com/subject/27065155/", "评分": "8.8", "书名": "困守与反攻"}
+{"作者": "齐小林", "url": "https://book.douban.com/subject/26639522/", "评分": "8.7", "书名": "当兵"}
+{"作者": "苏静", "url": "https://book.douban.com/subject/26972834/", "评分": "8.2", "书名": "知中·竹林七贤"}
+{"作者": "约翰·托兰", "url": "https://book.douban.com/subject/3035211/", "评分": "8.1", "书名": "日本帝国的衰亡（上下册）"}
+{"作者": "黄仁宇", "url": "https://book.douban.com/subject/1006419/", "评分": "8.5", "书名": "十六世纪明代中国之财政与税收"}
+{"作者": "王汎森", "url": "https://book.douban.com/subject/25659944/", "评分": "8.8", "书名": "执拗的低音"}
+{"作者": "李开元", "url": "https://book.douban.com/subject/26368070/", "评分": "8.0", "书名": "秦崩"}
+{"作者": "钱穆", "url": "https://book.douban.com/subject/1277267/", "评分": "8.6", "书名": "国史新论"}
+{"作者": "鹤见俊辅、上野千鹤子、小熊英二", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.3", "书名": "战争留下了什么"}
+{"作者": "铲史官", "url": "https://book.douban.com/subject/27072516/", "评分": "8.3", "书名": "权力脸谱"}
+{"作者": "邱方哲", "url": "https://book.douban.com/subject/26270390/", "评分": "8.9", "书名": "亲爱的老爱尔兰"}
+{"作者": "[德] 威廉·格斯曼", "url": "https://book.douban.com/subject/26883050/", "评分": "7.8", "书名": "德国文化简史"}
+{"作者": "沈志华 主编", "url": "https://book.douban.com/subject/3921409/", "评分": "8.2", "书名": "一个大国的崛起与崩溃（共三册）"}
+{"作者": "【日】杉山正明", "url": "https://book.douban.com/subject/24705266/", "评分": "7.4", "书名": "忽必烈的挑战"}
+{"作者": "杨奎松", "url": "https://book.douban.com/subject/11232882/", "评分": "8.8", "书名": "革命"}
+{"作者": "咪蒙", "url": "https://book.douban.com/subject/10566838/", "评分": "7.4", "书名": "圣人请卸妆"}
+{"作者": "王树增", "url": "https://book.douban.com/subject/26427189/", "评分": "8.7", "书名": "抗日战争"}
+{"作者": "谭伯牛", "url": "https://book.douban.com/subject/1027725/", "评分": "8.2", "书名": "战天京"}
+{"作者": "[意] 皮科洛米尼", "url": "https://book.douban.com/subject/26974207/", "评分": "8.8", "书名": "庇护二世闻见录"}
+{"作者": "[法] 雷蒙·阿隆（Raymond Aron）", "url": "https://book.douban.com/subject/26874287/", "评分": "9.1", "书名": "历史意识的维度"}
+{"作者": "[美] 柯文", "url": "https://book.douban.com/subject/1069301/", "评分": "8.4", "书名": "在中国发现历史"}
+{"作者": "钱穆", "url": "https://book.douban.com/subject/1030526/", "评分": "8.9", "书名": "中国文化史导论"}
+{"作者": "[英国] 凯伦·阿姆斯特朗", "url": "https://book.douban.com/subject/4733982/", "评分": "8.5", "书名": "轴心时代"}
+{"作者": "王奇生", "url": "https://book.douban.com/subject/4248275/", "评分": "8.6", "书名": "革命与反革命"}
+{"作者": "阎步克", "url": "https://book.douban.com/subject/1052829/", "评分": "9.0", "书名": "士大夫政治演生史稿"}
+{"作者": "[美] 詹姆斯·洛温（James W. Loewen）", "url": "https://book.douban.com/subject/4138066/", "评分": "7.8", "书名": "老师的谎言"}
+{"作者": "[美] 杰弗里·瓦夫罗", "url": "https://book.douban.com/subject/26751893/", "评分": "7.7", "书名": "哈布斯堡的灭亡"}
+{"作者": "维克多·克莱普勒 (Victor Klemperer)", "url": "https://book.douban.com/subject/25723401/", "评分": "8.5", "书名": "第三帝国的语言"}
+{"作者": "[美] 尼古拉斯·黑麋鹿 (口述)、[美] 约翰·G.奈哈特 (记录)", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.2", "书名": "黑麋鹿如是说"}
+{"作者": "金观涛", "url": "https://book.douban.com/subject/4853094/", "评分": "9.0", "书名": "探索现代社会的起源"}
+{"作者": "温功义", "url": "https://book.douban.com/subject/25760457/", "评分": "8.8", "书名": "三案始末"}
+{"作者": "[奥] 斯蒂芬·茨威格", "url": "https://book.douban.com/subject/1051524/", "评分": "8.4", "书名": "断头王后"}
+{"作者": "[美] 孔飞力", "url": "https://book.douban.com/subject/26736805/", "评分": "8.2", "书名": "他者中的华人"}
+{"作者": "张光直", "url": "https://book.douban.com/subject/1274943/", "评分": "9.0", "书名": "中国青铜时代"}
+{"作者": "陈渠珍", "url": "https://book.douban.com/subject/1130367/", "评分": "8.9", "书名": "艽野尘梦"}
+{"作者": "尼克·雅普 (Nick Yapp)", "url": "https://book.douban.com/subject/26313692/", "评分": "9.0", "书名": "照片里的20世纪全球史"}
+{"作者": "[英] 彼得·伯克", "url": "https://book.douban.com/subject/4011303/", "评分": "9.0", "书名": "历史学与社会理论"}
+{"作者": "北岛、李陀 主编", "url": "https://book.douban.com/subject/3662230/", "评分": "8.5", "书名": "七十年代"}
+{"作者": "刀尔登", "url": "https://book.douban.com/subject/10597973/", "评分": "8.2", "书名": "旧山河"}
+{"作者": "[德] 汉斯·贝尔廷", "url": "https://book.douban.com/subject/27039519/", "评分": "8.4", "书名": "脸的历史"}
+{"作者": "查尔斯·默里", "url": "https://book.douban.com/subject/2984324/", "评分": "8.1", "书名": "文明的解析"}
+{"作者": "谭其骧", "url": "https://book.douban.com/subject/1337448/", "评分": "9.0", "书名": "简明中国历史地图集"}
+{"作者": "黄仁宇", "url": "https://book.douban.com/subject/1050175/", "评分": "8.1", "书名": "赫逊河畔谈中国历史"}
+{"作者": "[英] 温迪·霍尔登", "url": "https://book.douban.com/subject/27025729/", "评分": "9.0", "书名": "天生幸存者"}
+{"作者": "（美）赫尔曼・沃克", "url": "https://book.douban.com/subject/1069507/", "评分": "9.2", "书名": "战争风云：1939－1941（上下）"}
+{"作者": "马伯庸", "url": "https://book.douban.com/subject/10464337/", "评分": "8.3", "书名": "三国机密（上）"}
+{"作者": "陈垣", "url": "https://book.douban.com/subject/1014678/", "评分": "9.3", "书名": "史讳举例"}
+{"作者": "[加拿大] 乔治·乔纳斯", "url": "https://book.douban.com/subject/26584746/", "评分": "8.9", "书名": "天谴行动"}
+{"作者": "何炳棣", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "9.0", "书名": "明初以降人口及其相关问题"}
+{"作者": "袁腾飞", "url": "https://book.douban.com/subject/3901238/", "评分": "7.6", "书名": "历史是个什么玩意儿1"}
+{"作者": "刘香成", "url": "https://book.douban.com/subject/5906099/", "评分": "8.7", "书名": "毛以后的中国1976-1983"}
+{"作者": "[美] 安德鲁·戈登", "url": "https://book.douban.com/subject/3273300/", "评分": "8.0", "书名": "日本的起起落落"}
+{"作者": "盐野七生", "url": "https://book.douban.com/subject/7064370/", "评分": "9.2", "书名": "罗马人的故事2"}
+{"作者": "于赓哲", "url": "https://book.douban.com/subject/27064864/", "评分": "8.5", "书名": "隋唐人的日常生活"}
+{"作者": "[法]埃曼努埃尔·吉贝尔(编绘)、[法]迪迪埃·勒费伍尔(摄/口述)、[法]弗雷德里克·勒梅西埃(绘)", "url": "https://book.douban.com/subject/26870760/", "评分": "9.3", "书名": "摄影师"}
+{"作者": "拉铁摩尔", "url": "https://book.douban.com/subject/1440432/", "评分": "8.4", "书名": "中国的亚洲内陆边疆"}
+{"作者": "[德] 卡特琳 ·希姆莱", "url": "https://book.douban.com/subject/26804200/", "评分": "8.3", "书名": "希姆莱兄弟"}
+{"作者": "（英）J.F.C富勒", "url": "https://book.douban.com/subject/1058889/", "评分": "9.1", "书名": "西洋世界军事史（全三卷）"}
+{"作者": "[美] 彼得·盖伊", "url": "https://book.douban.com/subject/26104025/", "评分": "8.4", "书名": "启蒙时代（上）"}
+{"作者": "王夫之", "url": "https://book.douban.com/subject/1056883/", "评分": "9.3", "书名": "读通鉴论（上中下册）"}
+{"作者": "[日]小岛毅", "url": "https://book.douban.com/subject/26666408/", "评分": "8.4", "书名": "东大爸爸写给我的日本史2"}
+{"作者": "（北魏）杨衒之", "url": "https://book.douban.com/subject/1807798/", "评分": "9.0", "书名": "洛阳伽蓝记校笺"}
+{"作者": "[捷克] 伊凡·克里玛", "url": "https://book.douban.com/subject/26436285/", "评分": "8.3", "书名": "布拉格精神"}
+{"作者": "埃马纽埃尔·勒华拉杜里", "url": "https://book.douban.com/subject/2186646/", "评分": "8.8", "书名": "蒙塔尤"}
+{"作者": "瞿秋白", "url": "https://book.douban.com/subject/4160794/", "评分": "8.4", "书名": "多余的话"}
+{"作者": "[英]艾瑞克•霍布斯鲍姆", "url": "https://book.douban.com/subject/25795769/", "评分": "8.6", "书名": "资本的年代：1848～1875"}
+{"作者": "[美]米尔顿·迈耶（Milton Mayer）", "url": "https://book.douban.com/subject/25751980/", "评分": "7.5", "书名": "他们以为他们是自由的"}
+{"作者": "钱穆", "url": "https://book.douban.com/subject/1270509/", "评分": "9.0", "书名": "中国史学名著"}
+{"作者": "[英] 乔治·奥威尔", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.7", "书名": "向加泰罗尼亚致敬"}
+{"作者": "[美] 黄仁宇", "url": "https://book.douban.com/subject/1047001/", "评分": "8.1", "书名": "资本主义与二十一世纪"}
+{"作者": "(美) 威廉·夏伊勒", "url": "https://book.douban.com/subject/4145391/", "评分": "9.2", "书名": "第三共和国的崩溃"}
+{"作者": "[美]埃里克·方纳", "url": "https://book.douban.com/subject/26992822/", "评分": "9.8", "书名": "烈火中的考验"}
+{"作者": "赵焰", "url": "https://book.douban.com/subject/25887394/", "评分": "8.7", "书名": "晚清之后是民国"}
+{"作者": "张宏杰", "url": "https://book.douban.com/subject/26971176/", "评分": "8.5", "书名": "曾国藩的正面与侧面2"}
+{"作者": "李文杰", "url": "https://book.douban.com/subject/26930130/", "评分": "8.2", "书名": "中国近代外交官群体的形成（1861—1911）"}
+{"作者": "[美] 坎里克·方纳 (Eric Foner)", "url": "https://book.douban.com/subject/6004602/", "评分": "8.7", "书名": "给我自由!"}
+{"作者": "[意] 康马泰", "url": "https://book.douban.com/subject/26907382/", "评分": "8.2", "书名": "唐风吹拂撒马尔罕"}
+{"作者": "李晓鹏", "url": "https://book.douban.com/subject/26676661/", "评分": "8.6", "书名": "从黄河文明到“一带一路”.第1卷"}
+{"作者": "林汉达、曹余章", "url": "https://book.douban.com/subject/1012561/", "评分": "8.6", "书名": "上下五千年"}
+{"作者": "张宏杰", "url": "https://book.douban.com/subject/24371383/", "评分": "7.7", "书名": "中国国民性演变历程"}
+{"作者": "胡斯托·L.冈萨雷斯 (Justo L.Gonzalez)", "url": "https://book.douban.com/subject/26722581/", "评分": "9.2", "书名": "基督教史"}
+{"作者": "[德] 于尔根·奥斯特哈默", "url": "https://book.douban.com/subject/26882520/", "评分": "7.7", "书名": "亚洲的去魔化"}
+{"作者": "[美]约瑟夫 •J. 埃利斯", "url": "https://book.douban.com/subject/26708248/", "评分": "8.6", "书名": "奠基者：独立战争那一代"}
+{"作者": "金一南", "url": "https://book.douban.com/subject/3432401/", "评分": "7.9", "书名": "苦难辉煌"}
+{"作者": "[英] 罗纳德 · 塞姆", "url": "https://book.douban.com/subject/26835224/", "评分": "9.3", "书名": "罗马革命"}
+{"作者": "陈恭禄", "url": "https://book.douban.com/subject/10426968/", "评分": "9.3", "书名": "中国近代史"}
+{"作者": "[以]施罗默·桑德", "url": "https://book.douban.com/subject/10785920/", "评分": "7.7", "书名": "虚构的犹太民族"}
+{"作者": "林达", "url": "https://book.douban.com/subject/1962923/", "评分": "8.6", "书名": "西班牙旅行笔记"}
+{"作者": "[美]迈克尔•多布斯(Michael Dobbs)", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.3", "书名": "午夜将至"}
+{"作者": "余世存 编", "url": "https://book.douban.com/subject/1291355/", "评分": "7.9", "书名": "非常道"}
+{"作者": "[日] 小谷仲男", "url": "https://book.douban.com/subject/26902293/", "评分": "7.8", "书名": "大月氏"}
+{"作者": "[英]艾瑞克•霍布斯鲍姆", "url": "https://book.douban.com/subject/25795766/", "评分": "8.5", "书名": "帝国的年代：1875～1914"}
+{"作者": "石川祯浩", "url": "https://book.douban.com/subject/1776851/", "评分": "8.9", "书名": "中国共产党成立史"}
+{"作者": "冯友兰 李泽厚 等著、骆玉明 肖能 编", "url": "https://book.douban.com/subject/3537575/", "评分": "8.3", "书名": "魏晋风度二十讲"}
+{"作者": "黄道炫", "url": "https://book.douban.com/subject/6984992/", "评分": "8.6", "书名": "张力与限界"}
+{"作者": "[英] 蒂莫西·加顿艾什", "url": "https://book.douban.com/subject/26577706/", "评分": "7.8", "书名": "档案"}
+{"作者": "张帆", "url": "https://book.douban.com/subject/1225697/", "评分": "8.8", "书名": "中国古代简史"}
+{"作者": "〔美〕彼得•芬恩 〔荷〕彼特拉•库维", "url": "https://book.douban.com/subject/26297802/", "评分": "8.5", "书名": "当图书成为武器"}
+{"作者": "黄仁宇", "url": "https://book.douban.com/subject/2284985/", "评分": "9.2", "书名": "黄仁宇全集（全14册）"}
+{"作者": "赵广超", "url": "https://book.douban.com/subject/26658022/", "评分": "9.5", "书名": "紫禁城100"}
+{"作者": "[英] N. G. L. 哈蒙德", "url": "https://book.douban.com/subject/26637794/", "评分": "8.4", "书名": "希腊史"}
+{"作者": "[英] 汤姆·斯丹迪奇", "url": "https://book.douban.com/subject/27078260/", "评分": "7.9", "书名": "维多利亚时代的互联网"}
+{"作者": "[英] 理查德·迈尔斯", "url": "https://book.douban.com/subject/26764853/", "评分": "7.9", "书名": "迦太基必须毁灭"}
+{"作者": "川本芳昭", "url": "https://book.douban.com/subject/25828759/", "评分": "8.0", "书名": "中华的崩溃与扩大：魏晋南北朝"}
+{"作者": "沈志华", "url": "https://book.douban.com/subject/20483520/", "评分": "8.9", "书名": "无奈的选择"}
+{"作者": "[美] 斯坦利·G.佩恩", "url": "https://book.douban.com/subject/26839527/", "评分": "8.6", "书名": "西班牙内战"}
+{"作者": "[南非]伊恩·戈尔丁、[加]克里斯·柯塔纳", "url": "https://book.douban.com/subject/27039506/", "评分": "7.5", "书名": "发现的时代"}
+{"作者": "[法] 雅克·塔蒂、Tardi", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.6", "书名": "战俘营回忆录：1680天"}
+{"作者": "林西莉", "url": "https://book.douban.com/subject/26859410/", "评分": "8.5", "书名": "另一个世界"}
+{"作者": "[法]塞德里克·格里穆", "url": "https://book.douban.com/subject/3320907/", "评分": "8.1", "书名": "追踪1789法国大革命"}
+{"作者": "（英）斯特里特费尔德", "url": "https://book.douban.com/subject/1272779/", "评分": "8.4", "书名": "可卡因传奇"}
+{"作者": "(加)梁鹤年", "url": "https://book.douban.com/subject/24888083/", "评分": "9.0", "书名": "西方文明的文化基因"}
+{"作者": "孙皓晖", "url": "https://book.douban.com/subject/1425075/", "评分": "8.7", "书名": "大秦帝国·第一部 黑色裂变（上、下）"}
+{"作者": "张荫麟、吕思勉、蒋廷黻", "url": "https://book.douban.com/subject/27054422/", "评分": "9.6", "书名": "中国史纲（全三册）"}
+{"作者": "[美] 伊恩·莫里斯", "url": "https://book.douban.com/subject/6559258/", "评分": "8.1", "书名": "西方将主宰多久"}
+{"作者": "[美]丹尼尔·J·布尔斯廷", "url": "https://book.douban.com/subject/26043606/", "评分": "9.5", "书名": "美国人"}
+{"作者": "[瑞典] 皮特·恩格伦", "url": "https://book.douban.com/subject/26896530/", "评分": "9.6", "书名": "美丽与哀愁"}
+{"作者": "高晓松", "url": "https://book.douban.com/subject/26919519/", "评分": "8.2", "书名": "晓松奇谈·世界卷"}
+{"作者": "李凭", "url": "https://book.douban.com/subject/26284866/", "评分": "9.0", "书名": "北魏平城时代"}
+{"作者": "[德]汉斯·马格努斯·恩岑斯贝格尔", "url": "https://book.douban.com/subject/26938857/", "评分": "8.3", "书名": "动荡"}
+{"作者": "(法) 阿莱特·茹阿纳 Arlette Jouanna", "url": "https://book.douban.com/subject/26262128/", "评分": "8.9", "书名": "圣巴托罗缪大屠杀"}
+{"作者": "周振鹤", "url": "https://book.douban.com/subject/3620169/", "评分": "8.8", "书名": "体国经野之道"}
+{"作者": "（英）多米尼克·利芬（Dominic Lieven  ）", "url": "https://book.douban.com/subject/26258900/", "评分": "8.5", "书名": "俄国与拿破仑的决战"}
+{"作者": "祝勇", "url": "https://book.douban.com/subject/26756142/", "评分": "7.3", "书名": "故宫的隐秘角落"}
+{"作者": "[美]大卫.科兹/等著", "url": "https://book.douban.com/subject/3097530/", "评分": "8.3", "书名": "来自上层的革命"}
+{"作者": "[英] 劳伦斯·弗里德曼（Lawrence Freedman）", "url": "https://book.douban.com/subject/26893673/", "评分": "8.1", "书名": "战略"}
+{"作者": "吴煮冰", "url": "https://book.douban.com/subject/27012129/", "评分": "9.0", "书名": "洋人撬动的中国"}
+{"作者": "马伯庸", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.6", "书名": "长安十二时辰 上"}
+{"作者": "陈卫平", "url": "https://book.douban.com/subject/25915102/", "评分": "9.4", "书名": "写给儿童的中国历史"}
+{"作者": "欧阳莹之", "url": "https://book.douban.com/subject/26767467/", "评分": "8.6", "书名": "龙与鹰的帝国"}
+{"作者": "唐长孺", "url": "https://book.douban.com/subject/5392437/", "评分": "9.3", "书名": "魏晋南北朝隋唐史三论"}
+{"作者": "司马光", "url": "https://book.douban.com/subject/3746915/", "评分": "9.8", "书名": "资治通鉴"}
+{"作者": "辛德勇", "url": "https://book.douban.com/subject/26865815/", "评分": "7.7", "书名": "海昏侯刘贺"}
+{"作者": "罗恩·彻诺", "url": "https://book.douban.com/subject/6827362/", "评分": "9.4", "书名": "汉密尔顿"}
+{"作者": "关河五十州", "url": "https://book.douban.com/subject/6797768/", "评分": "8.4", "书名": "一寸河山一寸血.1"}
+{"作者": "巴巴拉·W·塔奇曼", "url": "https://book.douban.com/subject/26831766/", "评分": "8.0", "书名": "愚政进行曲"}
+{"作者": "辛德勇", "url": "https://book.douban.com/subject/26476950/", "评分": "8.0", "书名": "制造汉武帝"}
+{"作者": "[美] 魏斐德", "url": "https://book.douban.com/subject/4747135/", "评分": "7.3", "书名": "中华帝制的衰落"}
+{"作者": "章东磐", "url": "https://book.douban.com/subject/3824491/", "评分": "8.9", "书名": "父亲的战场"}
+{"作者": "李洁非", "url": "https://book.douban.com/subject/21452652/", "评分": "8.5", "书名": "黑洞"}
+{"作者": "[美]阿瑟·赫尔曼", "url": "https://book.douban.com/subject/27037093/", "评分": "9.1", "书名": "拼实业"}
+{"作者": "詹姆斯·L.麦克莱恩", "url": "https://book.douban.com/subject/4174807/", "评分": "8.2", "书名": "日本史"}
+{"作者": "房玄龄", "url": "https://book.douban.com/subject/1116205/", "评分": "8.8", "书名": "晋书（全十册）"}
+{"作者": "西嶋定生", "url": "https://book.douban.com/subject/1577734/", "评分": "9.2", "书名": "中国古代帝国的形成与结构"}
+{"作者": "Pang Laikwan", "url": "https://book.douban.com/subject/26776638/", "评分": "8.3", "书名": "The Art of Cloning"}
+{"作者": "[英]韦尔斯", "url": "https://book.douban.com/subject/1020329/", "评分": "8.5", "书名": "世界史纲"}
+{"作者": "刘仲敬", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "7.9", "书名": "经与史"}
+{"作者": "约翰·赫伊津哈", "url": "https://book.douban.com/subject/3196877/", "评分": "8.4", "书名": "中世纪的秋天"}
+{"作者": "[英]弗雷德里克·泰勒", "url": "https://book.douban.com/subject/4126252/", "评分": "8.5", "书名": "柏林墙"}
+{"作者": "薄一波", "url": "https://book.douban.com/subject/2976744/", "评分": "8.5", "书名": "若干重大决策与事件的回顾（上下）"}
+{"作者": "马克·马佐尔", "url": "https://book.douban.com/subject/2324790/", "评分": "7.6", "书名": "巴尔干"}
+{"作者": "何炳棣", "url": "https://book.douban.com/subject/25785039/", "评分": "9.5", "书名": "明清社會史論"}
+{"作者": "戴燕", "url": "https://book.douban.com/subject/26948547/", "评分": "7.9", "书名": "《三国志》讲义"}
+{"作者": "[美] 史景迁", "url": "https://book.douban.com/subject/5299274/", "评分": "7.5", "书名": "前朝梦忆"}
+{"作者": "陆扬", "url": "https://book.douban.com/subject/26612502/", "评分": "8.1", "书名": "清流文化与唐帝国"}
+{"作者": "[澳] 罗伯特·休斯", "url": "https://book.douban.com/subject/25840535/", "评分": "8.8", "书名": "致命的海滩"}
+{"作者": "倪慧如、邹宁远", "url": "https://book.douban.com/subject/24298914/", "评分": "8.0", "书名": "当世界年轻的时候"}
+{"作者": "陈悦", "url": "https://book.douban.com/subject/25891574/", "评分": "9.2", "书名": "甲午海战"}
+{"作者": "(美) 彼特沃克", "url": "https://book.douban.com/subject/10546119/", "评分": "8.3", "书名": "弯曲的脊梁"}
+{"作者": "斯丹迪奇", "url": "https://book.douban.com/subject/1874086/", "评分": "7.5", "书名": "六个瓶子里的历史"}
+{"作者": "Jason Goodwin", "url": "https://book.douban.com/subject/4920107/", "评分": "8.1", "书名": "奥斯曼帝国闲史"}
+{"作者": "[英] 西蒙·詹金斯（Simon Jenkins）", "url": "https://book.douban.com/subject/26883132/", "评分": "6.9", "书名": "英格兰简史"}
+{"作者": "[美]科林•伍达德（Colin Woodard）", "url": "https://book.douban.com/subject/26834474/", "评分": "7.6", "书名": "海盗共和国"}
+{"作者": "刘统", "url": "https://book.douban.com/subject/26855717/", "评分": "8.5", "书名": "北上"}
+{"作者": "盛和煜、张建伟", "url": "https://book.douban.com/subject/1044347/", "评分": "9.1", "书名": "走向共和（上中下）"}
+{"作者": "司马光 撰、柏杨 译", "url": "https://book.douban.com/subject/1834541/", "评分": "8.8", "书名": "柏杨白话版资治通鉴 第一辑"}
+{"作者": "[美] 查尔斯·曼恩", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.4", "书名": "1491"}
+{"作者": "[美] 詹姆斯·格雷克", "url": "https://book.douban.com/subject/25752043/", "评分": "8.8", "书名": "信息简史"}
+{"作者": "[以色列] 施罗默·桑德", "url": "https://book.douban.com/subject/27024116/", "评分": "7.7", "书名": "我为何放弃做犹太人"}
+{"作者": "[美]罗伯特·达恩顿", "url": "https://book.douban.com/subject/6867541/", "评分": "8.2", "书名": "法国大革命前的畅销禁书"}
+{"作者": "沈迦", "url": "https://book.douban.com/subject/21363236/", "评分": "8.9", "书名": "寻找·苏慧廉"}
+{"作者": "[荷]扬· 卢滕· 范赞登", "url": "https://book.douban.com/subject/26717715/", "评分": "8.5", "书名": "通往工业革命的漫长道路"}
+{"作者": "陈雨露、杨忠恕", "url": "https://book.douban.com/subject/21331443/", "评分": "8.0", "书名": "中国是部金融史"}
+{"作者": "沈志华", "url": "https://book.douban.com/subject/20481426/", "评分": "8.4", "书名": "处在十字路口的选择"}
+{"作者": "罗新", "url": "https://book.douban.com/subject/25926547/", "评分": "8.4", "书名": "黑毡上的北魏皇帝"}
+{"作者": "高晓松", "url": "https://book.douban.com/subject/25945487/", "评分": "7.4", "书名": "鱼羊野史·第2卷"}
+{"作者": "尼古拉斯·斯塔加特 (Nicholas Stargardt)", "url": "https://book.douban.com/subject/27060615/", "评分": "8.0", "书名": "德国人的战争"}
+{"作者": "〔美〕布莱恩·蒂尔尼、〔美〕西德尼·佩因特", "url": "https://book.douban.com/subject/6990290/", "评分": "8.4", "书名": "西欧中世纪史"}
+{"作者": "萨苏", "url": "https://book.douban.com/subject/2140283/", "评分": "8.2", "书名": "国破山河在"}
+{"作者": "[英] 理查·亨布尔 等、[英] 约翰·詹姆斯 等 绘", "url": "https://book.douban.com/subject/26913567/", "评分": "8.8", "书名": "看得见的文明史（套装共12册）"}
+{"作者": "[德]雅斯贝斯", "url": "https://book.douban.com/subject/2082154/", "评分": "8.7", "书名": "历史的起源与目标"}
+{"作者": "波里比阿", "url": "https://book.douban.com/subject/20452305/", "评分": "8.1", "书名": "罗马帝国的崛起"}
+{"作者": "[英]伊恩·克罗夫顿（Ian Crofton）", "url": "https://book.douban.com/subject/27015494/", "评分": "7.7", "书名": "我们曾吃过一切"}
+{"作者": "许宏", "url": "https://book.douban.com/subject/25850080/", "评分": "8.0", "书名": "何以中国"}
+{"作者": "李剑农", "url": "https://book.douban.com/subject/1437607/", "评分": "8.9", "书名": "中国近百年政治史"}
+{"作者": "吴晓波", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.9", "书名": "激荡三十年（下）"}
+{"作者": "熊卫民", "url": "https://book.douban.com/subject/26954748/", "评分": "9.0", "书名": "对于历史，科学家有话说"}
+{"作者": "张煦侯", "url": "https://book.douban.com/subject/4839090/", "评分": "9.3", "书名": "通鉴学"}
+{"作者": "[徳] 阿利", "url": "https://book.douban.com/subject/27015796/", "评分": "8.2", "书名": "累赘"}
+{"作者": "[美] 威尔·杜兰特", "url": "https://book.douban.com/subject/4863597/", "评分": "8.9", "书名": "世界文明史"}
+{"作者": "[英] 爱德华·霍列特·卡尔", "url": "https://book.douban.com/subject/2185235/", "评分": "8.5", "书名": "历史是什么?"}
+{"作者": "盖伊·特立斯", "url": "https://book.douban.com/subject/26832725/", "评分": "8.0", "书名": "王国与权力"}
+{"作者": "张哲、刘梅香", "url": "https://book.douban.com/subject/26599283/", "评分": "8.2", "书名": "梅子青时"}
+{"作者": "[美] 罗威廉、William T. Rowe", "url": "https://book.douban.com/subject/26851892/", "评分": "8.5", "书名": "哈佛中国史06•最后的中华帝国：大清"}
+{"作者": "曾瑞龙", "url": "https://book.douban.com/subject/20399472/", "评分": "8.9", "书名": "经略幽燕"}
+{"作者": "[英] 彼得·沃森", "url": "https://book.douban.com/subject/1484492/", "评分": "8.9", "书名": "20世纪思想史"}
+{"作者": "[美]尼古拉·梁赞诺夫斯基、[美]马克·斯坦伯格", "url": "https://book.douban.com/subject/2998637/", "评分": "8.7", "书名": "俄罗斯史"}
+{"作者": "蒋梦麟", "url": "https://book.douban.com/subject/3055477/", "评分": "8.4", "书名": "西潮"}
+{"作者": "(美国)梅尔(G.J. Meyer)", "url": "https://book.douban.com/subject/7051208/", "评分": "8.5", "书名": "一战秘史"}
+{"作者": "辛德勇", "url": "https://book.douban.com/subject/24316388/", "评分": "9.5", "书名": "旧史舆地文录"}
+{"作者": "麦克莱伦第三", "url": "https://book.douban.com/subject/2124111/", "评分": "8.8", "书名": "世界科学技术通史"}
+{"作者": "(比) 弗朗索瓦·冈绍夫", "url": "https://book.douban.com/subject/26878476/", "评分": "9.2", "书名": "何为封建主义"}
+{"作者": "[美] 爱德华·P. 琼斯", "url": "https://book.douban.com/subject/4894979/", "评分": "8.5", "书名": "已知的世界"}
+{"作者": "金以林", "url": "https://book.douban.com/subject/4139460/", "评分": "8.4", "书名": "国民党高层的派系政治"}
+{"作者": "[美] 周锡瑞", "url": "https://book.douban.com/subject/25928984/", "评分": "8.1", "书名": "叶"}
+{"作者": "吴军", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "9.0", "书名": "文明之光"}
+{"作者": "[美] 萨拉·罗斯", "url": "https://book.douban.com/subject/26585022/", "评分": "7.4", "书名": "茶叶大盗"}
+{"作者": "[意] 斯特凡诺·祖菲（Stefano Zuffi）", "url": "https://book.douban.com/subject/26919384/", "评分": "9.1", "书名": "图解欧洲艺术史：16世纪"}
+{"作者": "（美）彭慕兰", "url": "https://book.douban.com/subject/1070147/", "评分": "7.7", "书名": "大分流"}
+{"作者": "朱自清、胡适、李叔同", "url": "https://book.douban.com/subject/26815874/", "评分": "9.5", "书名": "给大家看的国学常识"}
+{"作者": "[英] 迈克尔·布斯", "url": "https://book.douban.com/subject/26708306/", "评分": "8.6", "书名": "北欧，冰与火之地的寻真之旅"}
+{"作者": "费正清（编）、费维恺（编）", "url": "https://book.douban.com/subject/1477774/", "评分": "8.8", "书名": "剑桥中华民国史（下卷）"}
+{"作者": "[美]乔治·凯南  著、[美]弗兰克·科斯蒂廖拉  编", "url": "https://book.douban.com/subject/26832061/", "评分": "9.1", "书名": "凯南日记"}
+{"作者": "李约瑟", "url": "https://book.douban.com/subject/2419991/", "评分": "9.1", "书名": "中国科学技术史"}
+{"作者": "[英]萨拉·巴特利特", "url": "https://book.douban.com/subject/26831077/", "评分": "6.8", "书名": "符号中的历史"}
+{"作者": "[英]詹姆斯·马里奥特、米卡·米尼奥-帕卢埃洛", "url": "https://book.douban.com/subject/27036376/", "评分": "7.8", "书名": "黑丝路"}
+{"作者": "阎步克", "url": "https://book.douban.com/subject/4175453/", "评分": "8.6", "书名": "中国古代官阶制度引论"}
+{"作者": "袁腾飞", "url": "https://book.douban.com/subject/24859453/", "评分": "7.5", "书名": "这个历史挺靠谱"}
+{"作者": "(美) 约瑟夫·J. 埃利斯", "url": "https://book.douban.com/subject/26213988/", "评分": "8.1", "书名": "革命之夏"}
+{"作者": "吕思勉", "url": "https://book.douban.com/subject/1427476/", "评分": "8.8", "书名": "秦汉史"}
+{"作者": "冯骥才", "url": "https://book.douban.com/subject/26856478/", "评分": "8.5", "书名": "无路可逃"}
+{"作者": "[美]弗朗西斯·福山", "url": "https://book.douban.com/subject/19976381/", "评分": "8.9", "书名": "政治秩序的起源"}
+{"作者": "[美] 布鲁斯·卡明斯", "url": "https://book.douban.com/subject/27040390/", "评分": "6.8", "书名": "朝鲜战争"}
+{"作者": "刘勃", "url": "https://book.douban.com/subject/26602453/", "评分": "8.7", "书名": "战国歧途"}
+{"作者": "张廷玉、等", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.8", "书名": "明史（全二十八册）"}
+{"作者": "《人民音乐》编辑部", "url": "https://book.douban.com/subject/1963786/", "评分": "8.5", "书名": "怎样鉴别黄色歌曲"}
+{"作者": "李伟", "url": "https://book.douban.com/subject/26942976/", "评分": "7.9", "书名": "穿越丝路"}
+{"作者": "王瑞来", "url": "https://book.douban.com/subject/26417930/", "评分": "8.4", "书名": "君臣"}
+{"作者": "朱子彦", "url": "https://book.douban.com/subject/26848615/", "评分": "7.9", "书名": "中国朋党史"}
+{"作者": "[美] 彼得·盖伊", "url": "https://book.douban.com/subject/26706616/", "评分": "9.0", "书名": "启蒙时代（下）：自由的科学"}
+{"作者": "杨奎松", "url": "https://book.douban.com/subject/26838035/", "评分": "7.6", "书名": "“鬼子”来了"}
+{"作者": "菲利浦·希提", "url": "https://book.douban.com/subject/3146377/", "评分": "8.3", "书名": "阿拉伯通史(第十版)(上下册)"}
+{"作者": "北岛、曹一凡、维一", "url": "https://book.douban.com/subject/10485866/", "评分": "8.2", "书名": "暴风雨的记忆"}
+{"作者": "戴维·哈尔伯斯坦", "url": "https://book.douban.com/subject/2074070/", "评分": "8.7", "书名": "出类拔萃之辈（三册）"}
+{"作者": "薛爱华", "url": "https://book.douban.com/subject/26184836/", "评分": "7.8", "书名": "朱雀"}
+{"作者": "米夏埃尔·施蒂默尔", "url": "https://book.douban.com/subject/2298248/", "评分": "7.5", "书名": "德意志"}
+{"作者": "钱理群", "url": "https://book.douban.com/subject/3397128/", "评分": "8.7", "书名": "1948：天地玄黄"}
+{"作者": "[美]托马斯·约瑟夫·英格利希", "url": "https://book.douban.com/subject/25871899/", "评分": "8.4", "书名": "狂欢至死"}
+{"作者": "冯时", "url": "https://book.douban.com/subject/2054584/", "评分": "9.2", "书名": "中国天文考古学"}
+{"作者": "郑重、王要", "url": "https://book.douban.com/subject/1393218/", "评分": "9.2", "书名": "大明宫词"}
+{"作者": "茅海建", "url": "https://book.douban.com/subject/1289247/", "评分": "8.7", "书名": "戊戌变法史事考"}
+{"作者": "章敬平", "url": "https://book.douban.com/subject/24838223/", "评分": "7.9", "书名": "皇上走了"}
+{"作者": "余戈", "url": "https://book.douban.com/subject/3880774/", "评分": "8.8", "书名": "1944：松山战役笔记"}
+{"作者": "H.W.詹森(H.W.Janson)、A.F.詹森(A.F.Janson)、J.E.戴维斯(J.E.Davies)等", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "9.3", "书名": "詹森艺术史（插图第7版）"}
+{"作者": "[印]贾瓦哈拉尔•尼赫鲁", "url": "https://book.douban.com/subject/26772714/", "评分": "9.0", "书名": "尼赫鲁世界史"}
+{"作者": "亞瑟.赫曼", "url": "https://book.douban.com/subject/3394945/", "评分": "8.2", "书名": "蘇格蘭人如何發明現代世界"}
+{"作者": "鲁西奇", "url": "https://book.douban.com/subject/26422141/", "评分": "8.3", "书名": "何草不黄"}
+{"作者": "张大春", "url": "https://book.douban.com/subject/25802944/", "评分": "8.1", "书名": "大唐李白·少年游"}
+{"作者": "辛德勇", "url": "https://book.douban.com/subject/20473479/", "评分": "8.9", "书名": "建元与改元"}
+{"作者": "贺萧", "url": "https://book.douban.com/subject/1464575/", "评分": "8.4", "书名": "危险的愉悦"}
+{"作者": "[瑞典] 喜仁龙", "url": "https://book.douban.com/subject/26926338/", "评分": "8.5", "书名": "遗失在西方的中国史"}
+{"作者": "维一", "url": "https://book.douban.com/subject/5914551/", "评分": "8.0", "书名": "我在故宫看大门"}
+{"作者": "[法] 佩雷菲特", "url": "https://book.douban.com/subject/2173201/", "评分": "8.3", "书名": "停滞的帝国"}
+{"作者": "约瑟夫·列文森", "url": "https://book.douban.com/subject/3669748/", "评分": "8.8", "书名": "儒教中国及其现代命运"}
+{"作者": "北溟鱼", "url": "https://book.douban.com/subject/4323802/", "评分": "8.4", "书名": "风流绝"}
+{"作者": "[美]威廉·麦克尼尔", "url": "https://book.douban.com/subject/26150493/", "评分": "7.9", "书名": "西方的兴起：人类共同体史"}
+{"作者": "[美] 魏斐德", "url": "https://book.douban.com/subject/1023084/", "评分": "8.3", "书名": "大门口的陌生人"}
+{"作者": "约翰·基根", "url": "https://book.douban.com/subject/25965978/", "评分": "8.6", "书名": "一战史"}
+{"作者": "余世存", "url": "https://book.douban.com/subject/26816164/", "评分": "7.8", "书名": "盗火与革命"}
+{"作者": "[美] 迈克尔·贝兰", "url": "https://book.douban.com/subject/26990688/", "评分": "8.5", "书名": "帝国的铸就：改革三巨人与他们塑造的世界"}
+{"作者": "[英]尼克•邦克", "url": "https://book.douban.com/subject/27083619/", "评分": "7.1", "书名": "大英帝国的崩溃与美国的诞生"}
+{"作者": "杨奎松", "url": "https://book.douban.com/subject/1280568/", "评分": "8.8", "书名": "毛泽东与莫斯科的恩恩怨怨"}
+{"作者": "刘仲敬", "url": "https://book.douban.com/subject/24829939/", "评分": "7.6", "书名": "民国纪事本末（1911-1949）"}
+{"作者": "叶文心", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.1", "书名": "民国时期大学校园文化"}
+{"作者": "二月河", "url": "https://book.douban.com/subject/1062455/", "评分": "8.4", "书名": "康熙大帝（共四册）"}
+{"作者": "尤凤伟", "url": "https://book.douban.com/subject/1021677/", "评分": "8.9", "书名": "中国一九五七"}
+{"作者": "姚念慈", "url": "https://book.douban.com/subject/26593679/", "评分": "8.3", "书名": "康熙盛世与帝王心术"}
+{"作者": "韦力", "url": "https://book.douban.com/subject/1676580/", "评分": "8.3", "书名": "书楼觅踪"}
+{"作者": "[美] 裴士鋒", "url": "https://book.douban.com/subject/26574388/", "评分": "7.8", "书名": "湖南人与现代中国"}
+{"作者": "阿瑟·赫尔曼", "url": "https://book.douban.com/subject/26919543/", "评分": "8.9", "书名": "甘地与丘吉尔"}
+{"作者": "富兰克林·罗斯福", "url": "https://book.douban.com/subject/3875804/", "评分": "7.0", "书名": "罗斯福炉边谈话"}
+{"作者": "高晓松", "url": "https://book.douban.com/subject/26977202/", "评分": "7.9", "书名": "晓松奇谈·人文卷"}
+{"作者": "钱莉芳", "url": "https://book.douban.com/subject/1161852/", "评分": "8.2", "书名": "天意"}
+{"作者": "（美）罗兰・斯特龙伯格", "url": "https://book.douban.com/subject/1024785/", "评分": "9.1", "书名": "西方现代思想史"}
+{"作者": "亨利·基辛格 (Henry Kissinger)", "url": "https://book.douban.com/subject/26435040/", "评分": "8.3", "书名": "世界秩序"}
+{"作者": "[美]入江昭", "url": "https://book.douban.com/subject/26663098/", "评分": "8.3", "书名": "第二次世界大战在亚洲及太平洋的起源"}
+{"作者": "袁珂", "url": "https://book.douban.com/subject/2117496/", "评分": "8.4", "书名": "中国神话史"}
+{"作者": "[美] 金安平", "url": "https://book.douban.com/subject/2341866/", "评分": "8.1", "书名": "合肥四姊妹"}
+{"作者": "[日] 盐野七生", "url": "https://book.douban.com/subject/26646578/", "评分": "8.1", "书名": "文艺复兴的故事02：我的朋友马基雅维利——佛罗伦萨的兴亡"}
+{"作者": "沈艾娣 (Henrietta Harrison)", "url": "https://book.douban.com/subject/25498796/", "评分": "8.4", "书名": "梦醒子"}
+{"作者": "埃里克•方纳", "url": "https://book.douban.com/subject/26975984/", "评分": "7.9", "书名": "自由之路"}
+{"作者": "孟森", "url": "https://book.douban.com/subject/1825043/", "评分": "8.9", "书名": "明史讲义"}
+{"作者": "南怀瑾", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.5", "书名": "历史的经验"}
+{"作者": "菲利普·李·拉尔夫、罗伯特·E.勒纳、斯坦迪什·米查姆、爱德华·伯恩斯", "url": "https://book.douban.com/subject/1157383/", "评分": "8.5", "书名": "世界文明史"}
+{"作者": "[美] 史景迁", "url": "https://book.douban.com/subject/1400165/", "评分": "7.4", "书名": "利玛窦的记忆之宫"}
+{"作者": "[美]罗恩·彻诺(Ron Chernow)", "url": "https://book.douban.com/subject/25844463/", "评分": "8.8", "书名": "摩根财团"}
+{"作者": "[美] 托马斯·巴菲尔德", "url": "https://book.douban.com/subject/6756124/", "评分": "8.6", "书名": "危险的边疆"}
+{"作者": "[英]艾伦·麦克法兰", "url": "https://book.douban.com/subject/3158094/", "评分": "8.8", "书名": "英国个人主义的起源"}
+{"作者": "吕迅", "url": "https://book.douban.com/subject/26413582/", "评分": "9.0", "书名": "大棋局中的国共关系"}
+{"作者": "李宗仁 口述、唐德刚 撰写", "url": "https://book.douban.com/subject/1450065/", "评分": "8.4", "书名": "李宗仁回忆录（上下）"}
+{"作者": "[英] F. W. 梅特兰", "url": "https://book.douban.com/subject/5375977/", "评分": "9.0", "书名": "英格兰宪政史"}
+{"作者": "张鸣", "url": "https://book.douban.com/subject/5416832/", "评分": "7.6", "书名": "辛亥：摇晃的中国"}
+{"作者": "[英国] 以赛亚·伯林", "url": "https://book.douban.com/subject/4212276/", "评分": "8.5", "书名": "苏联的心灵"}
+{"作者": "谢友祥", "url": "https://book.douban.com/subject/26901311/", "评分": "8.5", "书名": "血日苍茫"}
+{"作者": "陈寅恪", "url": "https://book.douban.com/subject/3168449/", "评分": "9.6", "书名": "唐代政治史略稿"}
+{"作者": "罗志田", "url": "https://book.douban.com/subject/25789370/", "评分": "8.8", "书名": "权势转移"}
+{"作者": "[美] 托尼·朱特（Tony Judt）", "url": "https://book.douban.com/subject/26556039/", "评分": "8.4", "书名": "未竟的往昔"}
+{"作者": "[英] A.S.拜厄特", "url": "https://book.douban.com/subject/26590893/", "评分": "8.4", "书名": "论历史与故事"}
+{"作者": "徐坚", "url": "https://book.douban.com/subject/26918957/", "评分": "8.9", "书名": "名山"}
+{"作者": "李开元", "url": "https://book.douban.com/subject/26368072/", "评分": "7.9", "书名": "楚亡"}
+{"作者": "&lt;美&gt;杰克.贝尔登", "url": "https://book.douban.com/subject/3219109/", "评分": "8.9", "书名": "中国震撼世界"}
+{"作者": "马伯庸", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "7.8", "书名": "三国配角演义"}
+{"作者": "易中天", "url": "https://book.douban.com/subject/1829836/", "评分": "7.7", "书名": "品三国（上）"}
+{"作者": "陈勤", "url": "https://book.douban.com/subject/26915210/", "评分": "7.7", "书名": "简明美国史"}
+{"作者": "[德] 于尔根·奥斯特哈默", "url": "https://book.douban.com/subject/27060604/", "评分": "7.7", "书名": "中国革命"}
+{"作者": "[美] 约翰·刘易斯·加迪斯", "url": "https://book.douban.com/subject/24737213/", "评分": "8.0", "书名": "冷战"}
+{"作者": "陆季翔 编绘", "url": "https://book.douban.com/subject/3998143/", "评分": "9.9", "书名": "中国古代史概要一览图"}
+{"作者": "柯林武德", "url": "https://book.douban.com/subject/1020537/", "评分": "8.7", "书名": "历史的观念"}
+{"作者": "陈秉安", "url": "https://book.douban.com/subject/5253517/", "评分": "8.1", "书名": "大逃港"}
+{"作者": "李长之", "url": "https://book.douban.com/subject/2215698/", "评分": "8.5", "书名": "司马迁之人格与风格"}
+{"作者": "[英] 朱利安·S.科贝特 (Julian S. Corbett)", "url": "https://book.douban.com/subject/26751986/", "评分": "8.4", "书名": "特拉法尔加战役"}
+{"作者": "[澳] 彼得·哈里森", "url": "https://book.douban.com/subject/26890706/", "评分": "9.2", "书名": "科学与宗教的领地"}
+{"作者": "葛兆光", "url": "https://book.douban.com/subject/1022232/", "评分": "8.6", "书名": "中国思想史（全三册）"}
+{"作者": "李开元", "url": "https://book.douban.com/subject/1559571/", "评分": "8.3", "书名": "汉帝国的建立与刘邦集团"}
+{"作者": "(日）原百代", "url": "https://book.douban.com/subject/1782150/", "评分": "8.6", "书名": "武则天"}
+{"作者": "刘小川", "url": "https://book.douban.com/subject/3074760/", "评分": "8.2", "书名": "品中国文人1"}
+{"作者": "朱涛", "url": "https://book.douban.com/subject/25806352/", "评分": "8.4", "书名": "梁思成与他的时代"}
+{"作者": "[加] 卜正民", "url": "https://book.douban.com/subject/26838266/", "评分": "8.4", "书名": "哈佛中国史05•挣扎的帝国：元与明"}
+{"作者": "刘杰、赖晓东", "url": "https://book.douban.com/subject/27047831/", "评分": "8.1", "书名": "茶战：东方树叶的史诗"}
+{"作者": "赵永春", "url": "https://book.douban.com/subject/27089623/", "评分": "8.9", "书名": "奉使辽金行程录"}
+{"作者": "赵絪", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "7.8", "书名": "孤灯下的记忆"}
+{"作者": "来俊臣", "url": "https://book.douban.com/subject/1066957/", "评分": "8.1", "书名": "罗织经"}
+{"作者": "(英国)保罗•约翰逊", "url": "https://book.douban.com/subject/4218900/", "评分": "8.9", "书名": "美国人的历史"}
+{"作者": "[美]道格拉斯·诺斯、罗伯特·托马斯", "url": "https://book.douban.com/subject/4187474/", "评分": "8.4", "书名": "西方世界的兴起"}
+{"作者": "周密", "url": "https://book.douban.com/subject/2280983/", "评分": "8.4", "书名": "武林旧事"}
+{"作者": "孔祥吉", "url": "https://book.douban.com/subject/27044256/", "评分": "8.6", "书名": "惊雷十年梦未醒"}
+{"作者": "许倬云", "url": "https://book.douban.com/subject/1796672/", "评分": "8.3", "书名": "万古江河"}
+{"作者": "[美]查尔斯·比尔德、玛丽·比尔德", "url": "https://book.douban.com/subject/4736004/", "评分": "8.9", "书名": "美国文明的兴起（上下）"}
+{"作者": "(美)史景迁", "url": "https://book.douban.com/subject/6750187/", "评分": "7.6", "书名": "王氏之死"}
+{"作者": "赵省伟、李小玉  编译", "url": "https://book.douban.com/subject/26694664/", "评分": "7.9", "书名": "遗失在西方的中国史"}
+{"作者": "樊树志", "url": "https://book.douban.com/subject/26583162/", "评分": "7.4", "书名": "晚明大变局"}
+{"作者": "[美]玛丽莲·约翰逊", "url": "https://book.douban.com/subject/26692643/", "评分": "7.6", "书名": "与废墟为伴"}
+{"作者": "李洁非", "url": "https://book.douban.com/subject/24858161/", "评分": "8.5", "书名": "野哭"}
+{"作者": "王明珂", "url": "https://book.douban.com/subject/3094349/", "评分": "8.7", "书名": "羌在汉藏之间"}
+{"作者": "[英] 贡布里希 (Sir E.H.Gombrich)", "url": "https://book.douban.com/subject/3162991/", "评分": "9.6", "书名": "艺术的故事"}
+{"作者": "R.麦克法奈尔（编）、费正清（编）", "url": "https://book.douban.com/subject/1005047/", "评分": "8.7", "书名": "剑桥中华人民共和国史（上卷）"}
+{"作者": "陈苏镇", "url": "https://book.douban.com/subject/6854982/", "评分": "9.1", "书名": "《春秋》与“汉道”"}
+{"作者": "李伯重", "url": "https://book.douban.com/subject/26909876/", "评分": "7.4", "书名": "火枪与账簿"}
+{"作者": "Peter C. Perdue", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "9.0", "书名": "China Marches West"}
+{"作者": "余戈", "url": "https://book.douban.com/subject/25885817/", "评分": "8.5", "书名": "1944：腾冲之围"}
+{"作者": "[法]马克·布洛赫", "url": "https://book.douban.com/subject/1830012/", "评分": "8.8", "书名": "为历史学辩护"}
+{"作者": "雅各布·布克哈特", "url": "https://book.douban.com/subject/3288544/", "评分": "8.7", "书名": "希腊人和希腊文明"}
+{"作者": "周达觀", "url": "https://book.douban.com/subject/1095834/", "评分": "8.6", "书名": "真腊风土记校注"}
+{"作者": "[乌拉圭]爱德华多·加莱亚诺", "url": "https://book.douban.com/subject/19978001/", "评分": "8.1", "书名": "镜子"}
+{"作者": "钱端升、王造时、杨兆龙、楼邦彦、王铁崖、谢怀轼、吴文翰、陈体强、杨玉清、吴家麟、林希翎、钱熙光、杨鹏、张映南", "url": "https://book.douban.com/subject/3216960/", "评分": "9.1", "书名": "政法界右派分子谬论汇集"}
+{"作者": "[美] 史景迁", "url": "https://book.douban.com/subject/6015870/", "评分": "8.1", "书名": "雍正王朝之大义觉迷"}
+{"作者": "石田干之助", "url": "https://book.douban.com/subject/26608142/", "评分": "8.1", "书名": "长安之春"}
+{"作者": "陈存仁", "url": "https://book.douban.com/subject/2128063/", "评分": "8.3", "书名": "抗战时代生活史"}
+{"作者": "廖信忠", "url": "https://book.douban.com/subject/26215044/", "评分": "7.3", "书名": "我们台湾这些年2"}
+{"作者": "山冈庄八", "url": "https://book.douban.com/subject/11232975/", "评分": "8.7", "书名": "德川家康全集（套装全13册）"}
+{"作者": "司马香", "url": "https://book.douban.com/subject/26943411/", "评分": "9.3", "书名": "野马尘埃"}
+{"作者": "威廉·N·戈兹曼、K·哥特·罗文霍斯特", "url": "https://book.douban.com/subject/4882119/", "评分": "8.3", "书名": "价值起源"}
+{"作者": "杨奎松", "url": "https://book.douban.com/subject/10453793/", "评分": "8.7", "书名": "谈往阅今"}
+{"作者": "森村诚一", "url": "https://book.douban.com/subject/1530882/", "评分": "9.0", "书名": "恶魔的饱食"}
+{"作者": "司马迁[西汉]、班固[东汉]、范晔[南朝]、陈寿[西晋]、房玄龄[唐]、梁沈约[南朝]、梁萧子显[南朝]、姚思廉[唐]、魏收[北齐]、李百药[唐]、令狐德棻[唐]、魏征[唐]、李延寿[唐]、刘昫等[后晋]、欧阳修、宋祁[宋]、薛居正[宋]、脱脱[元]、宋濂[明]、张廷玉[清]", "url": "https://book.douban.com/subject/1597252/", "评分": "9.2", "书名": "二十四史全译1-88"}
+{"作者": "曾小萍", "url": "https://book.douban.com/subject/1279947/", "评分": "8.7", "书名": "州县官的银两"}
+{"作者": "鲍鹏山", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.7", "书名": "风流去"}
+{"作者": "岱峻", "url": "https://book.douban.com/subject/27032575/", "评分": "9.3", "书名": "弦诵复骊歌"}
+{"作者": "徐俊 主编、严晓星 执行主编", "url": "https://book.douban.com/subject/26820250/", "评分": "8.0", "书名": "掌故（第一集）"}
+{"作者": "钱穆", "url": "https://book.douban.com/subject/1022938/", "评分": "8.4", "书名": "中国历史研究法"}
+{"作者": "戈尔德施密特、戴维森", "url": "https://book.douban.com/subject/5350226/", "评分": "8.4", "书名": "中东史"}
+{"作者": "（美）伊曼纽尔・沃勒斯坦", "url": "https://book.douban.com/subject/1017064/", "评分": "8.5", "书名": "现代世界体系(第一卷)"}
+{"作者": "Tamim Ansary", "url": "https://book.douban.com/subject/5453877/", "评分": "8.5", "书名": "Destiny Disrupted"}
+{"作者": "【法】弗洛朗斯·塔马涅", "url": "https://book.douban.com/subject/3729665/", "评分": "8.3", "书名": "欧洲同性恋史"}
+{"作者": "汪兆骞", "url": "https://book.douban.com/subject/27064157/", "评分": "10.0", "书名": "走出晚清"}
+{"作者": "陈徒手", "url": "https://book.douban.com/subject/1043416/", "评分": "8.3", "书名": "人有病  天知否"}
+{"作者": "[德] 费迪南德·冯·李希霍芬", "url": "https://book.douban.com/subject/26836487/", "评分": "8.7", "书名": "李希霍芬中国旅行日记"}
+{"作者": "陈国平", "url": "https://book.douban.com/subject/25903009/", "评分": "9.0", "书名": "光辉岁月"}
+{"作者": "陈徒手", "url": "https://book.douban.com/subject/20556208/", "评分": "7.5", "书名": "故国人民有所思"}
+{"作者": "李峰", "url": "https://book.douban.com/subject/2298352/", "评分": "8.6", "书名": "西周的灭亡"}
+{"作者": "桓宽", "url": "https://book.douban.com/subject/1049686/", "评分": "9.0", "书名": "盐铁论"}
+{"作者": "陈方正", "url": "https://book.douban.com/subject/3410842/", "评分": "8.6", "书名": "继承与叛逆"}
+{"作者": "克里斯滕·利平科特(Kristen Lippincott)、翁贝托·艾柯(Umberto Eco)、贡布里希(E. H. Gombrich)", "url": "https://book.douban.com/subject/4291662/", "评分": "8.5", "书名": "时间的故事"}
+{"作者": "王子今", "url": "https://book.douban.com/subject/26701097/", "评分": "8.7", "书名": "秦汉名物丛考"}
+{"作者": "(奥）弗里德里希·希尔", "url": "https://book.douban.com/subject/1963430/", "评分": "8.7", "书名": "欧洲思想史"}
+{"作者": "刘和平", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.3", "书名": "北平无战事"}
+{"作者": "（德）迪特里希·施万尼茨", "url": "https://book.douban.com/subject/3092871/", "评分": "8.2", "书名": "欧洲：一堂丰富的人文课"}
+{"作者": "[英]哈莉克·科汉斯基", "url": "https://book.douban.com/subject/26646483/", "评分": "8.7", "书名": "不折之鹰"}
+{"作者": "扬之水", "url": "https://book.douban.com/subject/5383582/", "评分": "9.1", "书名": "奢华之色"}
+{"作者": "马伯庸、汗青", "url": "https://book.douban.com/subject/6791427/", "评分": "7.8", "书名": "帝国最后的荣耀"}
+{"作者": "[美] 娜塔莉·泽蒙·戴维斯", "url": "https://book.douban.com/subject/3365386/", "评分": "8.2", "书名": "马丁·盖尔归来"}
+{"作者": "陈寅恪", "url": "https://book.douban.com/subject/1410929/", "评分": "9.3", "书名": "唐代政治史述论稿"}
+{"作者": "[法]儒勒·米什莱", "url": "https://book.douban.com/subject/25892534/", "评分": "8.2", "书名": "女巫"}
+{"作者": "T.E劳伦斯", "url": "https://book.douban.com/subject/1003138/", "评分": "8.9", "书名": "沙漠革命记"}
+{"作者": "朱维毅", "url": "https://book.douban.com/subject/5376976/", "评分": "8.7", "书名": "德意志的另一行泪"}
+{"作者": "谷川道雄", "url": "https://book.douban.com/subject/1071931/", "评分": "8.9", "书名": "隋唐帝国形成史论"}
+{"作者": "钟叔河 主编", "url": "https://book.douban.com/subject/3329210/", "评分": "8.6", "书名": "走向世界丛书（全十册）"}
+{"作者": "许倬云", "url": "https://book.douban.com/subject/24530428/", "评分": "7.6", "书名": "许倬云说历史：台湾四百年"}
+{"作者": "吕思勉", "url": "https://book.douban.com/subject/1446869/", "评分": "8.9", "书名": "隋唐五代史（上下）"}
+{"作者": "张程", "url": "https://book.douban.com/subject/27041945/", "评分": "9.5", "书名": "《黑白大清》"}
+{"作者": "徐珂 编撰", "url": "https://book.douban.com/subject/4293811/", "评分": "9.1", "书名": "清稗类钞（全十三册）"}
+{"作者": "葛兆光 等", "url": "https://book.douban.com/subject/26841150/", "评分": "7.9", "书名": "殊方未远"}
+{"作者": "廖伯源（LIU, Pakyuen）", "url": "https://book.douban.com/subject/26921028/", "评分": "8.8", "书名": "制度与政治"}
+{"作者": "[日]寺地遵", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.8", "书名": "南宋初期政治史研究"}
+{"作者": "[意]洛蕾塔·拿波里奥尼", "url": "https://book.douban.com/subject/26980356/", "评分": "8.7", "书名": "人贩"}
+{"作者": "[德] 约翰·拉贝", "url": "https://book.douban.com/subject/1019945/", "评分": "8.3", "书名": "拉贝日记"}
+{"作者": "严耕望", "url": "https://book.douban.com/subject/25792791/", "评分": "8.9", "书名": "中国政治制度史纲"}
+{"作者": "(日)野岛刚", "url": "https://book.douban.com/subject/25756932/", "评分": "7.5", "书名": "两个故宫的离合"}
+{"作者": "[英]彼得· 伯克", "url": "https://book.douban.com/subject/26882813/", "评分": "7.9", "书名": "知识社会史（上卷）"}
+{"作者": "沈志華", "url": "https://book.douban.com/subject/3127396/", "评分": "9.0", "书名": "中華人民共和國史 第三卷 思考與選擇"}
+{"作者": "大生", "url": "https://book.douban.com/subject/26997164/", "评分": "7.6", "书名": "悬崖边的名士"}
+{"作者": "白云先生", "url": "https://book.douban.com/subject/27038809/", "评分": "7.6", "书名": "世界是红的：看懂中国经济格局的一本书"}
+{"作者": "（英）汤姆·霍兰", "url": "https://book.douban.com/subject/1871632/", "评分": "8.6", "书名": "卢比孔河"}
+{"作者": "中国第二历史档案馆", "url": "https://book.douban.com/subject/1679427/", "评分": "9.5", "书名": "抗日战争正面战场（上中下）"}
+{"作者": "[美]罗伯特·K.迈锡", "url": "https://book.douban.com/subject/25853109/", "评分": "8.6", "书名": "通往权力之路"}
+{"作者": "[澳] 杰克·特纳", "url": "https://book.douban.com/subject/2224566/", "评分": "7.3", "书名": "香料传奇"}
+{"作者": "(日) 气贺泽保规", "url": "https://book.douban.com/subject/10539156/", "评分": "8.3", "书名": "绚烂的世界帝国：隋唐时代"}
+{"作者": "威廉·夏伊勒", "url": "https://book.douban.com/subject/25986829/", "评分": "9.3", "书名": "威廉·夏伊勒的二十世纪之旅"}
+{"作者": "刘浦江", "url": "https://book.douban.com/subject/3161363/", "评分": "9.0", "书名": "松漠之间"}
+{"作者": "金雁、秦晖", "url": "https://book.douban.com/subject/1278268/", "评分": "8.9", "书名": "十年沧桑"}
+{"作者": "河伯", "url": "https://book.douban.com/subject/26911213/", "评分": "7.3", "书名": "寡人很孤独—《资治通鉴》里的权力游戏①（周纪）"}
+{"作者": "James A. Millward", "url": "https://book.douban.com/subject/3189948/", "评分": "8.3", "书名": "Beyond the Pass"}
+{"作者": "李零", "url": "https://book.douban.com/subject/1794583/", "评分": "8.6", "书名": "中国方术正考"}
+{"作者": "王年一", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.0", "书名": "大动乱的年代"}
+{"作者": "周振鹤", "url": "https://book.douban.com/subject/27056341/", "评分": "9.0", "书名": "西汉政区地理"}
+{"作者": "《先生》编写组", "url": "https://book.douban.com/subject/11527058/", "评分": "8.1", "书名": "先生"}
+{"作者": "张学良 口述、唐德刚 撰写", "url": "https://book.douban.com/subject/2142687/", "评分": "7.3", "书名": "张学良口述历史"}
+{"作者": "[美] 刘香成", "url": "https://book.douban.com/subject/6732223/", "评分": "9.2", "书名": "壹玖壹壹"}
+{"作者": "[英] 蒂莫西·C .W. 布莱宁 （Timothy C. W. Blanning）", "url": "https://book.douban.com/subject/26981511/", "评分": "8.3", "书名": "浪漫主义革命"}
+{"作者": "胡素珊 (Suzanne Pepper)", "url": "https://book.douban.com/subject/25904820/", "评分": "7.9", "书名": "中国的内战"}
+{"作者": "宫崎市定", "url": "https://book.douban.com/subject/3056221/", "评分": "9.1", "书名": "九品官人法研究"}
+{"作者": "约翰·托兰", "url": "https://book.douban.com/subject/5033915/", "评分": "8.3", "书名": "希特勒传（上下册）"}
+{"作者": "田余庆", "url": "https://book.douban.com/subject/1046738/", "评分": "8.8", "书名": "拓跋史探"}
+{"作者": "戴晴", "url": "https://book.douban.com/subject/1775389/", "评分": "9.0", "书名": "梁漱溟 王实味 储安平"}
+{"作者": "查尔斯·辛格，E.", "url": "https://book.douban.com/subject/1322206/", "评分": "8.8", "书名": "技术史(Ⅰ-Ⅶ)"}
+{"作者": "【英】迈克·达什", "url": "https://book.douban.com/subject/26361453/", "评分": "7.6", "书名": "郁金香热"}
+{"作者": "梅然", "url": "https://book.douban.com/subject/26766949/", "评分": "9.8", "书名": "德意志帝国的大战略"}
+{"作者": "故宫博物院", "url": "https://book.douban.com/subject/26258175/", "评分": "9.6", "书名": "清宫海错图"}
+{"作者": "沈弘 编译", "url": "https://book.douban.com/subject/25788989/", "评分": "8.1", "书名": "遗失在西方的中国史"}
+{"作者": "萧冬连", "url": "https://book.douban.com/subject/26171466/", "评分": "9.4", "书名": "筚路维艰"}
+{"作者": "(日) 盐野七生", "url": "https://book.douban.com/subject/25857922/", "评分": "8.0", "书名": "罗马灭亡后的地中海世界（上下册）"}
+{"作者": "[英] 玛丽·瑞瑙特", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "8.6", "书名": "天堂之火"}
+{"作者": "胡宝国", "url": "https://book.douban.com/subject/5947457/", "评分": "8.9", "书名": "虚实之间"}
+{"作者": "塔德·舒尔茨", "url": "https://book.douban.com/subject/1578666/", "评分": "9.4", "书名": "“布拉格之春”前后"}
+{"作者": "[美] 罗伯特・E・勒纳、斯坦迪什・米查姆、爱德华・麦克纳尔・伯恩斯", "url": "https://book.douban.com/subject/1413045/", "评分": "8.8", "书名": "西方文明史"}
+{"作者": "章君榖 著、陆京士 校订", "url": "https://book.douban.com/subject/5437424/", "评分": "8.0", "书名": "杜月笙传（上.中.下）"}
+{"作者": "[英]朱利安·巴恩斯", "url": "https://book.douban.com/subject/4191638/", "评分": "8.4", "书名": "10 1/2章世界史"}
+{"作者": "[美] 陆威仪", "url": "https://book.douban.com/subject/26838168/", "评分": "8.0", "书名": "哈佛中国史01•早期中华帝国：秦与汉"}
+{"作者": "石磊 译注", "url": "https://book.douban.com/subject/4090803/", "评分": "8.4", "书名": "商君书"}
+{"作者": "(美) 费尔南德兹-阿迈斯托", "url": "https://book.douban.com/subject/4196798/", "评分": "8.7", "书名": "世界：一部历史"}
+{"作者": "[英] 菲利帕·格里高利", "url": "https://book.douban.com/subject/5283663/", "评分": "8.4", "书名": "另一个波琳家的女孩"}
+{"作者": "顾准", "url": "https://book.douban.com/subject/2025235/", "评分": "9.1", "书名": "顾准文集"}
+{"作者": "[英] 尼尔·弗格森", "url": "https://book.douban.com/subject/7051892/", "评分": "7.8", "书名": "文明"}
+{"作者": "冯尔康", "url": "https://book.douban.com/subject/1034248/", "评分": "8.6", "书名": "雍正传"}
+{"作者": "[日] 竹田勇", "url": "https://book.douban.com/subject/27026909/", "评分": "6.3", "书名": "创造世界史的海盗"}
+{"作者": "董进（撷芳主人）", "url": "https://book.douban.com/subject/5505258/", "评分": "9.3", "书名": "Q版大明衣冠图志"}
+{"作者": "程美宝", "url": "https://book.douban.com/subject/1821224/", "评分": "8.6", "书名": "地域文化与国家认同"}
+{"作者": "（德）郭士立", "url": "https://book.douban.com/subject/27004030/", "评分": "6.8", "书名": "帝国夕阳"}
+{"作者": "李舒", "url": "https://book.douban.com/subject/26848146/", "评分": "7.5", "书名": "民国太太的厨房"}
+{"作者": "[波兰]维托尔德·皮莱茨基", "url": "https://book.douban.com/subject/26667196/", "评分": "8.8", "书名": "奥斯维辛集中营的志愿者"}
+{"作者": "亨利·基辛格", "url": "https://book.douban.com/subject/1036478/", "评分": "8.9", "书名": "大外交"}
+{"作者": "彭信威", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "9.2", "书名": "中国货币史"}
+{"作者": "[美]唐纳德•卡根、史蒂文•奥兹门特、弗兰克•M.特纳", "url": "https://book.douban.com/subject/3723664/", "评分": "9.1", "书名": "西方的遗产"}
+{"作者": "陈宝良", "url": "https://book.douban.com/subject/26908199/", "评分": "8.4", "书名": "明代士大夫的精神世界"}
+{"作者": "杨宽", "url": "https://book.douban.com/subject/1032760/", "评分": "8.8", "书名": "战国史"}
+{"作者": "[美] 易劳逸", "url": "https://book.douban.com/subject/3518433/", "评分": "8.1", "书名": "毁灭的种子"}
+{"作者": "[法] 瓦克", "url": "https://book.douban.com/subject/26696387/", "评分": "7.6", "书名": "拉丁文帝国"}
+{"作者": "雷海宗", "url": "https://book.douban.com/subject/1134086/", "评分": "8.8", "书名": "中国文化与中国的兵"}
+{"作者": "刘仰东 编著", "url": "https://book.douban.com/subject/10509933/", "评分": "7.0", "书名": "去趟民国"}
+{"作者": "(德)托马斯·曼", "url": "https://book.douban.com/subject/10589329/", "评分": "8.1", "书名": "多难而伟大的十九世纪"}
+{"作者": "齐格弗里德·洛卡蒂斯 (Slegfried Lokatis)、英格里德·宗塔格 (Ingrid Sonntag)", "url": "https://book.douban.com/subject/25728153/", "评分": "8.2", "书名": "民主德国的秘密读者"}
+{"作者": "[德] 爱德华·福克斯", "url": "https://book.douban.com/subject/26953608/", "评分": "8.7", "书名": "欧洲漫画史（下卷）"}
+{"作者": "[清] 曾国藩 原著、唐浩明 评点", "url": "https://book.douban.com/subject/1058869/", "评分": "8.9", "书名": "唐浩明评点曾国藩家书（上下）"}
+{"作者": "易中天", "url": "https://book.douban.com/subject/26042406/", "评分": "7.9", "书名": "易中天中华史：三国纪"}
+{"作者": "[美]詹姆斯·米切纳", "url": "https://book.douban.com/subject/26274359/", "评分": "9.1", "书名": "夏威夷史诗"}
+{"作者": "（德）弗里德里希・尼采", "url": "https://book.douban.com/subject/1315167/", "评分": "9.0", "书名": "历史的用途与滥用"}
+{"作者": "刘震云", "url": "https://book.douban.com/subject/3623831/", "评分": "8.1", "书名": "温故一九四二"}
+{"作者": "[美] 刘易斯·芒福德", "url": "https://book.douban.com/subject/3815282/", "评分": "8.8", "书名": "技术与文明"}
+{"作者": "卡罗尔·德林克沃特、凯瑟琳·拉斯基、等", "url": "https://book.douban.com/subject/27045452/", "评分": "8.5", "书名": "日记背后的历史"}
+{"作者": "[日]藤善真澄", "url": "https://img3.doubanio.com/f/book/c562010083631a8b5625ac07bc2a6e7e4466b6f6/css/book/master.css", "评分": "7.8", "书名": "安禄山"}
+{"作者": "[英] 彼得·伯克", "url": "https://book.douban.com/subject/4111675/", "评分": "8.5", "书名": "什么是文化史"}
+{"作者": "[日] 石川祯浩", "url": "https://book.douban.com/subject/26431647/", "评分": "8.4", "书名": "中国近代历史的表与里"}
+{"作者": "陈舜臣", "url": "https://book.douban.com/subject/3335643/", "评分": "8.0", "书名": "中国历史风云录"}
+{"作者": "[美] 史蒂文·约翰逊", "url": "https://book.douban.com/subject/26890863/", "评分": "8.6", "书名": "我们如何走到今天"}
+{"作者": "段宇宏", "url": "https://book.douban.com/subject/26916148/", "评分": "7.8", "书名": "血王冠：玫瑰战争"}
+{"作者": "E. 霍布斯鲍姆、T. 兰格", "url": "https://book.douban.com/subject/1085541/", "评分": "8.2", "书名": "传统的发明"}
+{"作者": "张芝联 刘学荣 主编、杨立文 李文瑾 副主编", "url": "https://book.douban.com/subject/1421333/", "评分": "8.6", "书名": "世界历史地图集"}
+{"作者": "宗泽亚", "url": "https://book.douban.com/subject/10443525/", "评分": "8.6", "书名": "清日战争"}
+{"作者": "吹牛者", "url": "https://book.douban.com/subject/26957420/", "评分": "8.9", "书名": "临高启明"}
+{"作者": "托尼·朱特", "url": "https://book.douban.com/subject/25910855/", "评分": "8.4", "书名": "论欧洲"}
+{"作者": "艾哈迈德·拉希德（Ahmed Rashid）", "url": "https://book.douban.com/subject/26266755/", "评分": "8.0", "书名": "塔利班"}
+{"作者": "巫仁恕", "url": "https://book.douban.com/subject/27087970/", "评分": "8.3", "书名": "劫後「天堂」"}
+{"作者": "约翰·M·巴里", "url": "https://book.douban.com/subject/3435537/", "评分": "8.8", "书名": "大流感"}
+{"作者": "吴天墀", "url": "https://book.douban.com/subject/6781178/", "评分": "7.7", "书名": "吴天墀文史存稿"}
+{"作者": "张作耀", "url": "https://book.douban.com/subject/1011323/", "评分": "8.3", "书名": "曹操传"}
+{"作者": "[英] 西蒙·蒙蒂菲奥里", "url": "https://book.douban.com/subject/26905279/", "评分": "6.8", "书名": "大人物的世界史"}
+{"作者": "江城", "url": "https://book.douban.com/subject/26022213/", "评分": "8.5", "书名": "历史深处的民国 壹 晚清"}
+{"作者": "[美] 陆威仪", "url": "https://book.douban.com/subject/26851895/", "评分": "8.4", "书名": "哈佛中国史02•分裂的帝国：南北朝"}
